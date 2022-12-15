@@ -1,0 +1,33 @@
+# gerber
+gerber/**	
+
+# bom
+bom/**
+
+# 3d
+3d/**
+
+# temp
+temp/**
+
+# export files for BOM
+**/*.csv
+**/*.tsv
+**/*.xml
+**/*.html
+
+# backup files
+**/*.bak
+**/*.orig
+**/*.kicad_pcb-bak
+**/*.zip
+*autosave*
+
+# 3d files
+**/*.FCStd
+
+# dont push cache
+**/fp-info-cache
+**/fp-lib-table
+**/sym-lib-table
+

@@ -1,0 +1,3 @@
+[submodule "tc-kicad-components"]
+	path = tc-kicad-components
+	url = git@thetc.dev:elevate/core/hardware/tc-kicad-components.git
