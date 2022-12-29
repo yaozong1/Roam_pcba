@@ -7831,7 +7831,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 2bc709a0-58c7-4027-bd09-68d5e2408c67)
   )
-  (label "3423_VIN" (at 257.81 110.49 0)
+  (label "3423_VIN" (at 248.92 110.49 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2c4aadd6-1809-4c84-a42e-564ac351b380)
   )
