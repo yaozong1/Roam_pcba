@@ -415,8 +415,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "roam.dsn",
-      "step": "",
-      "vrml": ""
+      "step": "3d/roam-phase-1.step",
+      "vrml": "roam-phase-1.wrl"
     },
     "page_layout_descr_file": ""
   },

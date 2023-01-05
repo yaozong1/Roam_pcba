@@ -58,6 +58,8 @@
       (dielectric_constraints yes)
     )
     (pad_to_mask_clearance 0)
+    (aux_axis_origin 100 145)
+    (grid_origin 100 145)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
       (disableapertmacros false)
@@ -2292,7 +2294,7 @@
   )
 
   (footprint "TC-Connector:MX23A18NF1" (layer "F.Cu")
-    (tedit 0) (tstamp 49d855fb-0a03-41b9-bfd1-374c4e415963)
+    (tedit 63B6A1FD) (tstamp 49d855fb-0a03-41b9-bfd1-374c4e415963)
     (at 110.095552 125 -90)
     (property "MPN" "MX23A18NF2")
     (property "Sheetfile" "roam.kicad_sch")
@@ -2386,7 +2388,7 @@
       (net 202 "unconnected-(J7-Pad17)") (pinfunction "Pin_17") (pintype "passive+no_connect") (tstamp 412a1113-0ffa-45a8-a68e-3cc3b62a057e))
     (pad "18" thru_hole circle (at -20.000001 2.999999 270) (size 1.6002 1.6002) (drill 1.0922) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "Pin_18") (pintype "passive") (tstamp 4b0c8205-f022-46ea-a9d2-6731523275b6))
-    (model "C:/Users/user/Documents/3d/ROAM-motorcycle/connector/K3D-MX23A18NF1-R5-S/K3D-MX23A18NF1-R5 JAE Connector Division Proprietary.STEP"
+    (model "${KIPRJMOD}/tc-kicad-components/3d/TC-Connector/K3D-MX23A18NF1-R5.STEP"
       (offset (xyz -10 -32.8 8.2))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -9146,7 +9148,7 @@
     (zone (net 0) (net_name "") (layer "B.Cu") (tstamp 8607bf26-a589-48ce-923a-b4a498039454) (hatch edge 0.508)
       (connect_pads (clearance 0))
       (min_thickness 0.254)
-      (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
+      (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
@@ -9223,7 +9225,7 @@
     (zone (net 0) (net_name "") (layer "B.Cu") (tstamp 26653474-aefb-4987-af0b-ec18f942cc10) (hatch edge 0.508)
       (connect_pads (clearance 0))
       (min_thickness 0.254)
-      (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
+      (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
@@ -11567,7 +11569,7 @@
   (zone (net 0) (net_name "") (layers "F.Cu" "In1.Cu" "In2.Cu" "B.Cu") (tstamp 3ed24da0-34d3-4771-a94c-d6c8f7afaf24) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
@@ -11581,7 +11583,7 @@
   (zone (net 0) (net_name "") (layers "F.Cu" "In1.Cu" "In2.Cu" "B.Cu") (tstamp 615f8e8e-ff6b-4de6-83ab-ab44cf875024) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
@@ -11595,7 +11597,7 @@
   (zone (net 0) (net_name "") (layers "F.Cu" "In1.Cu" "In2.Cu" "B.Cu") (tstamp 6ab52e7b-53ed-49a2-95ee-b0a753844a49) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
