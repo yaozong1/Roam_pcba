@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32G030K8T6
+D ARM Microcontrollers - MCU
+K
+F https://www.st.com/resource/en/datasheet/stm32g030k8.pdf
+$ENDCMP
+#
+#End Doc Library

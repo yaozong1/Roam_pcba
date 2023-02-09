@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MCP73833-CNI_MF
+#/459216/424245/2.49/11/3/Integrated Circuit
+DEF MCP73833-CNI_MF IC 0 30 Y Y 1 F N
+F0 "IC" 1250 300 50 H V L CNN
+F1 "MCP73833-CNI_MF" 1250 200 50 H V L CNN
+F2 "SON50P300X300X100-11N-D" 1250 100 50 H I L CNN
+F3 "https://www.arrow.com/en/products/mcp73833-cnimf/microchip-technology" 1250 0 50 H I L CNN
+F4 "Microchip MCP73833-CNI/MF, Battery Charge Controller Lithium-Ion, Lithium-Polymer, 10-Pin DFN" 1250 -100 50 H I L CNN "Description"
+F5 "1" 1250 -200 50 H I L CNN "Height"
+F6 "Microchip" 1250 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MCP73833-CNI/MF" 1250 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "579-MCP73833-CNI/MF" 1250 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP73833-CNI-MF?qs=jZi1jxfVU94v6Ad34U2nMA%3D%3D" 1250 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "MCP73833-CNI/MF" 1250 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mcp73833-cnimf/microchip-technology?region=nac" 1250 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 1250 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 1250 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X VDD_1 1 0 0 200 R 50 50 0 0 W
+X VDD_2 2 0 -100 200 R 50 50 0 0 W
+X STAT1 3 0 -200 200 R 50 50 0 0 O
+X STAT2 4 0 -300 200 R 50 50 0 0 O
+X VSS 5 0 -400 200 R 50 50 0 0 W
+X EP 11 700 -900 200 U 50 50 0 0 W
+X VBAT_2 10 1400 0 200 L 50 50 0 0 W
+X VBAT_1 9 1400 -100 200 L 50 50 0 0 W
+X THERM 8 1400 -200 200 L 50 50 0 0 I
+X ~PG~/~TE 7 1400 -300 200 L 50 50 0 0 B
+X PROG 6 1400 -400 200 L 50 50 0 0 I
+P 5 0 1 6 200 100 1200 100 1200 -700 200 -700 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

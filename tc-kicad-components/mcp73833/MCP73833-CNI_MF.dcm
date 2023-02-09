@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP73833-CNI_MF
+D Microchip MCP73833-CNI/MF, Battery Charge Controller Lithium-Ion, Lithium-Polymer, 10-Pin DFN
+K
+F https://www.arrow.com/en/products/mcp73833-cnimf/microchip-technology
+$ENDCMP
+#
+#End Doc Library

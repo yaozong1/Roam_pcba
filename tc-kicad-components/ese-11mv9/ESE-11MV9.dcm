@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESE-11MV9
+D SWITCH DETECTOR SPST-NO 10MA 5V
+K
+F https://www.mouser.it/datasheet/2/315/ATB0000C14-1140933.pdf
+$ENDCMP
+#
+#End Doc Library
