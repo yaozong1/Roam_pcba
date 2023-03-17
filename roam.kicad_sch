@@ -9670,7 +9670,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 051af9e5-c44c-4b1a-aca0-84abff957c29)
   )
-  (text "HOW DOES IT WORK" (at 626.11 38.735 0)
+  (text "HOW DOES IT WORK" (at 627.38 35.56 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0a5e1359-2bf7-48af-9e2e-a04def348ba3)
   )
