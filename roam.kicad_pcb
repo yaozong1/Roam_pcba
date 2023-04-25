@@ -15698,7 +15698,7 @@
   (gr_text "3A" (at 115.3 94.45) (layer "F.Paste") (tstamp 31d0e752-a6e1-4bd0-9fc9-d3aa413537c9)
     (effects (font (size 1.2 1.2) (thickness 0.3)))
   )
-  (gr_text "10 SWDIO\n11 SWCLK\n12 VCU_SWCLK\n13 VCU_SWDIO\n14 TAMP\n15 GPIO_4\n16 GPIO_3\n17 GPIO_2\n18 GND\n\n" (at 116.6 133.9 180) (layer "B.SilkS") (tstamp 06f51d53-3971-49ae-8993-7603594ffa25)
+  (gr_text "10 SWDIO\n11 SWCLK\n12 TAMP\n13 VCU_SWCLK\n14 VCU_SWDIO\n15 GPIO_4\n16 GPIO_3\n17 GPIO_2\n18 GND\n\n" (at 116.6 133.9 180) (layer "B.SilkS") (tstamp 06f51d53-3971-49ae-8993-7603594ffa25)
     (effects (font (size 1 1) (thickness 0.2)) (justify left mirror))
   )
   (gr_text "CELL" (at 138.2 96.6 90) (layer "B.SilkS" knockout) (tstamp 0c885808-9ba3-4294-924c-e1d15e3b81d7)
