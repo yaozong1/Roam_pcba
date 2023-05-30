@@ -64,11 +64,11 @@
       36,
       40
     ],
-    "visible_layers": "00090aa_80000007",
-    "zone_display_mode": 0
+    "visible_layers": "0009088_80000003",
+    "zone_display_mode": 1
   },
   "meta": {
-    "filename": "Untitled.kicad_prl",
+    "filename": "roam.kicad_prl",
     "version": 3
   },
   "project": {
