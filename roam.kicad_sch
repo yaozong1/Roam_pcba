@@ -13290,7 +13290,7 @@
     (property "Value" "W25N512GVEIG" (at 504.19 274.9804 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm" (at 495.3 274.32 0)
+    (property "Footprint" "Package_SON:WSON-8-1EP_8x6mm_P1.27mm_EP3.4x4.3mm" (at 495.3 274.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.winbond.com/resource-files/w25n512gv%20rev%20c%20112118.pdf" (at 495.3 274.32 0)
