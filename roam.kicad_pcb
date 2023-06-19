@@ -15095,11 +15095,11 @@
     (property "ki_keywords" "symbol logo magnetic field warning")
     (path "/91a67522-2965-4d5c-b200-7d04c559f9bf")
     (attr through_hole exclude_from_bom)
-    (fp_text reference "TCLOGO2" (at 0 0) (layer "Rescue") hide
+    (fp_text reference "TCLOGO2" (at 0 0) (layer "F.Fab") hide
         (effects (font (size 1.524 1.524) (thickness 0.3)))
       (tstamp d871782b-f208-4693-aabf-35534e1cc820)
     )
-    (fp_text value "SYM_Magnet_Large" (at 0.75 0) (layer "Rescue") hide
+    (fp_text value "SYM_Magnet_Large" (at 0.75 0) (layer "F.Fab") hide
         (effects (font (size 1.524 1.524) (thickness 0.3)))
       (tstamp 2717f586-187a-4710-9b1d-b70f663ed0ba)
     )
