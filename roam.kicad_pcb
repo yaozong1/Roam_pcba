@@ -61,7 +61,7 @@
     (aux_axis_origin 100 145)
     (grid_origin 185 107.25)
     (pcbplotparams
-      (layerselection 0x00010fc_ffffffff)
+      (layerselection 0x000d0fc_ffffffff)
       (plot_on_all_layers_selection 0x0000000_00000000)
       (disableapertmacros false)
       (usegerberextensions false)
@@ -92,7 +92,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "gerber/")
+      (outputdirectory "../gerber_Roam_p7/")
     )
   )
 
@@ -15766,9 +15766,9 @@
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp e857ec03-476b-4a8d-a6f2-59668314d332))
     (fp_line (start 1 0.625) (end 1 -0.625)
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp 7f849222-f56c-4068-aa24-469b587dd8f6))
-    (pad "1" smd roundrect (at -0.9125 0) (size 1.025 1.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.243902)
+    (pad "1" smd roundrect (at -0.9125 0) (size 1.025 1.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.243902439)
       (net 225 "/GPIO_5") (pintype "passive") (tstamp deab573d-ebcd-46f4-b78c-5612204a274c))
-    (pad "2" smd roundrect (at 0.9125 0) (size 1.025 1.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.243902)
+    (pad "2" smd roundrect (at 0.9125 0) (size 1.025 1.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.243902439)
       (net 237 "Net-(R64-Pad2)") (pintype "passive") (tstamp 567c15bd-eafc-4e51-8e56-46573f97491e))
     (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
@@ -16267,7 +16267,7 @@
     (effects (font (size 0.7 0.7) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "ROAM P7" (at 178.36 135.2) (layer "F.SilkS") (tstamp bc6b224a-cd02-4bf8-a9d6-77f8cebcb457)
-    (effects (font (size 0.7 0.7) (thickness 0.15) bold) (justify left bottom))
+    (effects (font (size 0.8 0.8) (thickness 0.15) bold) (justify left bottom))
   )
   (gr_text "ANT LED" (at 144.1 114.85 90) (layer "F.SilkS") (tstamp bf407cac-f033-4ad3-8c3d-0325c99074f3)
     (effects (font (size 0.7 0.7) (thickness 0.12) bold) (justify left bottom))

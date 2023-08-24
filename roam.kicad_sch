@@ -21700,7 +21700,7 @@
     (property "Datasheet" "https://optoelectronics.liteon.com/upload/download/DS70-2009-0014/LTV-2X7%20sereis%20Mar17.PDF" (at 54.61 486.41 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "MPN" "LTV-217-G" (at 58.42 467.36 0)
+    (property "MPN" "LTV-217-TP1-C-G" (at 58.42 467.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Description" "OPTOISOLATOR 3.75KV TRANS 4-SSOP" (at 58.42 469.9 0)
