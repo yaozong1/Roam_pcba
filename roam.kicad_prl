@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 38,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -64,8 +64,8 @@
       36,
       40
     ],
-    "visible_layers": "000f070_80000007",
-    "zone_display_mode": 0
+    "visible_layers": "000a428_80000000",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "roam.kicad_prl",
