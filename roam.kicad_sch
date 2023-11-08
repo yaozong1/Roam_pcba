@@ -19382,6 +19382,33 @@
     )
   )
 
+  (symbol (lib_id "Graphic:SYM_Magnet_Large") (at 784.86 477.52 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid b0414e4e-113e-4da5-90da-7568cc95d0fa)
+    (property "Reference" "RoHs_LOGO1" (at 784.86 473.71 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "SYM_Magnet_Large" (at 784.86 483.87 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "TC-Logo:RoHs-LOGO" (at 784.86 482.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 785.622 482.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Enable" "0" (at 784.86 477.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "roam"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+          (reference "RoHs_LOGO1") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Connector:TestPoint") (at 755.65 302.26 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b04ecc79-66dc-48a1-ae19-c4dbfed9c93b)
@@ -19859,6 +19886,33 @@
       (project "roam"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "R12") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Graphic:SYM_Magnet_Large") (at 801.37 464.82 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid ba8ae7c0-d0e9-407b-8a97-56f8cda16f99)
+    (property "Reference" "Anti-static1" (at 801.37 461.01 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "SYM_Magnet_Large" (at 801.37 471.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "Symbol:ESD-Logo_6.6x6mm_SilkScreen" (at 801.37 469.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 802.132 469.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Enable" "0" (at 801.37 464.82 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "roam"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+          (reference "Anti-static1") (unit 1)
         )
       )
     )
@@ -22072,6 +22126,33 @@
       (project "roam"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "D26") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Graphic:SYM_Magnet_Large") (at 784.86 464.82 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid ecce4f4d-ee82-4c66-bc2d-984369eb107f)
+    (property "Reference" "CE_LOGO1" (at 784.86 461.01 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "SYM_Magnet_Large" (at 784.86 471.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "TC-Logo:CE_LOGO" (at 784.86 469.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 785.622 469.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Enable" "0" (at 784.86 464.82 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "roam"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+          (reference "CE_LOGO1") (unit 1)
         )
       )
     )
