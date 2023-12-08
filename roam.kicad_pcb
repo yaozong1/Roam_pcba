@@ -61,8 +61,8 @@
     (aux_axis_origin 100 145)
     (grid_origin 185 0)
     (pcbplotparams
-      (layerselection 0x0004000_7ffffff8)
-      (plot_on_all_layers_selection 0x0000010_00000000)
+      (layerselection 0x0008000_7ffffff8)
+      (plot_on_all_layers_selection 0x0000020_00000000)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
@@ -19515,6 +19515,22 @@
     (stroke (width 0.2) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 45d59ce9-d26e-4a10-8262-ede59ec8a91c))
   (gr_poly
     (pts
+      (xy 138.605 107.93)
+      (xy 138.055 107.93)
+      (xy 138.33 107.605)
+    )
+
+    (stroke (width 0.2) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 48bb4189-d67f-446c-9b73-b96f28e0d744))
+  (gr_poly
+    (pts
+      (xy 144.125 107.91)
+      (xy 143.575 107.91)
+      (xy 143.85 107.585)
+    )
+
+    (stroke (width 0.2) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 50db467e-3e4e-4502-835b-06c7541f4377))
+  (gr_poly
+    (pts
       (xy 152.5 96.2)
       (xy 152.5 97.2)
       (xy 152 96.7)
@@ -19575,6 +19591,14 @@
     (stroke (width 0.2) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 7864d704-86a0-47fb-8939-ade691f42ad2))
   (gr_poly
     (pts
+      (xy 141.345 107.91)
+      (xy 140.795 107.91)
+      (xy 141.07 107.585)
+    )
+
+    (stroke (width 0.2) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 7ab65492-2681-43f1-aa08-4d099ab346cf))
+  (gr_poly
+    (pts
       (xy 129.240588 100.277647)
       (xy 129.940588 100.277647)
       (xy 129.590588 100.577647)
@@ -19583,6 +19607,14 @@
     (stroke (width 0.2) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 831f65d3-9446-45a9-841b-a8d6133404c2))
   (gr_line (start 121.7325 100.76) (end 122.2675 100.76)
     (stroke (width 0.2) (type default)) (layer "F.SilkS") (tstamp 855da639-a619-468b-9f81-9cd2c80e558a))
+  (gr_poly
+    (pts
+      (xy 135.825 107.945)
+      (xy 135.275 107.945)
+      (xy 135.55 107.62)
+    )
+
+    (stroke (width 0.2) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 875bbc8d-9e91-4830-b25b-552b07943c82))
   (gr_poly
     (pts
       (xy 169.15 135.65)
