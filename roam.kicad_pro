@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.19999999999999998
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -117,7 +117,7 @@
         "min_clearance": 0.09,
         "min_connection": 0.15,
         "min_copper_edge_clearance": 0.19999999999999998,
-        "min_hole_clearance": 0.15,
+        "min_hole_clearance": 0.12,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
@@ -437,7 +437,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.17,
+        "clearance": 0.1,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
