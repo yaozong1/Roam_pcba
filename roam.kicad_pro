@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.0
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -181,8 +181,8 @@
         0.16,
         0.2,
         0.25,
+        0.3,
         0.3294,
-        0.35,
         0.4,
         0.5,
         0.6,
@@ -438,7 +438,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.17,
+        "clearance": 0.16,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -448,9 +448,9 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.15,
-        "via_diameter": 0.2,
-        "via_drill": 0.3,
+        "track_width": 0.16,
+        "via_diameter": 0.35,
+        "via_drill": 0.2,
         "wire_width": 6
       },
       {
@@ -462,12 +462,63 @@
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
-        "name": "+100V",
+        "name": "60VIN",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 1.0,
         "via_diameter": 1.5,
         "via_drill": 0.7,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.4,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Hpower",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.4,
+        "via_diameter": 0.7,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Lpower",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3,
+        "via_diameter": 0.5,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.4,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "VBAT",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.5,
+        "via_diameter": 0.7,
+        "via_drill": 0.3,
         "wire_width": 6
       }
     ],
@@ -478,8 +529,60 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "+100V",
-        "pattern": "+100V"
+        "netclass": "60VIN",
+        "pattern": "60VIN"
+      },
+      {
+        "netclass": "VBAT",
+        "pattern": "VBAT"
+      },
+      {
+        "netclass": "Lpower",
+        "pattern": "3V3_ALWAYS_ON"
+      },
+      {
+        "netclass": "Hpower",
+        "pattern": "5V0"
+      },
+      {
+        "netclass": "Hpower",
+        "pattern": "4V7_BOOST"
+      },
+      {
+        "netclass": "Hpower",
+        "pattern": "4V0"
+      },
+      {
+        "netclass": "Lpower",
+        "pattern": "1V8"
+      },
+      {
+        "netclass": "Lpower",
+        "pattern": "2V8"
+      },
+      {
+        "netclass": "60VIN",
+        "pattern": "+60V_IN"
+      },
+      {
+        "netclass": "Hpower",
+        "pattern": "/3423_SW"
+      },
+      {
+        "netclass": "Lpower",
+        "pattern": "VCC_LC29"
+      },
+      {
+        "netclass": "Lpower",
+        "pattern": "V_BCKP_LC29"
+      },
+      {
+        "netclass": "Hpower",
+        "pattern": "5V0_BUCK"
+      },
+      {
+        "netclass": "Hpower",
+        "pattern": "VDD_RF_LC29"
       }
     ]
   },

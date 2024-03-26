@@ -5135,11 +5135,11 @@
         )
       )
     )
-    (symbol "TC-Power:+100V" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (symbol "TC-Power:+60V_IN" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -3.81 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Value" "+100V" (at 0 3.556 0)
+      (property "Value" "+60V_IN" (at 0 3.556 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (at 0 0 0)
@@ -5154,7 +5154,7 @@
       (property "ki_description" "Power symbol creates a global label with name \"+48V\"" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "+100V_0_1"
+      (symbol "+60V_IN_0_1"
         (polyline
           (pts
             (xy -0.762 1.27)
@@ -5180,9 +5180,9 @@
           (fill (type none))
         )
       )
-      (symbol "+100V_1_1"
+      (symbol "+60V_IN_1_1"
         (pin power_in line (at 0 0 90) (length 0) hide
-          (name "+100V" (effects (font (size 1.27 1.27))))
+          (name "+60V_IN" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
       )
@@ -13584,10 +13584,6 @@
     (stroke (width 0) (type default))
     (uuid f82cf533-1ab5-4cf7-adf3-339aa3dca3bc)
   )
-  (wire (pts (xy 332.74 30.48) (xy 332.74 31.75))
-    (stroke (width 0) (type default))
-    (uuid f85e53a5-9816-4403-8fcb-b175050c6ad0)
-  )
   (wire (pts (xy 45.72 322.58) (xy 55.88 322.58))
     (stroke (width 0) (type default))
     (uuid f8828a21-5e8c-4965-ba71-c64140a3d2fb)
@@ -18941,6 +18937,31 @@
     )
   )
 
+  (symbol (lib_id "TC-Power:+60V_IN") (at 38.1 347.98 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 4431f655-b83e-42fc-bdb9-1ccc025f24f8)
+    (property "Reference" "#PWR014" (at 38.1 351.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+60V_IN" (at 38.1 342.9 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 38.1 347.98 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 38.1 347.98 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 11d36a8e-e1ca-4e64-9554-ab0be621edb0))
+    (instances
+      (project "roam"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+          (reference "#PWR014") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:C_Small") (at 631.19 543.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4436852e-ef10-48e4-b658-ebc59805470e)
@@ -19744,6 +19765,31 @@
     )
   )
 
+  (symbol (lib_id "TC-Power:+60V_IN") (at 92.71 105.41 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 52c9304e-03ff-4650-9c85-42c1cde8118d)
+    (property "Reference" "#PWR093" (at 92.71 109.22 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+60V_IN" (at 92.71 100.33 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 92.71 105.41 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 92.71 105.41 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4215ae4c-3bb0-4540-8490-1d180bd5bced))
+    (instances
+      (project "roam"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+          (reference "#PWR093") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 330.2 515.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 535a1913-f18b-408f-a641-f3cc50f1b62c)
@@ -19995,31 +20041,6 @@
       (project "roam"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "D4") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "TC-Power:+100V") (at 38.1 347.98 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 583243d5-86da-45a7-b0bf-57c54783603a)
-    (property "Reference" "#PWR0135" (at 38.1 351.79 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+60V" (at 38.1 344.17 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 38.1 347.98 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 38.1 347.98 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 7e696575-dfde-4852-bd75-600f5b95a361))
-    (instances
-      (project "roam"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-          (reference "#PWR0135") (unit 1)
         )
       )
     )
@@ -24732,31 +24753,6 @@
     )
   )
 
-  (symbol (lib_id "TC-Power:+100V") (at 19.05 24.13 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid a5d77443-9858-4f14-a421-4725daa17e14)
-    (property "Reference" "#PWR0145" (at 19.05 27.94 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+100V" (at 19.05 19.05 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 19.05 24.13 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 19.05 24.13 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid e119a55e-f15c-46b1-9578-c5f4d91717ac))
-    (instances
-      (project "roam"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-          (reference "#PWR0145") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Device:C") (at 678.18 492.76 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a6da3f08-e72c-45f5-968c-102bdd0baa28)
@@ -27539,6 +27535,31 @@
     )
   )
 
+  (symbol (lib_id "TC-Power:+60V_IN") (at 19.05 24.13 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid d5c5be93-ee0a-4eef-b0a7-afa2cf9f7504)
+    (property "Reference" "#PWR092" (at 19.05 27.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+60V_IN" (at 19.05 19.05 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 19.05 24.13 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 19.05 24.13 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 3e137e7b-cc72-495b-aa25-97d499434de7))
+    (instances
+      (project "roam"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+          (reference "#PWR092") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:C") (at 264.16 119.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d602afa1-e886-4aff-9007-bfabad326e71)
@@ -29691,31 +29712,6 @@
       (project "roam"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "C52") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "TC-Power:+100V") (at 92.71 105.41 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid fd68ea83-8b30-4529-836c-15fe38fcef9a)
-    (property "Reference" "#PWR014" (at 92.71 109.22 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+60V" (at 92.71 100.33 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 92.71 105.41 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 92.71 105.41 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 0d7bb9b4-fcda-4d06-9b39-65d67b1dd9ef))
-    (instances
-      (project "roam"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-          (reference "#PWR014") (unit 1)
         )
       )
     )
