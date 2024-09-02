@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STWD100YNYWY3F
+D Watchdog timer circuit
+K
+F https://www.st.com/resource/en/datasheet/stwd100.pdf
+$ENDCMP
+#
+#End Doc Library

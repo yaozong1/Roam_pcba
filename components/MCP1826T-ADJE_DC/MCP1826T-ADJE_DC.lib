@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MCP1826T-ADJE_DC
+#/159022/424245/2.50/6/3/Integrated Circuit
+DEF MCP1826T-ADJE_DC IC 0 30 Y Y 1 F N
+F0 "IC" 1450 300 50 H V L CNN
+F1 "MCP1826T-ADJE_DC" 1450 200 50 H V L CNN
+F2 "SOT127P706X180-6N" 1450 100 50 H I L CNN
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/22057B.pdf" 1450 0 50 H I L CNN
+F4 "LDO Regulator 1A Adj. PG SOT223-5 MCP1826T-ADJE/DC, Low Dropout Voltage Regulator, Adjustable 1A, 0.8  5 V +/-0.5%, 6-Pin SOT-223" 1450 -100 50 H I L CNN "Description"
+F5 "1.8" 1450 -200 50 H I L CNN "Height"
+F6 "Microchip" 1450 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MCP1826T-ADJE/DC" 1450 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "579-MCP1826T-ADJE/DC" 1450 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP1826T-ADJE-DC?qs=php1hWwkCL6uawP5y4mQmA%3D%3D" 1450 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "MCP1826T-ADJE/DC" 1450 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mcp1826t-adjedc/microchip-technology?region=nac" 1450 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~SHDN 1 0 0 200 R 50 50 0 0 P
+X VIN 2 0 -100 200 R 50 50 0 0 P
+X GND_(TAB) 3 0 -200 200 R 50 50 0 0 P
+X VOUT 4 0 -300 200 R 50 50 0 0 P
+X PWRGD 5 0 -400 200 R 50 50 0 0 P
+X GND(TAB) 6 1600 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1400 100 1400 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
