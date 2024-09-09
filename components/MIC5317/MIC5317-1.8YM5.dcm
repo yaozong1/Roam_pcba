@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC5317-1.8YM5
+D Linear Voltage Regulator IC Positive Fixed 1 Output 150mA SOT-23-5
+K
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MIC5317-High-Performance-Single-150mA-LDO-DS20006195B.pdf
+$ENDCMP
+#
+#End Doc Library
