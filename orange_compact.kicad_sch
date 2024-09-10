@@ -14842,12 +14842,6 @@
 		(uuid "b3940923-b612-4d8c-8cd5-e742006d7dcd")
 	)
 	(junction
-		(at 716.915 391.795)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b51ae822-d1f0-4290-92da-e494a7d0fc31")
-	)
-	(junction
 		(at 139.065 405.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -16070,16 +16064,6 @@
 			(type dash)
 		)
 		(uuid "0edb2eee-8082-40ff-834d-e801cd61288a")
-	)
-	(wire
-		(pts
-			(xy 716.915 400.685) (xy 716.915 402.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f06e990-b994-47a5-80b1-fe1ae59da04b")
 	)
 	(wire
 		(pts
@@ -20333,16 +20317,6 @@
 	)
 	(wire
 		(pts
-			(xy 716.915 391.795) (xy 716.915 393.065)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "818d2a29-1269-45fd-9a45-88962087ac13")
-	)
-	(wire
-		(pts
 			(xy 139.065 401.32) (xy 139.065 405.13)
 		)
 		(stroke
@@ -23893,7 +23867,7 @@
 	)
 	(wire
 		(pts
-			(xy 716.915 391.795) (xy 732.79 391.795)
+			(xy 711.2 391.795) (xy 732.79 391.795)
 		)
 		(stroke
 			(width 0)
@@ -24460,16 +24434,6 @@
 			(type default)
 		)
 		(uuid "eb64d835-1144-4f7b-9220-235596e958a0")
-	)
-	(wire
-		(pts
-			(xy 711.2 391.795) (xy 716.915 391.795)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec46a9f0-3ee6-4cda-960e-b6e575a0b867")
 	)
 	(wire
 		(pts
@@ -34139,84 +34103,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:SMAJ30CA")
-		(at 716.915 396.875 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "45a130ff-fb3d-4c76-b274-d6705f36f716")
-		(property "Reference" "D20"
-			(at 723.265 394.97 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "PESD3V3L1BA-N"
-			(at 735.33 397.51 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-323"
-			(at 711.835 396.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://item.szlcsc.com/297708.html"
-			(at 716.915 396.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 716.915 396.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "PESD3V3L1BA-N"
-			(at 716.915 396.875 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ea6dc54c-32f0-45f7-805a-ae35c9aceefb")
-		)
-		(pin "2"
-			(uuid "964e414d-32f4-4e6e-8165-b783d5d93127")
-		)
-		(instances
-			(project "orange_compact"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "D20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 745.49 124.46 0)
 		(mirror y)
@@ -37207,72 +37093,6 @@
 			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "C9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 716.915 402.59 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "618ff357-8ede-49b0-b23d-7cc356548830")
-		(property "Reference" "#PWR068"
-			(at 716.915 408.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 716.915 406.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 716.915 402.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 716.915 402.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 716.915 402.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fd2fbb53-9497-491b-8c1e-9985d24d52e7")
-		)
-		(instances
-			(project "orange_compact"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR068")
 					(unit 1)
 				)
 			)
