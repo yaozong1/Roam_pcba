@@ -35180,7 +35180,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Value" "1uF"
@@ -37420,7 +37419,7 @@
 				)
 			)
 		)
-		(property "Value" "MC74HC4060A"
+		(property "Value" "CD4060BPWR"
 			(at 345.44 99.06 0)
 			(effects
 				(font
@@ -37477,7 +37476,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "MC74HC4060A"
+		(property "MPN" "CD4060BPWR"
 			(at 355.6 699.06 0)
 			(effects
 				(font
@@ -44817,7 +44816,7 @@
 				)
 			)
 		)
-		(property "Value" "L_Ferrite_Coupled_1243"
+		(property "Value" "CMA0805A681R-1A"
 			(at 459.105 201.93 0)
 			(effects
 				(font
@@ -52239,7 +52238,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "EG9xQ"
+		(property "Value" "EG916QGLLG-N03-SGNSA"
 			(at 729.615 254.635 0)
 			(effects
 				(font
@@ -52267,7 +52266,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nLTE Cat 1 module\n"
+		(property "Description" "LTE Cat 1 module"
 			(at 731.52 247.65 0)
 			(effects
 				(font
@@ -52387,7 +52386,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "EG91xQ"
+		(property "MPN" "EG916QGLLG-N03-SGNSA  "
 			(at 731.52 273.05 0)
 			(effects
 				(font
