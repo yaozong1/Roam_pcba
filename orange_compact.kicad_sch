@@ -5,207 +5,6 @@
 	(uuid "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55")
 	(paper "User" 1100 599.999)
 	(lib_symbols
-		(symbol "74xGxx:SN74LVC1G14DBV"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "SN74LVC1G14DBV"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-				(at 0 -6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf"
-				(at 0 -8.89 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description" "Single Schmitt NOT Gate, Low-Voltage CMOS, SOT-23"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Single Gate NOT Schmitt LVC CMOS"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SOT*23*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SN74LVC1G14DBV_0_1"
-				(polyline
-					(pts
-						(xy -7.62 6.35) (xy -7.62 -6.35) (xy 5.08 0) (xy -7.62 6.35)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(symbol "SN74LVC1G14DBV_1_1"
-				(polyline
-					(pts
-						(xy -3.81 -1.27) (xy -1.27 -1.27) (xy -1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -1.27) (xy -2.54 1.27) (xy 0 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin no_connect line
-					(at -7.62 5.08 180)
-					(length 5.08) hide
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -15.24 0 0)
-					(length 7.62)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -5.08 -10.16 90)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output inverted
-					(at 12.7 0 180)
-					(length 7.62)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -5.08 10.16 270)
-					(length 5.08)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Connector:Conn_01x03_Male"
 			(pin_names
 				(offset 1.016) hide)
@@ -14684,6 +14483,12 @@
 		(uuid "986b67d0-0dea-46a3-a079-4815375e441c")
 	)
 	(junction
+		(at 257.81 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9b2821a5-9e32-40d0-be98-12865380599e")
+	)
+	(junction
 		(at 410.21 396.24)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14742,12 +14547,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "abb908d4-e615-4eab-953c-a3c8a84ff683")
-	)
-	(junction
-		(at 396.24 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "abc51257-bc71-475f-bb2c-c71aae159da8")
 	)
 	(junction
 		(at 133.35 21.59)
@@ -15763,16 +15562,6 @@
 	)
 	(wire
 		(pts
-			(xy 375.92 132.08) (xy 386.08 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d00b99d-4bd4-4e43-b97f-2bb63bc44096")
-	)
-	(wire
-		(pts
 			(xy 194.31 21.59) (xy 194.31 26.67)
 		)
 		(stroke
@@ -16220,16 +16009,6 @@
 			(type default)
 		)
 		(uuid "1ba2d8c1-4006-4faa-a726-8e0c9160dc1c")
-	)
-	(polyline
-		(pts
-			(xy 358.14 105.41) (xy 424.18 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c5199cb-f1eb-4025-b50b-d942ed917183")
 	)
 	(wire
 		(pts
@@ -17803,16 +17582,6 @@
 	)
 	(wire
 		(pts
-			(xy 401.32 115.57) (xy 401.32 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41f75f37-64bf-4696-bcf9-a0b3722a3c1f")
-	)
-	(wire
-		(pts
 			(xy 243.84 297.18) (xy 243.84 308.61)
 		)
 		(stroke
@@ -18493,16 +18262,6 @@
 	)
 	(wire
 		(pts
-			(xy 396.24 114.3) (xy 396.24 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50a214b1-d845-4786-8e6f-d507f8e69996")
-	)
-	(wire
-		(pts
 			(xy 792.48 57.15) (xy 825.5 57.15)
 		)
 		(stroke
@@ -18663,16 +18422,6 @@
 	)
 	(wire
 		(pts
-			(xy 414.02 132.08) (xy 421.64 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "537479ff-a4bc-412f-af25-2a194041959d")
-	)
-	(wire
-		(pts
 			(xy 36.83 311.15) (xy 40.64 311.15)
 		)
 		(stroke
@@ -18753,16 +18502,6 @@
 	)
 	(wire
 		(pts
-			(xy 401.32 114.3) (xy 396.24 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55cf3c75-bcce-4ac8-bc04-bcec69f27c7b")
-	)
-	(wire
-		(pts
 			(xy 681.99 361.95) (xy 681.99 363.22)
 		)
 		(stroke
@@ -18840,16 +18579,6 @@
 			(type default)
 		)
 		(uuid "57d4ac48-8613-4e0f-bcf7-aed5248a9012")
-	)
-	(polyline
-		(pts
-			(xy 358.14 105.41) (xy 358.14 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "591beaca-f105-40e2-a9c4-b1b02dc0902b")
 	)
 	(wire
 		(pts
@@ -19190,16 +18919,6 @@
 			(type default)
 		)
 		(uuid "61b2c058-92bf-4fb0-8e65-18780ec3b9b5")
-	)
-	(wire
-		(pts
-			(xy 388.62 114.3) (xy 396.24 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6213bcf1-9ed8-4873-b1b1-6c55360ae78c")
 	)
 	(wire
 		(pts
@@ -19883,16 +19602,6 @@
 	)
 	(wire
 		(pts
-			(xy 401.32 120.65) (xy 401.32 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "739526cc-f8f6-4bd8-bf6f-da3b1e24d6ff")
-	)
-	(wire
-		(pts
 			(xy 640.08 535.305) (xy 649.605 535.305)
 		)
 		(stroke
@@ -20083,7 +19792,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 115.57) (xy 275.59 115.57)
+			(xy 247.65 115.57) (xy 257.81 115.57)
 		)
 		(stroke
 			(width 0)
@@ -20510,16 +20219,6 @@
 			(type default)
 		)
 		(uuid "84fedb99-10ff-431a-9814-2c19eda7e779")
-	)
-	(wire
-		(pts
-			(xy 396.24 142.24) (xy 396.24 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "850ca6b8-88c6-4f7b-8751-67838347c6ed")
 	)
 	(wire
 		(pts
@@ -22941,16 +22640,6 @@
 		)
 		(uuid "c73886d1-6c8e-4514-a118-4c0b5fa5eb27")
 	)
-	(polyline
-		(pts
-			(xy 358.14 160.02) (xy 424.18 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c83f7da9-1356-4589-90ee-1817cfbc3490")
-	)
 	(wire
 		(pts
 			(xy 49.53 50.8) (xy 62.23 50.8)
@@ -23531,16 +23220,6 @@
 		)
 		(uuid "d717c9ad-9f1d-4f5e-99ba-3cfba357e0c5")
 	)
-	(polyline
-		(pts
-			(xy 424.18 160.02) (xy 424.18 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d7290b14-bd43-4aee-9b9f-de9c43b0dffc")
-	)
 	(wire
 		(pts
 			(xy 293.37 485.14) (xy 292.1 485.14)
@@ -23820,6 +23499,16 @@
 			(type default)
 		)
 		(uuid "deb75d9b-ea9d-40e4-af47-97c65e780f89")
+	)
+	(wire
+		(pts
+			(xy 257.81 115.57) (xy 257.81 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dee21405-c611-4bbc-8ba2-51b309fed0da")
 	)
 	(wire
 		(pts
@@ -24610,6 +24299,16 @@
 			(type default)
 		)
 		(uuid "f4d7ab6e-a558-413b-91e3-dde5e58b2460")
+	)
+	(wire
+		(pts
+			(xy 257.81 115.57) (xy 275.59 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4ea5ea4-62bc-4a34-97c9-ca178667809b")
 	)
 	(wire
 		(pts
@@ -25511,17 +25210,6 @@
 		)
 		(uuid "69f55d58-2dc7-4e7b-bcc5-5200c3c7fa89")
 	)
-	(text "Shall we need it?\nIq OF BOOST when it has no load = 0.9~3uA\nIshundown when it's disable = 0.25~0.6uA\n\nthe consideration is that whether Iq affect the charging chip or not."
-		(exclude_from_sim no)
-		(at 358.394 104.648 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6b6ad731-c6bb-43d1-a044-630ea64c1de2")
-	)
 	(text "Vout/Vin = 0.032\n12V = 387mV\n100V = 3.22V"
 		(exclude_from_sim no)
 		(at 124.46 508.762 0)
@@ -25787,17 +25475,6 @@
 		)
 		(uuid "bfc22ea1-85d8-4f85-a25b-c4406067f9b8")
 	)
-	(text "Add this enable control from the external DCDC,\n avoid the booster to affect the charging."
-		(exclude_from_sim no)
-		(at 367.03 155.448 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c23eff04-5d52-4370-97e4-ba0ad617d662")
-	)
 	(text "0.04pF\nat 250Mhz"
 		(exclude_from_sim no)
 		(at 789.94 120.015 0)
@@ -26006,17 +25683,6 @@
 			(justify left bottom)
 		)
 		(uuid "0608aec4-e0b2-4897-a7dc-9ecb59b6d7e0")
-	)
-	(label "BOOST_EN"
-		(at 257.81 127 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "10e26366-e000-4cf4-9013-d98a2de46daa")
 	)
 	(label "IBL"
 		(at 116.84 325.12 0)
@@ -27536,17 +27202,6 @@
 		)
 		(uuid "ec30bc01-1458-46da-b653-22d3df4615a2")
 	)
-	(label "BOOST_EN"
-		(at 421.64 132.08 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "eca3ad86-9775-417e-ba8e-fa4a01071a30")
-	)
 	(label "DCD_3V3"
 		(at 116.84 332.74 0)
 		(fields_autoplaced yes)
@@ -27995,26 +27650,6 @@
 			)
 		)
 	)
-	(global_label "3V3_ALWAYS_ON"
-		(shape input)
-		(at 388.62 114.3 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "38fa2b43-0841-406e-806f-11ef3073600b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -223.52 -87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "3V3_LDO"
 		(shape input)
 		(at 320.04 463.55 0)
@@ -28421,26 +28056,6 @@
 		(uuid "ad5878b9-1a96-4f2a-ad8a-d282b1c0eb6e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 957.58 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "5V0_BUCK"
-		(shape input)
-		(at 375.92 132.08 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b4995ee6-ed43-440b-ba9b-87d017c377f7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 93.98 -74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30432,84 +30047,6 @@
 			(project ""
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "U22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 401.32 118.11 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0acd965a-fc53-4239-b596-fb49b2b045c5")
-		(property "Reference" "C105"
-			(at 404.876 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 403.098 115.824 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 401.32 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 401.32 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CAP CER 0.1UF 10V X7R 0402"
-			(at 401.32 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CL05B104KP5NNNC"
-			(at 401.32 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7108743a-e6b6-461e-a97f-ebb30c65f9f7")
-		)
-		(pin "2"
-			(uuid "87bc3a65-368d-4f82-84eb-f09d96c14702")
-		)
-		(instances
-			(project "orange_compact"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "C105")
 					(unit 1)
 				)
 			)
@@ -38653,86 +38190,6 @@
 		)
 	)
 	(symbol
-		(lib_id "74xGxx:SN74LVC1G14DBV")
-		(at 401.32 132.08 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "629795e6-11c2-4e86-ab36-9712a8f8562d")
-		(property "Reference" "U21"
-			(at 416.56 125.7614 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SN74LVC1G14DBV"
-			(at 416.56 128.3014 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 401.32 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf"
-			(at 401.32 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single Schmitt NOT Gate, Low-Voltage CMOS, SOT-23"
-			(at 401.32 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "21c08996-ad51-4827-bc8c-e6adb4e11277")
-		)
-		(pin "3"
-			(uuid "b6d1e403-64c9-41d4-b60c-6b8a5fc7b763")
-		)
-		(pin "5"
-			(uuid "ce9903c8-26d1-456a-bfea-4617db032fcd")
-		)
-		(pin "4"
-			(uuid "3c9a526e-3d55-47bd-bdba-ecbe3722db69")
-		)
-		(pin "2"
-			(uuid "4e1b2ed9-e7f0-4cd4-87d8-b9557c788f79")
-		)
-		(instances
-			(project ""
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "U21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 623.57 137.16 0)
 		(unit 1)
@@ -44212,71 +43669,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 396.24 144.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9768c5ad-d01a-4104-809e-5eab3e13da38")
-		(property "Reference" "#PWR084"
-			(at 396.24 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 396.24 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 396.24 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 396.24 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 396.24 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a4a414e6-11f0-452a-ac85-aef050bae6a1")
-		)
-		(instances
-			(project "orange_compact"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR084")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 273.05 474.98 0)
 		(unit 1)
@@ -47015,71 +46407,6 @@
 			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "C51")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 401.32 121.92 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b33cf60f-d4df-4e7d-93f8-30e1bed37daa")
-		(property "Reference" "#PWR083"
-			(at 401.32 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 401.32 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 401.32 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 401.32 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 401.32 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d710fda5-2395-4766-9cf4-79fe4fff5038")
-		)
-		(instances
-			(project "orange_compact"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR083")
 					(unit 1)
 				)
 			)
