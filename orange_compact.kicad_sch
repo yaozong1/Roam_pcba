@@ -13950,6 +13950,12 @@
 		(uuid "514ea813-22ec-4cae-b9ef-e4b38e34d9ad")
 	)
 	(junction
+		(at 741.68 487.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5201faf6-91ef-42f2-b5ed-09e8be2a7a30")
+	)
+	(junction
 		(at 74.93 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14640,6 +14646,12 @@
 		(uuid "e15cc977-9c71-434b-ab5b-50a8390784b3")
 	)
 	(junction
+		(at 744.22 492.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e2995b58-e6a4-49e3-a54b-66562bd0fbba")
+	)
+	(junction
 		(at 452.12 520.7)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14970,6 +14982,16 @@
 			(type default)
 		)
 		(uuid "014fab54-167b-4344-81b0-5962ad84bbd8")
+	)
+	(wire
+		(pts
+			(xy 741.68 487.68) (xy 769.62 487.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01556492-da49-4799-b7c4-fcf4ef2153b4")
 	)
 	(wire
 		(pts
@@ -15413,7 +15435,7 @@
 	)
 	(wire
 		(pts
-			(xy 740.41 492.76) (xy 723.9 492.76)
+			(xy 769.62 492.76) (xy 744.22 492.76)
 		)
 		(stroke
 			(width 0)
@@ -18583,6 +18605,16 @@
 	)
 	(wire
 		(pts
+			(xy 741.68 487.68) (xy 723.9 487.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d9eb05a-a8d8-475d-a9cc-032a1b89c2d0")
+	)
+	(wire
+		(pts
 			(xy 421.005 387.35) (xy 426.72 387.35)
 		)
 		(stroke
@@ -20641,6 +20673,16 @@
 		)
 		(uuid "967c4c09-24a9-4ad4-a4f5-22a7f94f6297")
 	)
+	(wire
+		(pts
+			(xy 744.22 492.76) (xy 723.9 492.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96edf9cc-c10c-42d3-b792-daf553e73aa0")
+	)
 	(polyline
 		(pts
 			(xy 811.53 128.905) (xy 791.21 128.905)
@@ -22100,16 +22142,6 @@
 			(type default)
 		)
 		(uuid "c0e908ef-4388-428b-a796-0b0022914509")
-	)
-	(wire
-		(pts
-			(xy 740.41 487.68) (xy 723.9 487.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c0ec32e3-3458-4a17-9d52-d23e1221a682")
 	)
 	(wire
 		(pts
@@ -25659,7 +25691,7 @@
 		(uuid "320239cc-bd9d-4da1-ad1a-d621b698cebf")
 	)
 	(label "GNSS_TXD_3V3"
-		(at 740.41 487.68 180)
+		(at 769.62 487.68 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -27067,7 +27099,7 @@
 		(uuid "fd150137-78af-441e-b2eb-bb38e0b213cc")
 	)
 	(label "GNSS_RXD_3V3"
-		(at 740.41 492.76 180)
+		(at 769.62 492.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -32828,6 +32860,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 744.22 492.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2cce1852-3d74-4f5e-aa9c-1a1c28a89966")
+		(property "Reference" "TP20"
+			(at 746.76 491.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "gnss_rx"
+			(at 749.3 488.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 749.3 492.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 749.3 492.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 744.22 492.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7c546c76-7be9-4ae5-8caa-ad369f432edf")
+		)
+		(instances
+			(project "orange_compact"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "TP20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 692.15 113.03 0)
 		(unit 1)
@@ -35394,6 +35490,70 @@
 			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 741.68 487.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "490fa8d1-d9c2-4e29-8995-a7ce53e72d76")
+		(property "Reference" "TP19"
+			(at 744.22 486.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "gnss_tx"
+			(at 746.76 483.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 746.76 487.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 746.76 487.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 741.68 487.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7ff5ff25-d9eb-4313-bf58-7a14f3421af1")
+		)
+		(instances
+			(project "orange_compact"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "TP19")
 					(unit 1)
 				)
 			)
