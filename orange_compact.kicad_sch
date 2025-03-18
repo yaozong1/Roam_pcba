@@ -13627,6 +13627,12 @@
 		(uuid "02e2c3a3-cb0c-4660-abb8-444de9d21163")
 	)
 	(junction
+		(at 505.46 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "03c39c22-8f8f-4fec-b058-0d9213d712bd")
+	)
+	(junction
 		(at 843.28 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -17820,7 +17826,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 119.38) (xy 508 120.65)
+			(xy 495.3 119.38) (xy 495.3 121.92)
 		)
 		(stroke
 			(width 0)
@@ -19690,6 +19696,16 @@
 	)
 	(wire
 		(pts
+			(xy 505.46 125.73) (xy 505.46 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76f41648-b49a-433d-a0ef-6f2d606459cd")
+	)
+	(wire
+		(pts
 			(xy 189.23 416.56) (xy 189.23 419.1)
 		)
 		(stroke
@@ -20057,6 +20073,16 @@
 			(type dash)
 		)
 		(uuid "7f486778-1040-4039-ae0b-2688845432c7")
+	)
+	(wire
+		(pts
+			(xy 510.54 125.73) (xy 505.46 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80884df0-b27e-4ad6-bca7-896e3f542672")
 	)
 	(wire
 		(pts
@@ -21050,7 +21076,7 @@
 	)
 	(wire
 		(pts
-			(xy 510.54 119.38) (xy 508 119.38)
+			(xy 510.54 119.38) (xy 505.46 119.38)
 		)
 		(stroke
 			(width 0)
@@ -21667,6 +21693,16 @@
 			(type default)
 		)
 		(uuid "abab22db-40ee-496a-a6e3-83848043d4e0")
+	)
+	(wire
+		(pts
+			(xy 505.46 119.38) (xy 495.3 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abb1bf0d-5b2e-4a74-9158-31df7453cb17")
 	)
 	(polyline
 		(pts
@@ -28583,6 +28619,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 510.54 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "280c645e-5b5f-4147-a322-dbb7c9eba83a")
 		)
@@ -28669,6 +28714,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 662.94 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "571023d2-a0e6-40ff-994f-c187d4c04bfb")
 		)
@@ -28747,6 +28801,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 843.28 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5240e6ed-765c-4e2e-8b58-383358694d50")
 		)
@@ -28817,6 +28880,15 @@
 			)
 		)
 		(property "MPN" "CC0603KRX7R0BB103"
+			(at 74.93 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 74.93 25.4 0)
 			(effects
 				(font
@@ -28904,6 +28976,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 483.87 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "98f379db-2f2d-4a72-b84b-c16e7a275d49")
 		)
@@ -28963,6 +29044,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 388.62 394.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 388.62 394.97 0)
 			(effects
 				(font
@@ -29048,6 +29138,15 @@
 			)
 		)
 		(property "MPN" "CL05B104KP5NNNC"
+			(at 179.705 524.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 179.705 524.51 0)
 			(effects
 				(font
@@ -29183,6 +29282,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 510.54 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 510.54 81.28 0)
 			(effects
 				(font
@@ -29350,6 +29458,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 344.17 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "011a8f8b-de3d-4ee8-ab8a-f85e409e097d")
 		)
@@ -29433,7 +29550,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 508 120.65 0)
+		(at 495.3 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29441,7 +29558,7 @@
 		(dnp no)
 		(uuid "047341cb-0d17-48e0-8f81-b4bc2fe91aa8")
 		(property "Reference" "#PWR0127"
-			(at 508 127 0)
+			(at 495.3 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29450,7 +29567,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 508 124.46 0)
+			(at 495.3 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29458,7 +29575,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 508 120.65 0)
+			(at 495.3 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29467,7 +29584,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 508 120.65 0)
+			(at 495.3 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29476,7 +29593,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 508 120.65 0)
+			(at 495.3 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29615,6 +29732,15 @@
 		)
 		(property "MPN" "RC0603JR-07750RL"
 			(at 944.88 470.535 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 944.88 470.535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29825,6 +29951,15 @@
 			)
 		)
 		(property "MPN" "2337019-1"
+			(at 787.4 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 787.4 173.99 0)
 			(effects
 				(font
@@ -30178,6 +30313,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 313.69 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "963662a0-2490-4c7a-b9f6-de25d844566b")
 		)
@@ -30287,6 +30431,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 378.46 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6789c9ab-c3dd-4a30-bfd9-e4dfccd75d0b")
 		)
@@ -30358,6 +30511,15 @@
 			)
 		)
 		(property "MPN" "GRM155R71C103KA01D**"
+			(at 78.74 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 78.74 139.7 0)
 			(effects
 				(font
@@ -30511,6 +30673,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 809.625 179.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "13bbeea7-7f7d-40e1-8512-d78909e3b94a")
 		)
@@ -30645,7 +30816,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GCM188R72A102KA37D"
+		(property "MPN" "GCM155R72A102KA37D"
+			(at 62.23 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 62.23 25.4 0)
 			(effects
 				(font
@@ -30716,6 +30896,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 510.54 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 510.54 88.9 0)
 			(effects
 				(font
@@ -30882,6 +31071,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 69.85 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5d276181-7b0e-4b49-b79b-5733d1cb992d")
 		)
@@ -31024,6 +31222,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 804.545 365.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6a8727fd-5c31-407f-9077-c3e9f643b004")
 		)
@@ -31100,6 +31307,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 173.99 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "db4b3c75-b9e2-4656-b724-9977082dde44")
 		)
@@ -31159,6 +31375,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 834.39 516.255 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 834.39 516.255 0)
 			(effects
 				(font
@@ -31236,6 +31461,15 @@
 			)
 		)
 		(property "MPN" "LM66100DCKR"
+			(at 514.35 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 514.35 190.5 0)
 			(effects
 				(font
@@ -31332,6 +31566,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 801.37 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "07dd7c61-5d54-4e88-839c-f608b1c03e23")
 		)
@@ -31420,6 +31663,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 877.57 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8dcf3ff7-4879-4d02-b787-b9a0faf6af8c")
 		)
@@ -31491,6 +31743,15 @@
 			)
 		)
 		(property "MPN" "KRC106S"
+			(at 640.08 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 640.08 356.87 0)
 			(effects
 				(font
@@ -31728,6 +31989,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 59.69 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0daf4b03-0db3-4a88-8459-ce054281fa3e")
 		)
@@ -31869,6 +32139,15 @@
 			)
 		)
 		(property "MPN" "RK73H1ETTP4701F"
+			(at 487.68 421.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 487.68 421.64 0)
 			(effects
 				(font
@@ -32218,7 +32497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 1UF 10V X5R 0402"
+		(property "Description" "CAP CER 1UF 16V X7R 0402"
 			(at 189.865 524.51 0)
 			(effects
 				(font
@@ -32228,6 +32507,15 @@
 			)
 		)
 		(property "MPN" "CC0402KRX5R6BB105"
+			(at 189.865 524.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 189.865 524.51 0)
 			(effects
 				(font
@@ -32320,6 +32608,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 40.64 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -32375,6 +32672,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 165.1 417.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 165.1 417.83 0)
 			(effects
 				(font
@@ -32439,6 +32745,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 659.13 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 659.13 372.11 0)
 			(effects
 				(font
@@ -32547,6 +32862,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 944.88 461.645 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4d0bdda3-fc07-4563-9fc3-982f17f84de7")
 		)
@@ -32625,6 +32949,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 895.35 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7d60f17c-483a-4dc2-9689-2bcfed07c658")
 		)
@@ -32694,6 +33027,15 @@
 			)
 		)
 		(property "MPN" "LM66100DCKR"
+			(at 514.35 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 514.35 219.71 0)
 			(effects
 				(font
@@ -32858,6 +33200,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 143.51 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5a5d6418-4a89-461a-8173-5a900d7bc31c")
 		)
@@ -32937,6 +33288,15 @@
 			)
 		)
 		(property "MPN" "CL10B104KB8NNNC"
+			(at 194.31 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 194.31 30.48 0)
 			(effects
 				(font
@@ -33164,6 +33524,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 621.03 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ede00a7d-9c42-4dba-8e72-a5e499b7e231")
 		)
@@ -33235,6 +33604,15 @@
 		)
 		(property "MPN" "RK73H1ETTP4701F"
 			(at 822.96 516.255 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 822.96 516.255 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33330,6 +33708,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 193.04 300.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1eec2313-c8f5-4eff-9a2b-3b91f38c3bf3")
 		)
@@ -33397,6 +33784,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 744.22 492.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7c546c76-7be9-4ae5-8caa-ad369f432edf")
 		)
@@ -33454,7 +33850,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X7R 0402"
 			(at 692.15 113.03 0)
 			(effects
 				(font
@@ -33464,6 +33860,15 @@
 			)
 		)
 		(property "MPN" "CC0402KRX5R6BB105"
+			(at 692.15 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 692.15 113.03 0)
 			(effects
 				(font
@@ -33624,6 +34029,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 293.37 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "49f72945-4f05-4bb0-825a-40af9052efa2")
 		)
@@ -33685,7 +34099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X7R 0402"
 			(at 735.33 113.03 0)
 			(effects
 				(font
@@ -33695,6 +34109,15 @@
 			)
 		)
 		(property "MPN" "CC0402KRX5R6BB105"
+			(at 735.33 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 735.33 113.03 0)
 			(effects
 				(font
@@ -33762,6 +34185,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 845.185 455.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 845.185 455.93 0)
 			(effects
 				(font
@@ -33864,6 +34296,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 285.75 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1bd497a9-278b-4cf4-85e3-908fd27e6c90")
 		)
@@ -33924,6 +34365,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 608.33 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "LP5907MFX-3.3"
+			(at 608.33 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 608.33 101.6 0)
 			(effects
 				(font
@@ -34234,6 +34693,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 334.01 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7eaad6cf-7134-4a87-8a0c-e9b002eb7222")
 		)
@@ -34330,6 +34798,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 334.01 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2840a426-9d48-47c7-bdbc-4c8a6a254967")
 		)
@@ -34400,6 +34877,15 @@
 			)
 		)
 		(property "MPN" "RC0402FR-0710RL"
+			(at 510.54 402.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 510.54 402.59 0)
 			(effects
 				(font
@@ -34482,6 +34968,24 @@
 			)
 		)
 		(property "Description" "4-Bit Bidirectional Voltage-Level Translator, Auto Direction Sensing and ±15-kV ESD Protection, 1.2 - 3.6V APort, 1.65 - 5.5V BPort, Texas_PUQFN-12"
+			(at 713.74 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0104RUT"
+			(at 713.74 485.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 713.74 485.14 0)
 			(effects
 				(font
@@ -34664,6 +35168,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 943.61 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "bef45d27-521d-4bc0-9378-0bfd8347d113")
 		)
@@ -34736,6 +35249,15 @@
 		)
 		(property "MPN" "RC0603JR-07750RL"
 			(at 901.7 470.535 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 901.7 470.535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34819,6 +35341,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 659.13 330.835 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c6b30589-eeab-41d2-b8f4-0f74b7a675b7")
 		)
@@ -34890,6 +35421,15 @@
 			)
 		)
 		(property "MPN" "CL05B104KP5NNNC"
+			(at 276.86 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 276.86 218.44 0)
 			(effects
 				(font
@@ -35041,6 +35581,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 49.53 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "47170763-2cf7-43ed-bd95-5427fbe1817d")
 		)
@@ -35061,9 +35610,9 @@
 		(at 827.405 179.07 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3ee17aff-87e0-4880-aa63-f4bf0bb04840")
 		(property "Reference" "L10"
 			(at 823.595 180.34 0)
@@ -35109,6 +35658,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 827.405 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 827.405 179.07 0)
 			(effects
 				(font
@@ -35187,6 +35745,15 @@
 			)
 		)
 		(property "MPN" "CL05B104KP5NNNC"
+			(at 593.09 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 593.09 53.34 0)
 			(effects
 				(font
@@ -35395,6 +35962,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 90.17 359.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b8dfe510-75ec-4d2c-b5fd-6224b50e64e3")
 		)
@@ -35479,6 +36055,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 918.21 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8044ba4c-9560-492e-858b-5db2d44d1f45")
 		)
@@ -35547,6 +36132,15 @@
 			)
 		)
 		(property "MPN" "CL05B104KP5NNNC"
+			(at 321.31 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 321.31 316.23 0)
 			(effects
 				(font
@@ -35692,6 +36286,15 @@
 			)
 		)
 		(property "MPN" "KRC106S"
+			(at 640.08 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 640.08 331.47 0)
 			(effects
 				(font
@@ -35854,6 +36457,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 91.44 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b84b2a88-fee2-4981-a5fb-7919dc549ba6")
 		)
@@ -35977,6 +36589,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 904.24 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "051b71c9-c3c8-48a1-ae22-ea3d2ac2479b")
 		)
@@ -36046,6 +36667,15 @@
 			)
 		)
 		(property "MPN" "1050170001"
+			(at 902.97 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 902.97 373.38 0)
 			(effects
 				(font
@@ -36125,6 +36755,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 741.68 487.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 741.68 487.68 0)
 			(effects
 				(font
@@ -36217,6 +36856,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 623.57 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0bf018b2-2aa8-412f-b657-1f4bc17d5954")
 		)
@@ -36227,6 +36875,82 @@
 			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 510.54 125.73 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4ad24f61-1a9f-41cf-8387-da35c276034a")
+		(property "Reference" "TP28"
+			(at 515.62 125.095 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 515.62 127.635 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 510.54 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 510.54 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 510.54 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 510.54 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5a7b023d-69f5-4c57-9538-8f368771b883")
+		)
+		(instances
+			(project "orange_compact"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "TP28")
 					(unit 1)
 				)
 			)
@@ -36350,6 +37074,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 179.705 515.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d7525f53-77af-4201-93d9-b8643d9cce78")
 		)
@@ -36417,6 +37150,15 @@
 			)
 		)
 		(property "MPN" "LMK212BJ226MG-T**"
+			(at 363.22 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 363.22 128.27 0)
 			(effects
 				(font
@@ -36512,6 +37254,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 143.51 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "76dd5546-4b4b-443b-b5b0-3cb2955899f1")
 		)
@@ -36582,6 +37333,15 @@
 			)
 		)
 		(property "MPN" "GCM155R72A102KA37D"
+			(at 62.23 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 62.23 38.1 0)
 			(effects
 				(font
@@ -36713,7 +37473,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "LED BLUE CLEAR-LB"
+		(property "Description" "LED BLUE CLEAR"
 			(at 33.02 300.99 0)
 			(effects
 				(font
@@ -36750,6 +37510,15 @@
 			)
 		)
 		(property "MPN" "QBLP601D-IB"
+			(at 33.02 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 33.02 300.99 0)
 			(effects
 				(font
@@ -36839,6 +37608,15 @@
 		)
 		(property "desc" "Vrwm = 4.5, Vbr= 4.8 peak pulse = 60A"
 			(at 792.48 51.435 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 792.48 51.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36991,6 +37769,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 698.5 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3f5b7988-392b-47ac-a9fb-252758e586a7")
 		)
@@ -37052,7 +37839,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X7R 0402"
 			(at 923.925 363.22 0)
 			(effects
 				(font
@@ -37062,6 +37849,15 @@
 			)
 		)
 		(property "MPN" "CC0402KRX5R6BB105"
+			(at 923.925 363.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 923.925 363.22 0)
 			(effects
 				(font
@@ -37198,6 +37994,24 @@
 		)
 		(property "Description" "RF Module, ESP32-S3 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 3.3V, SMD, onboard antenna"
 			(at 156.21 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ESP32-S3-MINI-1"
+			(at 156.21 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 156.21 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37464,6 +38278,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 510.54 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f7921030-ed03-4e88-8a08-ab0277a0d682")
 		)
@@ -37532,6 +38355,15 @@
 			)
 		)
 		(property "MPN" "CL05B104KP5NNNC"
+			(at 695.96 462.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 695.96 462.28 0)
 			(effects
 				(font
@@ -37683,6 +38515,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 271.78 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "19d1cba6-7759-43b3-9380-b2459f07e5b5")
 		)
@@ -37754,6 +38595,15 @@
 			)
 		)
 		(property "MPN" "CL05B104KP5NNNC"
+			(at 725.17 461.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 725.17 461.01 0)
 			(effects
 				(font
@@ -37838,6 +38688,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 105.41 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bbf89882-0f5c-4f2e-9bfc-1b3b49a6d2a3")
 		)
@@ -37914,6 +38773,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 819.15 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc0e60cc-8ea0-4fe2-91aa-8b2803ac852c")
 		)
@@ -37937,7 +38805,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "617d95b7-9993-4c88-a4f6-ba6c93eb9af1")
 		(property "Reference" "C9"
 			(at 826.77 113.665 0)
@@ -37985,6 +38853,15 @@
 			)
 		)
 		(property "MPN" "DNP"
+			(at 820.42 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 820.42 113.665 0)
 			(effects
 				(font
@@ -38066,6 +38943,15 @@
 		)
 		(property "MPN" "PDS760-13"
 			(at 124.46 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 124.46 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38161,6 +39047,15 @@
 			)
 		)
 		(property "Digi-key PN" ""
+			(at 344.17 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 344.17 209.55 0)
 			(effects
 				(font
@@ -38311,6 +39206,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 139.7 411.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2ec6c7c6-0b2f-4810-8dbc-c83c7b42c40e")
 		)
@@ -38394,6 +39298,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 36.83 335.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 36.83 335.28 0)
 			(effects
 				(font
@@ -38498,6 +39411,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 267.97 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e385674e-400c-4ee9-8ab3-eb38d208f644")
 		)
@@ -38577,6 +39499,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 889 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d4cf96d5-03a7-4a1d-8e0e-b32839cafe97")
 		)
@@ -38639,6 +39570,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 510.54 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 510.54 119.38 0)
 			(effects
 				(font
@@ -38713,6 +39653,15 @@
 		)
 		(property "MPN" "RMCF0402FT15K0"
 			(at 690.245 549.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 690.245 549.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38799,6 +39748,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 660.4 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "21be03ea-64dc-4a31-bb4f-604f6369c6d7")
 		)
@@ -38860,6 +39818,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 487.68 396.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 487.68 396.24 0)
 			(effects
 				(font
@@ -38958,6 +39925,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 379.73 324.485 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4d5b6498-18e3-4029-a417-924d7585d5e8")
 		)
@@ -39034,6 +40010,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 64.77 416.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -39097,6 +40082,15 @@
 		)
 		(property "MPN" "RC0603JR-07750RL"
 			(at 43.18 292.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 43.18 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39183,6 +40177,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 284.48 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9daa492e-4c33-4b96-a3d7-6312a167cd57")
 		)
@@ -39262,6 +40265,15 @@
 		)
 		(property "MPN" "AXGD10402"
 			(at 793.115 113.665 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 793.115 113.665 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39412,6 +40424,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 40.64 392.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -39542,6 +40563,15 @@
 			)
 		)
 		(property "MPN" "GRM1555C1E330JA01D //"
+			(at 641.985 560.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 641.985 560.705 0)
 			(effects
 				(font
@@ -39766,7 +40796,7 @@
 		(at 615.95 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(fields_autoplaced yes)
@@ -39817,6 +40847,15 @@
 			)
 		)
 		(property "MPN" "RMCF0402FT10K0"
+			(at 615.95 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 615.95 38.1 0)
 			(effects
 				(font
@@ -39969,6 +41008,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 410.21 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "43fa1048-4a8c-4da5-a7df-0ada4aa7d801")
 		)
@@ -40060,6 +41108,15 @@
 			)
 		)
 		(property "MPN" "PFR05S-102-FNH"
+			(at 419.1 402.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 419.1 402.59 0)
 			(effects
 				(font
@@ -40222,6 +41279,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 673.1 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "40d1feb0-c721-4d96-aea7-d78ada94eb10")
 		)
@@ -40295,6 +41361,15 @@
 		)
 		(property "MPN" "LTV-217-TP1-C-G"
 			(at 285.75 516.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 285.75 525.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40396,6 +41471,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 825.5 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "66baf35b-3029-4245-9035-31719c0a74a5")
 		)
@@ -40467,6 +41551,15 @@
 			)
 		)
 		(property "MPN" "CL05B104KP5NNNC"
+			(at 450.85 521.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 450.85 521.97 0)
 			(effects
 				(font
@@ -40613,6 +41706,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 439.42 396.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -40787,6 +41889,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 671.83 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0380a054-2c1f-459f-aa79-5d146e2720ff")
 		)
@@ -40865,6 +41976,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 299.72 532.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "225bfc41-57b0-43e9-9f17-5ce72ac98ce0")
 		)
@@ -40925,6 +42045,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 669.29 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 669.29 351.79 0)
 			(effects
 				(font
@@ -41000,6 +42129,15 @@
 		)
 		(property "MPN" "USBLC6-2SC6"
 			(at 873.125 375.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 873.125 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41164,6 +42302,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 853.44 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "87ba96ef-2cb4-4f45-9f40-a56d487b4e46")
 		)
@@ -41236,6 +42383,15 @@
 			)
 		)
 		(property "MPN" "C1005X5R1H104K050BB"
+			(at 127 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 127 116.84 0)
 			(effects
 				(font
@@ -41332,6 +42488,15 @@
 			)
 		)
 		(property "Digi-key PN" ""
+			(at 160.02 524.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 160.02 524.51 0)
 			(effects
 				(font
@@ -41455,6 +42620,15 @@
 			)
 		)
 		(property "Digi-key PN" ""
+			(at 852.17 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 852.17 49.53 0)
 			(effects
 				(font
@@ -41599,6 +42773,15 @@
 			)
 		)
 		(property "MPN" "2337019-1"
+			(at 770.89 108.585 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 770.89 108.585 0)
 			(effects
 				(font
@@ -41754,6 +42937,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 64.77 426.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -41851,6 +43043,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 901.7 461.645 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5dfb602-1524-41b6-b514-55a480c2fc12")
 		)
@@ -41933,6 +43134,15 @@
 		)
 		(property "desc" "Vrwm = 4.5, Vbr= 4.8 peak pulse = 60A"
 			(at 681.99 358.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 681.99 358.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42081,6 +43291,24 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MPN" "LMR14030SDDAR"
+			(at 100.33 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 100.33 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -42357,6 +43585,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 33.02 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fe601422-18d3-4f37-bb00-5caa5362248b")
 		)
@@ -42427,6 +43664,15 @@
 			)
 		)
 		(property "MPN" "RK73H1ETTP4701F"
+			(at 487.68 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 487.68 384.81 0)
 			(effects
 				(font
@@ -42591,6 +43837,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 528.32 421.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7b07f9cf-ccce-4462-a602-e896b4e0fd6b")
 		)
@@ -42730,6 +43985,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 804.545 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1c45d3b2-8eba-4bd8-8ef3-13d81596d727")
 		)
@@ -42798,6 +44062,15 @@
 		)
 		(property "MPN" "RMCF0402ZT0R00"
 			(at 832.485 173.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 832.485 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42965,6 +44238,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 285.75 363.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5f9a05bf-b2c1-47e2-9a73-bea814b4ed9d")
 		)
@@ -43036,6 +44318,15 @@
 			)
 		)
 		(property "MPN" "CL05B104KP5NNNC"
+			(at 391.16 455.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 391.16 455.93 0)
 			(effects
 				(font
@@ -43122,6 +44413,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 819.15 349.885 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c077eff8-a6b9-4d67-b640-e81884571793")
 		)
@@ -43184,6 +44484,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 510.54 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 510.54 104.14 0)
 			(effects
 				(font
@@ -43265,6 +44574,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 854.71 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9fb699e2-895d-4b2c-93e0-34188cb5350f")
 		)
@@ -43335,6 +44653,15 @@
 			)
 		)
 		(property "MPN" "NC"
+			(at 786.13 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 786.13 160.02 0)
 			(effects
 				(font
@@ -43476,6 +44803,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 679.45 354.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "11cc4f84-e42c-4c79-b8c6-92c49406c3ed")
 		)
@@ -43543,6 +44879,15 @@
 			)
 		)
 		(property "MPN" "CC0402KRX5R6BB105"
+			(at 426.72 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 426.72 381 0)
 			(effects
 				(font
@@ -43687,6 +45032,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 332.74 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cb80c82c-bcc9-4a33-9eac-2001a16cbea7")
 		)
@@ -43757,6 +45111,15 @@
 			)
 		)
 		(property "MPN" "ERJ-PB6B6800V"
+			(at 273.05 474.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 273.05 474.98 0)
 			(effects
 				(font
@@ -43837,6 +45200,15 @@
 			)
 		)
 		(property "MPN" "53048-0310"
+			(at 312.42 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 312.42 41.91 0)
 			(effects
 				(font
@@ -43927,6 +45299,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 836.93 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "25fa7a34-4bac-4af2-8650-ea3229fdcd15")
 		)
@@ -43998,6 +45379,15 @@
 			)
 		)
 		(property "MPN" "RC0402FR-0730KL"
+			(at 670.56 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 670.56 58.42 0)
 			(effects
 				(font
@@ -44084,6 +45474,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 46.99 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ff8c3fee-538a-4ac4-bd35-1d39cdf11ce8")
 		)
@@ -44152,6 +45551,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 795.02 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 795.02 154.94 0)
 			(effects
 				(font
@@ -44231,6 +45639,15 @@
 			)
 		)
 		(property "MPN" "GRM188R71H104KA93D"
+			(at 36.83 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 36.83 349.25 0)
 			(effects
 				(font
@@ -44408,6 +45825,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 854.71 463.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc80248a-fdda-4702-8b8e-8432ff9a9d85")
 		)
@@ -44535,6 +45961,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 510.54 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 510.54 111.76 0)
 			(effects
 				(font
@@ -44675,6 +46110,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 510.54 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0d894df7-bf97-4d01-9262-a345d45d6ae6")
 		)
@@ -44768,6 +46212,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 336.55 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ea6ac17b-98af-465b-af01-9382cbda59ad")
 		)
@@ -44847,6 +46300,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 175.26 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c8690976-2b91-4aa9-a374-313eeba06901")
 		)
@@ -44909,6 +46371,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 510.54 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 510.54 73.66 0)
 			(effects
 				(font
@@ -44992,6 +46463,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 74.93 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8c6b0d94-cbc0-4251-b47a-d3dc1be8c59f")
 		)
@@ -45063,6 +46543,15 @@
 			)
 		)
 		(property "MPN" "CL21A226MOQNNNE"
+			(at 711.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 711.2 52.07 0)
 			(effects
 				(font
@@ -45216,6 +46705,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 670.56 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6bf1a576-a7a5-4213-8eec-31ecb5e6434a")
 		)
@@ -45275,6 +46773,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 674.37 477.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 674.37 477.52 0)
 			(effects
 				(font
@@ -45351,6 +46858,15 @@
 			)
 		)
 		(property "MPN" "CL21A226MOQNNNE"
+			(at 684.53 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 684.53 52.07 0)
 			(effects
 				(font
@@ -45492,6 +47008,15 @@
 			)
 		)
 		(property "MPN" "DNP"
+			(at 48.26 426.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 48.26 426.72 0)
 			(effects
 				(font
@@ -45646,6 +47171,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 289.56 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3ff099cf-4c7b-4119-a450-8974d9837e38")
 		)
@@ -45734,6 +47268,15 @@
 			)
 		)
 		(property "Digi-key PN" ""
+			(at 154.94 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 154.94 154.94 0)
 			(effects
 				(font
@@ -45877,6 +47420,15 @@
 			)
 		)
 		(property "MPN" "RMCF0402FT10K0"
+			(at 397.51 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 397.51 383.54 0)
 			(effects
 				(font
@@ -46116,6 +47668,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 368.3 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e181acd9-289c-456a-9b29-b774edd98e6c")
 		)
@@ -46194,6 +47755,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 49.53 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "56b687cb-dcec-41d2-99a7-5cbec7ec91b5")
 		)
@@ -46264,6 +47834,15 @@
 			)
 		)
 		(property "MPN" "C0805C106K8PAC7800**"
+			(at 274.32 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 274.32 135.89 0)
 			(effects
 				(font
@@ -46399,6 +47978,24 @@
 			)
 		)
 		(property "Description" "2-Bit Bidirectional Voltage-Level Translator With Auto Direction Sensing and ±15-kV ESD Protection, VSSOP-8"
+			(at 431.8 462.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TXB0102DCU"
+			(at 431.8 462.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 431.8 462.28 0)
 			(effects
 				(font
@@ -46569,6 +48166,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 111.76 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "02370f7b-8e24-4be7-8d39-d4df0bc5233d")
 		)
@@ -46648,6 +48254,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 722.63 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "98060f14-9ea8-4320-8c72-cb0df85db402")
 		)
@@ -46717,6 +48332,15 @@
 			)
 		)
 		(property "MPN" "TPS566242DRLR"
+			(at 631.19 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 631.19 50.8 0)
 			(effects
 				(font
@@ -46946,6 +48570,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 408.94 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b92d7791-19a0-4bc0-b5c9-fc39c0f54c55")
 		)
@@ -47016,6 +48649,15 @@
 			)
 		)
 		(property "MPN" "GRM1555C1E330JA01D //"
+			(at 690.245 560.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 690.245 560.705 0)
 			(effects
 				(font
@@ -47302,6 +48944,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 420.37 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c7ec8a55-42b9-42cb-9c00-1e3647f9a7a2")
 		)
@@ -47393,6 +49044,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 510.54 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3d789446-3512-42e3-9523-6568eeab5447")
 		)
@@ -47460,6 +49120,15 @@
 			)
 		)
 		(property "MPN" "TS-1088-AR02016"
+			(at 80.01 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 80.01 346.71 0)
 			(effects
 				(font
@@ -47547,6 +49216,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 831.85 108.585 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5b2a88f-fa1e-47a1-b1fe-06f37e21ca1b")
 		)
@@ -47607,6 +49285,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 609.6 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "LP5907MFX-3.3"
+			(at 609.6 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 609.6 232.41 0)
 			(effects
 				(font
@@ -47693,6 +49389,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 161.29 420.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "41986c53-6704-41a1-abca-3878decb79f9")
 		)
@@ -47760,6 +49465,15 @@
 			)
 		)
 		(property "MPN" "CL05B104KP5NNNC"
+			(at 365.76 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 365.76 210.82 0)
 			(effects
 				(font
@@ -47910,6 +49624,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 652.78 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dceadd12-84d7-467b-8d6d-b385a68aafe7")
 		)
@@ -47978,6 +49701,15 @@
 			)
 		)
 		(property "MPN" "667-ERJ-2RKF1003X"
+			(at 521.97 563.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 521.97 563.245 0)
 			(effects
 				(font
@@ -48056,6 +49788,15 @@
 			)
 		)
 		(property "MPN" "GRM1555C1E330JA01D //"
+			(at 649.605 560.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 649.605 560.705 0)
 			(effects
 				(font
@@ -48209,6 +49950,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 793.115 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "62dcf28e-0b55-46da-9e84-675b5ea54937")
 		)
@@ -48279,6 +50029,15 @@
 			)
 		)
 		(property "MPN" "0402X225K100NT"
+			(at 580.39 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 580.39 199.39 0)
 			(effects
 				(font
@@ -48364,6 +50123,15 @@
 			)
 		)
 		(property "Digi-key PN" "DNP"
+			(at 276.86 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 276.86 312.42 0)
 			(effects
 				(font
@@ -48481,6 +50249,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 184.15 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c784db0c-25dc-46cd-8f09-532b4326d3f2")
 		)
@@ -48559,6 +50336,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 579.12 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "73f3014b-7c78-44fb-9f6d-ff6de9c15af6")
 		)
@@ -48618,6 +50404,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 381 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 381 49.53 0)
 			(effects
 				(font
@@ -48766,6 +50561,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 370.84 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e80b3750-933e-4191-9b39-b7d5e041246f")
 		)
@@ -48836,6 +50640,15 @@
 			)
 		)
 		(property "MPN" "GRM31CR61A476KE15L"
+			(at 581.66 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 581.66 53.34 0)
 			(effects
 				(font
@@ -48931,6 +50744,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 400.05 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1e4b0686-3997-47a3-a647-b8311c5d5a14")
 		)
@@ -48991,6 +50813,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 609.6 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "LP5907MFX-3.3"
+			(at 609.6 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 609.6 154.94 0)
 			(effects
 				(font
@@ -49085,6 +50925,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 186.69 406.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "40ce8261-0a77-4ab3-8289-765086a9b8c0")
 		)
@@ -49166,6 +51015,15 @@
 		)
 		(property "MPN" "FNR5040S330MT "
 			(at 162.56 21.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 162.56 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49316,6 +51174,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 416.56 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9bebdc4f-d94b-4fc4-bcd7-48c4d06c0b30")
 		)
@@ -49410,6 +51277,15 @@
 			)
 		)
 		(property "Digi-key PN" ""
+			(at 160.02 514.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 160.02 514.35 0)
 			(effects
 				(font
@@ -49562,6 +51438,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 166.37 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "25e8717e-7275-4412-bbcb-ec01dfa40a10")
 		)
@@ -49706,6 +51591,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 463.55 521.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e6035cb7-eb2c-4695-8d9e-3b642500f1e9")
 		)
@@ -49776,6 +51670,15 @@
 			)
 		)
 		(property "MPN" "189RV0019 "
+			(at 116.84 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 116.84 30.48 0)
 			(effects
 				(font
@@ -49856,6 +51759,15 @@
 		)
 		(property "MPN" "ESDCAN03-2BWY"
 			(at 83.82 514.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 83.82 514.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49954,6 +51866,15 @@
 			)
 		)
 		(property "Digi-key PN" "RMCF0603FT680KCT-ND"
+			(at 368.3 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 368.3 58.42 0)
 			(effects
 				(font
@@ -50105,6 +52026,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 807.085 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5eef0473-c812-4bf4-a786-6c232cf7acda")
 		)
@@ -50128,7 +52058,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d384d600-b3e0-4fe0-b0f2-7b0b50bd1c21")
 		(property "Reference" "C13"
 			(at 847.09 113.665 0)
@@ -50176,6 +52106,15 @@
 			)
 		)
 		(property "MPN" "DNP"
+			(at 840.74 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 840.74 113.665 0)
 			(effects
 				(font
@@ -50269,9 +52208,9 @@
 		(at 837.565 179.07 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d434c4d7-685c-416a-bc0b-d37870de98a3")
 		(property "Reference" "L13"
 			(at 833.755 180.34 0)
@@ -50317,6 +52256,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 837.565 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 837.565 179.07 0)
 			(effects
 				(font
@@ -50404,6 +52352,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 900.43 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "c0071802-bf55-41b6-90e8-26a05d43d4bb")
 		)
@@ -50469,6 +52426,15 @@
 			)
 		)
 		(property "Description" "8A Boost Converter, 0.5-5.5 V input, 2.2-5.5V output, Texas RWU0007A VQFN-7"
+			(at 307.34 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 307.34 130.81 0)
 			(effects
 				(font
@@ -50580,6 +52546,15 @@
 			)
 		)
 		(property "Digi-key PN" ""
+			(at 59.69 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 59.69 127 0)
 			(effects
 				(font
@@ -50729,6 +52704,15 @@
 				)
 			)
 		)
+		(property "Field5" ""
+			(at 662.94 551.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c811089a-294d-4688-9658-5222877875ee")
 		)
@@ -50817,6 +52801,15 @@
 			)
 		)
 		(property "MPN" "RC0402FR-0710RL"
+			(at 510.54 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 510.54 389.89 0)
 			(effects
 				(font
@@ -50916,6 +52909,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 490.855 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "50cdab10-849c-45f6-ba5e-d687d7cc1e13")
 		)
@@ -50981,6 +52983,15 @@
 			)
 		)
 		(property "Description" "8-Bit Bidirectional Voltage-Level Translator, Auto Direction Sensing and ±15-kV ESD Protection, 1.2 - 3.6V APort, 1.65 - 5.5V BPort, VQFN-20"
+			(at 487.68 546.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 487.68 546.1 0)
 			(effects
 				(font
@@ -51116,6 +53127,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 90.17 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2e99f8a3-3588-4b1d-a2a7-535eec6bd94a")
 		)
@@ -51192,6 +53212,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 311.15 468.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f75e9a4e-bfc7-4ec3-beae-75ad89b1813f")
 		)
@@ -51260,6 +53289,15 @@
 			)
 		)
 		(property "MPN" "DNP"
+			(at 48.26 416.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 48.26 416.56 0)
 			(effects
 				(font
@@ -51388,6 +53426,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x11, script generated"
+			(at 40.64 511.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 40.64 511.81 0)
 			(effects
 				(font
@@ -51585,6 +53632,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 154.94 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8b6644aa-4717-445e-9d0e-617dd784d581")
 		)
@@ -51721,6 +53777,15 @@
 		)
 		(property "MPN" "MLZ1608A2R2WT000"
 			(at 284.48 494.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 284.48 494.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51869,6 +53934,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 43.18 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "159601a8-95af-45c5-a57e-18b758d4c380")
 		)
@@ -51929,6 +54003,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 669.29 377.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 669.29 377.19 0)
 			(effects
 				(font
@@ -52002,6 +54085,15 @@
 			)
 		)
 		(property "MPN" "C0402C103K8RACTU"
+			(at 659.13 353.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 659.13 353.06 0)
 			(effects
 				(font
@@ -52193,6 +54285,15 @@
 		)
 		(property "MPN" "EG916QGLLG-N03-SGNSA  "
 			(at 744.22 394.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 744.22 377.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52715,6 +54816,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 640.08 539.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "df7a3790-8a8d-4cc0-a5c1-cb1aa4757647")
 		)
@@ -52848,8 +54958,17 @@
 				(hide yes)
 			)
 		)
-		(property "Field5" "SPM5030T-1R0M "
+		(property "MPN" "SPM5030T-1R0M "
 			(at 308.61 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 308.61 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52917,6 +55036,24 @@
 			)
 		)
 		(property "Description" "250-mA Ultra-Low-Noise Low-IQ LDO, 1.8V, SOT-23"
+			(at 715.01 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "LP5907MFX-1.8"
+			(at 715.01 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 715.01 109.22 0)
 			(effects
 				(font
@@ -53286,6 +55423,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 579.12 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "395bc9f8-579f-4d56-b9be-9a01e77ec251")
 		)
@@ -53427,6 +55573,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 43.18 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cdb426f9-d1a0-42f9-a1ec-cb48f333548f")
 		)
@@ -53499,6 +55654,15 @@
 		)
 		(property "MPN" "BAT54AW"
 			(at 260.35 496.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 260.35 496.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53588,6 +55752,15 @@
 			)
 		)
 		(property "MPN" "RMCF0402FT20R0"
+			(at 918.21 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 918.21 375.92 0)
 			(effects
 				(font
@@ -53806,6 +55979,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 309.88 521.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6888b368-ead6-4c48-9607-09987aebd8e3")
 		)
@@ -53877,6 +56059,15 @@
 			)
 		)
 		(property "MPN" "CL05B104KP5NNNC"
+			(at 459.74 454.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 459.74 454.66 0)
 			(effects
 				(font
@@ -53964,6 +56155,15 @@
 			)
 		)
 		(property "MF" "Murata"
+			(at 622.3 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 622.3 161.29 0)
 			(effects
 				(font
@@ -54113,6 +56313,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 138.43 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "80c9db40-8e90-438e-883d-96a0aa05cff9")
 		)
@@ -54200,6 +56409,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 153.67 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "774bb6d6-3224-4cb9-ae57-097b006459c7")
 		)
@@ -54278,6 +56496,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 351.79 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "10e6ae39-4a2c-497a-acfc-451ccf7061fc")
 		)
@@ -54347,6 +56574,15 @@
 			)
 		)
 		(property "MPN" "TS-1088-AR02016"
+			(at 80.01 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 80.01 328.93 0)
 			(effects
 				(font
@@ -54481,6 +56717,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 610.87 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "LP5907MFX-3.3"
+			(at 610.87 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 610.87 195.58 0)
 			(effects
 				(font
@@ -54732,6 +56986,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 33.02 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "97a1499d-8f21-4661-8bed-0e1e89d0838c")
 		)
@@ -54791,6 +57054,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 388.62 414.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 388.62 414.02 0)
 			(effects
 				(font
@@ -55145,6 +57417,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 622.3 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1c24e1a1-238b-47e4-8412-1eedaa18e5f3")
 		)
@@ -55299,6 +57580,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 577.85 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6a09e152-57be-4bd5-8d53-382623894adc")
 		)
@@ -55370,6 +57660,15 @@
 			)
 		)
 		(property "MPN" "CL05B104KP5NNNC"
+			(at 735.33 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 735.33 52.07 0)
 			(effects
 				(font
@@ -55457,6 +57756,15 @@
 			)
 		)
 		(property "MPN" "CL10B104KB8NNNC"
+			(at 133.35 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 133.35 30.48 0)
 			(effects
 				(font
