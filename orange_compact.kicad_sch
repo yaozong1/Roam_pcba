@@ -28121,16 +28121,6 @@
 	)
 	(wire
 		(pts
-			(xy 494.03 111.76) (xy 510.54 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b39d2cb1-f4e3-41c3-9281-6d7cde687a8a")
-	)
-	(wire
-		(pts
 			(xy 336.55 223.52) (xy 336.55 228.6)
 		)
 		(stroke
@@ -37034,7 +37024,7 @@
 			(uuid "2be6767e-b156-4e02-a7c0-c52471bd12bf")
 		)
 		(instances
-			(project ""
+			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "U22")
 					(unit 1)
@@ -46001,7 +45991,7 @@
 			(uuid "3e001a02-ba05-477a-82cf-d35318107d8b")
 		)
 		(instances
-			(project ""
+			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "JP2")
 					(unit 1)
@@ -47036,7 +47026,7 @@
 			(uuid "4d59cd27-07e6-4e83-ac58-6f73d8052ddc")
 		)
 		(instances
-			(project ""
+			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "C43")
 					(unit 1)
@@ -47605,7 +47595,7 @@
 			(uuid "c2cceb27-c326-4e47-a012-8fb7271d5959")
 		)
 		(instances
-			(project ""
+			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "U25")
 					(unit 1)
@@ -52666,7 +52656,7 @@
 			(uuid "0ce20843-014c-4c79-bb39-ee69c6df3587")
 		)
 		(instances
-			(project ""
+			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "U6")
 					(unit 1)
@@ -53891,7 +53881,7 @@
 			(uuid "36f9d80f-4766-4992-9769-ae9bf8b09cac")
 		)
 		(instances
-			(project ""
+			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "U20")
 					(unit 1)
@@ -55744,82 +55734,6 @@
 			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 510.54 111.76 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9ebe6ead-8b40-4e0a-a0b3-5c2469bb01fd")
-		(property "Reference" "TP24"
-			(at 515.62 111.125 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 515.62 113.665 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 510.54 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 510.54 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 510.54 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field5" ""
-			(at 510.54 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d477309f-2318-43e8-ad85-06dd73ca84c0")
-		)
-		(instances
-			(project "orange_compact"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "TP24")
 					(unit 1)
 				)
 			)
@@ -57854,7 +57768,7 @@
 			(uuid "029084c2-1ca9-407c-9e8a-ba366b448d6f")
 		)
 		(instances
-			(project ""
+			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "U2")
 					(unit 1)
@@ -58204,7 +58118,7 @@
 			(uuid "8e0c74f9-3b1b-45c4-9971-89f4ee7d6581")
 		)
 		(instances
-			(project ""
+			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "C90")
 					(unit 1)
@@ -58585,7 +58499,7 @@
 			(uuid "15fedb4b-e430-4943-9593-6c2b015aeff4")
 		)
 		(instances
-			(project ""
+			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "H4")
 					(unit 1)
@@ -61459,7 +61373,7 @@
 			(uuid "01e5a98e-9f77-483d-8660-b2397630bf6a")
 		)
 		(instances
-			(project ""
+			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "U17")
 					(unit 1)
@@ -62358,7 +62272,7 @@
 			(uuid "8ffca8a2-cbe4-4673-8112-0a923ec23f9b")
 		)
 		(instances
-			(project ""
+			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "U18")
 					(unit 1)
@@ -63771,7 +63685,7 @@
 			(uuid "3a57e3e6-fb3c-42de-9994-4f4d6ef13d41")
 		)
 		(instances
-			(project ""
+			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J7")
 					(unit 1)
@@ -64709,7 +64623,7 @@
 			(uuid "fad2e14f-997f-4364-8777-68137e50d7d2")
 		)
 		(instances
-			(project ""
+			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "L11")
 					(unit 1)
@@ -65230,7 +65144,7 @@
 			(uuid "432a9bee-34ee-494c-9af7-6f2e7852b849")
 		)
 		(instances
-			(project ""
+			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J6")
 					(unit 1)
@@ -66882,72 +66796,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+1V8")
-		(at 494.03 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f40d1c33-1c9b-4c9e-9952-93ea4092d543")
-		(property "Reference" "#PWR06"
-			(at 494.03 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+1V8"
-			(at 494.03 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 494.03 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 494.03 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 494.03 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "17bd29c5-541a-4238-9052-0da610ee43ef")
-		)
-		(instances
-			(project "orange_compact"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 193.04 304.8 0)
 		(mirror y)
@@ -68428,7 +68276,7 @@
 			(uuid "432a9bee-34ee-494c-9af7-6f2e7852b84a")
 		)
 		(instances
-			(project ""
+			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J6")
 					(unit 2)
