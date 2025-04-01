@@ -5,6 +5,281 @@
 	(uuid "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55")
 	(paper "User" 1100 599.999)
 	(lib_symbols
+		(symbol "0734120110:0734120110"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -5.0914 5.7279 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "0734120110"
+				(at -5.0885 -7.6327 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "0734120110:MOLEX_0734120110"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Molex"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "\n                        \n                            U.FL (UMCC) Connector Receptacle, Male Pin 50 Ohms Surface Mount Solder\n                        \n"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/0734120110/Molex/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/0734120110/Molex/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "0734120110"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Molex,LLC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "0734120110_0_0"
+				(rectangle
+					(start -5.08 -5.08)
+					(end 5.08 5.08)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 0 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.508)
+					(stroke
+						(width 1.016)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 3.5921)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin bidirectional line
+					(at 10.16 0 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 10.16 -2.54 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 10.16 -2.54 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 10.16 -2.54 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector:Conn_01x03_Male"
 			(pin_names
 				(offset 1.016) hide)
@@ -718,173 +993,6 @@
 						)
 					)
 					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "Connector:Conn_Coaxial"
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0.254 3.048 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_Coaxial"
-				(at 2.921 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" " ~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_Coaxial_0_1"
-				(arc
-					(start -1.778 -0.508)
-					(mid 0.222 -1.808)
-					(end 1.778 0)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -0.508 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy 0 -1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 0)
-					(radius 0.508)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 1.778 0)
-					(mid 0.222 1.8083)
-					(end -1.778 0.508)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Conn_Coaxial_1_1"
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "In"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "Ext"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6487,151 +6595,6 @@
 						(effects
 							(font
 								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "Jumper:Jumper_2_Bridged"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0) hide)
-			(exclude_from_sim yes)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "JP"
-				(at 0 1.905 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Jumper_2_Bridged"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Jumper, 2-pole, closed/bridged"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Jumper SPST"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Jumper* TestPoint*2Pads* TestPoint*Bridge*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Jumper_2_Bridged_0_0"
-				(circle
-					(center -2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Jumper_2_Bridged_0_1"
-				(arc
-					(start 1.524 0.254)
-					(mid 0 0.762)
-					(end -1.524 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Jumper_2_Bridged_1_1"
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
 							)
 						)
 					)
@@ -18788,7 +18751,7 @@
 	)
 	(wire
 		(pts
-			(xy 802.64 140.97) (xy 802.64 148.59)
+			(xy 807.72 138.43) (xy 807.72 146.05)
 		)
 		(stroke
 			(width 0)
@@ -23138,7 +23101,7 @@
 	)
 	(wire
 		(pts
-			(xy 819.15 203.2) (xy 819.15 209.55)
+			(xy 824.23 200.66) (xy 824.23 207.01)
 		)
 		(stroke
 			(width 0)
@@ -24666,6 +24629,16 @@
 		)
 		(uuid "d6396282-a592-4be6-b4dd-91dad00a91d5")
 	)
+	(wire
+		(pts
+			(xy 516.89 173.99) (xy 534.67 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6840aeb-22db-4747-8937-8b89c1e2cf8c")
+	)
 	(polyline
 		(pts
 			(xy 668.02 289.56) (xy 668.02 312.42)
@@ -25498,7 +25471,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 173.99) (xy 491.49 173.99)
+			(xy 491.49 173.99) (xy 509.27 173.99)
 		)
 		(stroke
 			(width 0)
@@ -25655,16 +25628,6 @@
 			(type default)
 		)
 		(uuid "f3f78c10-b8de-4310-b5be-44ea6d5343aa")
-	)
-	(wire
-		(pts
-			(xy 518.16 173.99) (xy 534.67 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3f900a0-db0d-49f7-b83e-23848e7f7615")
 	)
 	(polyline
 		(pts
@@ -29865,7 +29828,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01852fcb-7030-4e1f-a660-b53d0216d94f")
 		(property "Reference" "C100"
@@ -29953,7 +29916,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "0208b645-9305-47e5-aa74-dc737bceb318")
 		(property "Reference" "TP25"
 			(at 391.16 393.7 0)
@@ -30123,7 +30086,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "02a70d5a-53c3-40b2-b44c-95f693b74426")
 		(property "Reference" "#PWR0113"
 			(at 237.49 496.57 0)
@@ -30264,7 +30227,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "0444ce8b-66b1-4e7f-ad4d-3d351debcead")
 		(property "Reference" "R85"
 			(at 345.6686 218.5416 0)
@@ -30429,7 +30392,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 819.15 209.55 0)
+		(at 824.23 207.01 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -30438,7 +30401,7 @@
 		(dnp no)
 		(uuid "05031d19-d168-4517-8504-ddbe555e305a")
 		(property "Reference" "#PWR02"
-			(at 819.15 215.9 0)
+			(at 824.23 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30447,7 +30410,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 819.15 213.36 0)
+			(at 824.23 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30455,7 +30418,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 819.15 209.55 0)
+			(at 824.23 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30464,7 +30427,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 819.15 209.55 0)
+			(at 824.23 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30473,7 +30436,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 819.15 209.55 0)
+			(at 824.23 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30639,100 +30602,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_Coaxial")
-		(at 819.15 198.12 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "062bc97b-159c-4fec-950a-c8f6c8e03fd5")
-		(property "Reference" "J4"
-			(at 815.34 199.6833 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 825.5 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TC-Connector:coax-u.fl"
-			(at 819.15 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 819.15 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 819.15 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "2337019-1"
-			(at 819.15 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field5" ""
-			(at 819.15 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2659d48d-c94d-4f4b-8442-e54c10025fc3")
-		)
-		(pin "2"
-			(uuid "766d32d6-4299-4fdc-a6ce-e78446d2c290")
-		)
-		(instances
-			(project "inductive_sensor_node"
-				(path "/a690fc6c-55d9-47e6-b533-faa4b67e20f3"
-					(reference "J4")
-					(unit 1)
-				)
-			)
-			(project "orange_compact"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 59.69 154.94 0)
 		(unit 1)
@@ -30804,7 +30673,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "096b12f9-a0e5-409a-a305-fd4f27cb32d4")
 		(property "Reference" "U22"
@@ -30913,7 +30782,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "0b03b15b-7aa7-4b57-b225-8fa0db9a9efd")
 		(property "Reference" "C115"
 			(at 384.81 57.15 0)
@@ -31251,7 +31120,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "0bf255b9-4544-4403-9704-c2b64ab919aa")
 		(property "Reference" "#PWR0116"
 			(at 309.88 533.4 0)
@@ -31977,7 +31846,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "133c0cfe-d660-4233-98cc-9773aa7035e0")
 		(property "Reference" "#PWR024"
@@ -32137,7 +32006,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16c4ee55-788f-4d3b-be27-aeb9d893bf0a")
 		(property "Reference" "U15"
@@ -32475,6 +32344,101 @@
 		)
 	)
 	(symbol
+		(lib_id "0734120110:0734120110")
+		(at 814.07 198.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1b366502-272c-48be-b626-185e4d9b6715")
+		(property "Reference" "J3"
+			(at 814.0954 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "IPEX"
+			(at 814.0954 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TC-Connector:IPEX1"
+			(at 814.07 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 814.07 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 814.07 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Molex"
+			(at 814.07 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GT-RF1125A-01G"
+			(at 814.07 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "e1b452ca-190a-4ae3-a083-83346fea345c")
+		)
+		(pin "2"
+			(uuid "23abcb81-f998-40ff-a673-581c9511921a")
+		)
+		(pin "4"
+			(uuid "9e8a6b94-3678-42b3-a916-8b4f3cde08d3")
+		)
+		(pin "1"
+			(uuid "41289522-a6b7-4f6d-9c61-076496a4acdb")
+		)
+		(instances
+			(project "orange_compact"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 868.045 382.905 0)
 		(unit 1)
@@ -32781,7 +32745,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "1dbfceb3-98c0-4858-8c6b-8f15e05b3ce7")
 		(property "Reference" "#PWR024"
 			(at 487.68 436.88 0)
@@ -32852,7 +32816,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "1e6007e6-269e-4c54-a7ad-769771de469d")
 		(property "Reference" "R36"
 			(at 482.6 421.64 0)
@@ -33244,7 +33208,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fb7ebd0-d389-4ccc-958f-c26306b9f6f2")
 		(property "Reference" "#PWR027"
@@ -33490,7 +33454,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "242697c0-f855-418e-a49a-5dcfaa106561")
 		(property "Reference" "U16"
@@ -33758,7 +33722,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "2567394e-6f19-4292-9baf-c644d9d31e4b")
 		(property "Reference" "#PWR0103"
 			(at 378.46 69.85 0)
@@ -34669,7 +34633,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "2c0cb7e5-b9f3-4046-8fdb-981721db2347")
 		(property "Reference" "U9"
 			(at 855.98 398.78 90)
@@ -34928,7 +34892,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "3038ecf9-dee0-4a1d-b19a-d770bc91c160")
 		(property "Reference" "#PWR0114"
 			(at 278.13 543.56 0)
@@ -34993,7 +34957,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "30933a1a-47f0-4063-97ee-31810f99d225")
 		(property "Reference" "R60"
 			(at 294.8686 471.2716 0)
@@ -35503,7 +35467,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "36ac4730-3803-4d2f-801b-e7ba036819b2")
 		(property "Reference" "#PWR0118"
 			(at 311.15 480.06 0)
@@ -35568,7 +35532,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "36f4dab9-cf90-449f-adf2-d160226c6ec1")
 		(property "Reference" "R80"
 			(at 335.5086 139.8016 0)
@@ -35673,7 +35637,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "36f6a77e-2bee-436c-81f9-3b929163bb18")
 		(property "Reference" "R79"
 			(at 335.5086 127.1016 0)
@@ -35778,7 +35742,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "3737602b-c170-4ea6-aa37-ae9a2ff1a3b5")
 		(property "Reference" "R39"
 			(at 510.54 407.67 0)
@@ -35877,7 +35841,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "3903cb98-61e7-44ce-afed-66f391a791ed")
 		(property "Reference" "#PWR091"
 			(at 288.29 38.1 0)
@@ -36095,7 +36059,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b8124a1-70b5-4820-9a67-018e3e2956d9")
 		(property "Reference" "R25"
@@ -36143,7 +36107,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RMCF0402FT10K0"
+		(property "MPN" ""
 			(at 631.19 63.5 0)
 			(effects
 				(font
@@ -36183,7 +36147,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c28646c-e686-44d9-93a3-e2c6cb32f9ca")
 		(property "Reference" "C110"
@@ -37349,7 +37313,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "479e4e85-6c8f-43de-9bea-5d83366acc68")
 		(property "Reference" "#PWR04"
 			(at 459.74 466.09 0)
@@ -37758,17 +37722,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:Jumper_2_Bridged")
-		(at 513.08 173.99 0)
+		(lib_id "Device:R")
+		(at 513.08 173.99 90)
 		(unit 1)
-		(exclude_from_sim yes)
+		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4e0af52d-5202-4cd8-8af4-299c6aa99811")
 		(property "Reference" "JP2"
-			(at 513.08 168.91 0)
+			(at 513.08 167.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37776,7 +37740,7 @@
 			)
 		)
 		(property "Value" "0"
-			(at 513.08 171.45 0)
+			(at 513.08 170.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37784,7 +37748,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 513.08 173.99 0)
+			(at 513.08 175.768 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37801,7 +37765,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, closed/bridged"
+		(property "Description" "Resistor"
 			(at 513.08 173.99 0)
 			(effects
 				(font
@@ -38002,7 +37966,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "4f3e5523-e00c-4fbe-9a9a-f22bf58f44ef")
 		(property "Reference" "C104"
 			(at 366.141 127.1016 0)
@@ -39317,7 +39281,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "5e67507e-c27d-4e2d-a6d8-08ee29871fe6")
 		(property "Reference" "C108"
 			(at 262.128 216.916 0)
@@ -39816,7 +39780,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "62537783-ad5e-49d4-bad1-f7e38f7d9f2c")
 		(property "Reference" "R84"
 			(at 339.344 210.566 0)
@@ -40172,7 +40136,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "66dc7ce9-aca4-4af8-a665-a58e298c0d43")
 		(property "Reference" "R87"
 			(at 266.8016 204.2414 0)
@@ -40353,7 +40317,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "6c468239-3deb-4e8e-950e-b131ee1118fe")
 		(property "Reference" "R37"
 			(at 482.6 396.24 0)
@@ -40681,7 +40645,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "6e03bb05-667c-47a7-bec0-0876e40a9d62")
 		(property "Reference" "U5"
 			(at 281.94 474.98 0)
@@ -40864,7 +40828,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "6e1bd8f6-c96b-4bdf-879a-dcc256c140eb")
 		(property "Reference" "#PWR03"
 			(at 391.16 467.36 0)
@@ -41162,7 +41126,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "70b77244-de37-4838-9d92-ffe1f35112c5")
 		(property "Reference" "#PWR0115"
 			(at 293.37 508 0)
@@ -41532,7 +41496,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "75660dad-43ae-4011-a7f0-6ab80720138d")
 		(property "Reference" "R32"
 			(at 405.13 383.54 0)
@@ -41631,7 +41595,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "7682ed5e-3e73-489d-8e8b-9f64f50c1b5e")
 		(property "Reference" "R3"
 			(at 417.9316 401.0914 0)
@@ -41794,7 +41758,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "7898f872-ff14-4eb5-92ae-5da64a27b57e")
 		(property "Reference" "U19"
 			(at 288.29 518.16 0)
@@ -42021,7 +41985,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ba1f110-ba70-4aab-877e-7a16d51b8687")
 		(property "Reference" "IC4"
@@ -42253,7 +42217,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "7cf8750a-f016-40b5-93a5-708e94481505")
 		(property "Reference" "R61"
 			(at 298.2214 533.2984 0)
@@ -42974,100 +42938,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_Coaxial")
-		(at 802.64 135.89 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8459424d-624c-4eda-bf37-deaefa87df8d")
-		(property "Reference" "J4"
-			(at 798.83 137.4533 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 808.99 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TC-Connector:coax-u.fl"
-			(at 802.64 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 802.64 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 802.64 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "2337019-1"
-			(at 802.64 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field5" ""
-			(at 802.64 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3bfd2640-35f1-46a7-9ff5-e765ad1f2425")
-		)
-		(pin "2"
-			(uuid "e32c975e-d19d-4508-a16f-30c0ddd38e60")
-		)
-		(instances
-			(project "inductive_sensor_node"
-				(path "/a690fc6c-55d9-47e6-b533-faa4b67e20f3"
-					(reference "J4")
-					(unit 1)
-				)
-			)
-			(project "orange_compact"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 379.73 328.295 0)
 		(unit 1)
@@ -43289,7 +43159,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "87b8800d-31d0-4f05-b7a7-884983186dc8")
 		(property "Reference" "#PWR094"
 			(at 271.78 232.41 0)
@@ -43700,7 +43570,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "8bdd3d6d-2622-4ae9-879c-ed751cb61e39")
 		(property "Reference" "R35"
 			(at 482.6 384.81 0)
@@ -43875,7 +43745,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "8d5238bc-0147-437e-b902-22244a785046")
 		(property "Reference" "#PWR05"
 			(at 431.8 486.41 0)
@@ -43940,7 +43810,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d578ec5-f7d5-438d-a001-bb098a11c262")
 		(property "Reference" "D16"
@@ -44192,7 +44062,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "913ead67-c5af-4548-bd41-60bdb4bfd64b")
 		(property "Reference" "#PWR078"
@@ -44540,7 +44410,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "93480724-ecce-46d3-9725-5456f27d74ae")
 		(property "Reference" "C1"
 			(at 388.239 454.7616 0)
@@ -44963,7 +44833,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "95f5537c-ecf8-42ea-ad83-9b225518f666")
 		(property "Reference" "C14"
 			(at 428.244 379.476 0)
@@ -45195,7 +45065,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "978c2d66-b83a-4e57-b3d9-6f3a43608a1e")
 		(property "Reference" "R57"
 			(at 274.5486 473.8116 0)
@@ -45283,7 +45153,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97dc01a4-fe23-49c4-bc08-7302aee2eacb")
 		(property "Reference" "J1"
@@ -46213,7 +46083,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "a05133ce-0a91-4eca-95e9-ea7a1e512da8")
 		(property "Reference" "#PWR0121"
 			(at 623.57 194.31 0)
@@ -46354,7 +46224,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "a096d98a-26d4-41df-9350-787272b54134")
 		(property "Reference" "R86"
 			(at 338.0486 219.8116 0)
@@ -47027,7 +46897,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "a85491b3-7485-4c7e-ace0-197af60f196f")
 		(property "Reference" "#PWR0119"
 			(at 580.39 194.31 0)
@@ -47092,7 +46962,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "a8d8fdb9-5fe6-4067-9517-cacd94343f72")
 		(property "Reference" "R2"
 			(at 288.3916 209.3214 0)
@@ -47293,7 +47163,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "a9dea233-dd8a-4964-8c06-337feca4e180")
 		(property "Reference" "#PWR082"
 			(at 307.34 154.94 0)
@@ -47358,7 +47228,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "a9f5d984-739a-4460-a6b6-b023b7811ce5")
 		(property "Reference" "R34"
 			(at 389.89 383.54 0)
@@ -47523,7 +47393,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "ac37e048-9a0a-4c07-bc6a-6df284e0bdb4")
 		(property "Reference" "R93"
 			(at 369.7986 47.0916 0)
@@ -47706,7 +47576,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "ae123f80-a14f-4d18-84ee-166a6c3c57fe")
 		(property "Reference" "C102"
 			(at 263.398 132.334 0)
@@ -47793,7 +47663,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af02a668-4ae1-4d56-a9dd-e2276a6a7c27")
 		(property "Reference" "U2"
@@ -49032,7 +48902,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "bc9fcc22-3251-46f5-989c-40bcaa70df53")
 		(property "Reference" "C111"
 			(at 358.902 209.804 0)
@@ -49269,7 +49139,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c06200fc-2c65-4ae2-b5bb-ec0bae05199a")
 		(property "Reference" "#PWR079"
@@ -49620,7 +49490,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "c50e5423-08b3-4217-861d-a80eb52cefb2")
 		(property "Reference" "#PWR0120"
 			(at 610.87 194.31 0)
@@ -49685,7 +49555,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "c52d8e17-6c02-46df-82d3-76b5b64b5781")
 		(property "Reference" "C109"
 			(at 373.761 209.6516 0)
@@ -50064,7 +49934,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cace727c-b876-4905-91a7-4e5256d69de0")
 		(property "Reference" "U27"
@@ -50342,7 +50212,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "cbe21ff7-a56d-4622-894f-80d3c7ccd6af")
 		(property "Reference" "#PWR077"
 			(at 483.87 232.41 0)
@@ -50407,7 +50277,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "cbfb61d3-4849-4b4d-bff3-e1cbf995d4cf")
 		(property "Reference" "C13"
 			(at 417.576 379.222 0)
@@ -51170,7 +51040,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "d19a758a-1ea7-48bb-9825-ac837fe0edbb")
 		(property "Reference" "R94"
 			(at 369.7986 57.2516 0)
@@ -51371,7 +51241,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "d2102020-aaf8-46cd-a70f-086dcba82825")
 		(property "Reference" "#PWR090"
 			(at 331.47 238.76 0)
@@ -51706,7 +51576,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4ce940c-d598-49da-8701-934d8a67ee34")
 		(property "Reference" "U18"
@@ -52333,7 +52203,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "d89d0d2d-eaf7-493d-a989-10880246c3d7")
 		(property "Reference" "R38"
 			(at 510.54 394.97 0)
@@ -52768,7 +52638,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db1f3d21-0ac4-4f74-955f-5a93dff6e98a")
 		(property "Reference" "C73"
@@ -53069,7 +52939,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 802.64 148.59 0)
+		(at 807.72 146.05 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -53078,7 +52948,7 @@
 		(dnp no)
 		(uuid "dfa10919-9de0-4fff-98d8-d36e9906446f")
 		(property "Reference" "#PWR01"
-			(at 802.64 154.94 0)
+			(at 807.72 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53087,7 +52957,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 802.64 152.4 0)
+			(at 807.72 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53095,7 +52965,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 802.64 148.59 0)
+			(at 807.72 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53104,7 +52974,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 802.64 148.59 0)
+			(at 807.72 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53113,7 +52983,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 802.64 148.59 0)
+			(at 807.72 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53140,7 +53010,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0233829-5176-472f-a185-e59992b196ed")
 		(property "Reference" "L15"
@@ -53226,7 +53096,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "e057768f-fa88-4f04-b8f3-6792a06b279d")
 		(property "Reference" "#PWR093"
 			(at 365.76 224.79 0)
@@ -53745,7 +53615,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "e7d121a7-166b-48db-8e10-1f39c2603e40")
 		(property "Reference" "L11"
 			(at 309.626 117.348 90)
@@ -54774,7 +54644,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "ed000396-7f16-4623-bdb8-8b942e4c3834")
 		(property "Reference" "C119"
 			(at 582.93 185.42 0)
@@ -54859,6 +54729,101 @@
 			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "C119")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0734120110:0734120110")
+		(at 797.56 135.89 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ed9fda1f-8835-4b66-b29e-299e499c9afc")
+		(property "Reference" "J8"
+			(at 797.5854 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "IPEX"
+			(at 797.5854 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TC-Connector:IPEX1"
+			(at 797.56 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 797.56 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 797.56 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Molex"
+			(at 797.56 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GT-RF1125A-01G"
+			(at 797.56 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "d7d0772e-27ab-4e92-a8eb-d8a69354ef7e")
+		)
+		(pin "2"
+			(uuid "2ea774fd-1cd8-4e10-819c-6fbfe63d91eb")
+		)
+		(pin "4"
+			(uuid "39cc1236-3c8a-4a27-8a6b-1fb97212dc80")
+		)
+		(pin "1"
+			(uuid "a26a83d1-bf18-41b6-84ab-8e6e67d50a3d")
+		)
+		(instances
+			(project ""
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -54956,7 +54921,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "eecaa32c-ce3f-4558-ab2e-22e7213b760b")
 		(property "Reference" "D17"
 			(at 246.38 507.238 90)
@@ -55265,7 +55230,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f010488e-29b2-4ea3-84b9-11d1fdb91347")
 		(property "Reference" "C72"
@@ -55354,7 +55319,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "f0d6332c-fb71-4f17-9b05-d7c3d311c803")
 		(property "Reference" "C5"
 			(at 456.819 453.4916 0)
@@ -55441,7 +55406,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "f1c9e3ee-ff57-41d6-a571-6386c2135802")
 		(property "Reference" "C120"
 			(at 626.11 186.69 0)
@@ -55729,7 +55694,7 @@
 				)
 			)
 		)
-		(property "Value" "1NCE IoT SIMs Chip"
+		(property "Value" "IoT SIMs Chip"
 			(at 755.015 502.285 0)
 			(effects
 				(font
@@ -55755,7 +55720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IoT SIMs Chip"
 			(at 753.745 509.905 0)
 			(effects
 				(font
@@ -55821,7 +55786,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "f3b70d2d-2c02-4b0d-8b93-846ca51a6a41")
 		(property "Reference" "C103"
 			(at 354.711 127.1016 0)
@@ -56172,7 +56137,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "f70b9cdb-e77e-43f6-8cb2-a9a0e5978c43")
 		(property "Reference" "TP26"
 			(at 391.16 412.75 0)
@@ -56245,7 +56210,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "f793ec1f-0551-4a58-a285-e1b552055ff1")
 		(property "Reference" "#PWR0102"
 			(at 368.3 69.85 0)
