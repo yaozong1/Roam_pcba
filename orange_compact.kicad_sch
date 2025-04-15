@@ -29740,6 +29740,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 510.54 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "280c645e-5b5f-4147-a322-dbb7c9eba83a")
 		)
@@ -29833,6 +29842,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 74.93 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "21fac665-d9fa-4f87-8e38-574ec9338aa4")
 		)
@@ -29855,7 +29873,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "01852fcb-7030-4e1f-a660-b53d0216d94f")
 		(property "Reference" "C100"
@@ -29930,6 +29948,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "1"
+			(at 483.87 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "98f379db-2f2d-4a72-b84b-c16e7a275d49")
 		)
@@ -29952,7 +29979,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0208b645-9305-47e5-aa74-dc737bceb318")
 		(property "Reference" "TP25"
 			(at 391.16 393.7 0)
@@ -30016,6 +30043,15 @@
 			)
 		)
 		(property "MPN" "#N/A"
+			(at 388.62 394.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 388.62 394.97 0)
 			(effects
 				(font
@@ -30119,6 +30155,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C1525"
+			(at 179.705 524.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 179.705 524.51 0)
 			(effects
 				(font
@@ -30289,6 +30334,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 510.54 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "521a0d58-8506-42c1-b9ae-70244dcb214e")
 		)
@@ -30308,7 +30362,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0444ce8b-66b1-4e7f-ad4d-3d351debcead")
 		(property "Reference" "R85"
 			(at 345.6686 218.5416 0)
@@ -30392,6 +30446,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C25794"
+			(at 344.17 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 344.17 219.71 0)
 			(effects
 				(font
@@ -30685,6 +30748,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 1037.59 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "24b11ca1-da4a-4218-9bdf-69fed978b4a5")
 		)
@@ -30772,7 +30844,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "096b12f9-a0e5-409a-a305-fd4f27cb32d4")
 		(property "Reference" "U22"
@@ -30846,6 +30918,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "1"
+			(at 313.69 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "963662a0-2490-4c7a-b9f6-de25d844566b")
 		)
@@ -30890,7 +30971,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0b03b15b-7aa7-4b57-b225-8fa0db9a9efd")
 		(property "Reference" "C115"
 			(at 384.81 57.15 0)
@@ -30965,6 +31046,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C1525"
+			(at 378.46 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 378.46 58.42 0)
 			(effects
 				(font
@@ -31062,6 +31152,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C307436"
+			(at 78.74 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 78.74 139.7 0)
 			(effects
 				(font
@@ -31233,6 +31332,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 841.375 203.835 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "13bbeea7-7f7d-40e1-8512-d78909e3b94a")
 		)
@@ -31394,6 +31502,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 62.23 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "285a4809-424b-479d-8216-3a388c63b3ba")
 		)
@@ -31480,6 +31597,15 @@
 			)
 		)
 		(property "MPN" "#N/A"
+			(at 939.8 467.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 939.8 467.36 0)
 			(effects
 				(font
@@ -31651,6 +31777,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 804.545 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8d4241c8-e06d-4029-8933-798643e1120e")
 		)
@@ -31740,6 +31875,15 @@
 			)
 		)
 		(property "MPN" "#N/A"
+			(at 510.54 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 510.54 88.9 0)
 			(effects
 				(font
@@ -31924,6 +32068,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 69.85 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5d276181-7b0e-4b49-b79b-5733d1cb992d")
 		)
@@ -32031,6 +32184,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 603.25 401.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d11c8c1c-4ae8-4e95-8dc5-f051d4a46447")
 		)
@@ -32053,7 +32215,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "133c0cfe-d660-4233-98cc-9773aa7035e0")
 		(property "Reference" "#PWR024"
@@ -32200,6 +32362,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 173.99 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "db4b3c75-b9e2-4656-b724-9977082dde44")
 		)
@@ -32222,7 +32393,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "16c4ee55-788f-4d3b-be27-aeb9d893bf0a")
 		(property "Reference" "U15"
@@ -32287,6 +32458,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C2869734"
+			(at 514.35 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 514.35 190.5 0)
 			(effects
 				(font
@@ -32401,6 +32581,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 833.12 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "07dd7c61-5d54-4e88-839c-f608b1c03e23")
 		)
@@ -32498,6 +32687,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C77055"
+			(at 614.68 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 614.68 44.45 0)
 			(effects
 				(font
@@ -32669,6 +32867,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 814.07 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "e1b452ca-190a-4ae3-a083-83346fea345c")
 		)
@@ -32697,7 +32904,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1b76899d-78b7-4f2e-868e-6e04b8b8a901")
 		(property "Reference" "#PWR051"
 			(at 868.045 389.255 0)
@@ -32984,6 +33191,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 59.69 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0daf4b03-0db3-4a88-8459-ce054281fa3e")
 		)
@@ -33006,7 +33222,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1dbfceb3-98c0-4858-8c6b-8f15e05b3ce7")
 		(property "Reference" "#PWR024"
 			(at 487.68 436.88 0)
@@ -33077,7 +33293,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1e6007e6-269e-4c54-a7ad-769771de469d")
 		(property "Reference" "R36"
 			(at 482.6 421.64 0)
@@ -33151,6 +33367,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "1"
+			(at 487.68 421.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "be8cbb68-8310-4c21-b871-26cf970ddb58")
 		)
@@ -33185,7 +33410,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1eb52999-b46d-4258-8da3-310f5dcb9cd4")
 		(property "Reference" "R16"
 			(at 839.47 426.72 90)
@@ -33268,6 +33493,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "1"
+			(at 838.2 424.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d894be5c-de7b-4705-9690-340c2eeb1685")
 		)
@@ -33291,7 +33525,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1ed2b3ac-63c5-4a70-a3f6-a4481df72496")
 		(property "Reference" "#PWR0107"
 			(at 859.155 214.63 0)
@@ -33487,7 +33721,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1fb7ebd0-d389-4ccc-958f-c26306b9f6f2")
 		(property "Reference" "#PWR027"
@@ -33633,6 +33867,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 189.865 524.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1d530e1b-38ee-4b83-b04a-becec2727906")
 		)
@@ -33735,6 +33978,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 40.64 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -33751,7 +34003,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "242697c0-f855-418e-a49a-5dcfaa106561")
 		(property "Reference" "U16"
@@ -33816,6 +34068,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C2869734"
+			(at 514.35 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 514.35 219.71 0)
 			(effects
 				(font
@@ -33930,6 +34191,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 599.44 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d42db067-86b6-4740-8de0-8b1d9cb5315b")
 		)
@@ -34033,6 +34303,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 641.35 301.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a18e083e-c475-4419-811d-7d1201650924")
 		)
@@ -34055,7 +34334,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2567394e-6f19-4292-9baf-c644d9d31e4b")
 		(property "Reference" "#PWR0103"
 			(at 378.46 69.85 0)
@@ -34212,6 +34491,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 709.93 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6c3e0f68-66f6-4c38-9628-561879e98e08")
 		)
@@ -34301,6 +34589,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C237468"
+			(at 143.51 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 143.51 142.24 0)
 			(effects
 				(font
@@ -34406,6 +34703,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C77055"
+			(at 194.31 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 194.31 30.48 0)
 			(effects
 				(font
@@ -34568,6 +34874,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C316020"
+			(at 818.515 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 818.515 344.17 0)
 			(effects
 				(font
@@ -34748,6 +35063,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 613.41 406.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f62b9edc-1cd1-4dd2-a4cf-b8d21d98498c")
 		)
@@ -34835,6 +35159,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 1009.65 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "527327d0-75e0-47c5-9977-e289cbadb684")
 		)
@@ -34858,7 +35191,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2b6301a3-5467-4fc1-bb31-50e77447df18")
 		(property "Reference" "#PWR0185"
 			(at 872.49 152.4 0)
@@ -35006,6 +35339,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 621.03 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ede00a7d-9c42-4dba-8e72-a5e499b7e231")
 		)
@@ -35029,7 +35371,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2c0cb7e5-b9f3-4046-8fdb-981721db2347")
 		(property "Reference" "U9"
 			(at 855.98 398.78 90)
@@ -35093,6 +35435,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C2827654"
+			(at 855.345 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 855.345 381 0)
 			(effects
 				(font
@@ -35211,6 +35562,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C96446"
+			(at 193.04 300.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 193.04 300.355 0)
 			(effects
 				(font
@@ -35454,6 +35814,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 293.37 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "49f72945-4f05-4bb0-825a-40af9052efa2")
 		)
@@ -35540,6 +35909,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C25741"
+			(at 679.45 536.575 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 679.45 536.575 0)
 			(effects
 				(font
@@ -35791,6 +36169,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 285.75 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1bd497a9-278b-4cf4-85e3-908fd27e6c90")
 		)
@@ -35878,6 +36265,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C80670"
+			(at 608.33 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 608.33 101.6 0)
 			(effects
 				(font
@@ -35982,7 +36378,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "36f4dab9-cf90-449f-adf2-d160226c6ec1")
 		(property "Reference" "R80"
 			(at 335.5086 139.8016 0)
@@ -36074,6 +36470,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "1"
+			(at 334.01 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7eaad6cf-7134-4a87-8a0c-e9b002eb7222")
 		)
@@ -36096,7 +36501,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "36f6a77e-2bee-436c-81f9-3b929163bb18")
 		(property "Reference" "R79"
 			(at 335.5086 127.1016 0)
@@ -36188,6 +36593,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "1"
+			(at 334.01 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2840a426-9d48-47c7-bdbc-4c8a6a254967")
 		)
@@ -36210,7 +36624,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3737602b-c170-4ea6-aa37-ae9a2ff1a3b5")
 		(property "Reference" "R39"
 			(at 510.54 407.67 0)
@@ -36284,6 +36698,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "1"
+			(at 510.54 402.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d4d6e4da-0472-44d9-951a-bd076e71afab")
 		)
@@ -36318,7 +36741,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3903cb98-61e7-44ce-afed-66f391a791ed")
 		(property "Reference" "#PWR091"
 			(at 288.29 38.1 0)
@@ -36449,6 +36872,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C441758"
+			(at 740.41 519.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 740.41 519.43 0)
 			(effects
 				(font
@@ -36620,6 +37052,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 631.19 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f8dff01c-03ea-4757-9ad0-d5487f81dd52")
 		)
@@ -36642,7 +37083,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3c28646c-e686-44d9-93a3-e2c6cb32f9ca")
 		(property "Reference" "C110"
@@ -36709,6 +37150,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C1525"
+			(at 276.86 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 276.86 218.44 0)
 			(effects
 				(font
@@ -36813,6 +37263,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 49.53 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "47170763-2cf7-43ed-bd95-5427fbe1817d")
 		)
@@ -36900,7 +37359,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3ee17aff-87e0-4880-aa63-f4bf0bb04840")
 		(property "Reference" "L10"
 			(at 855.345 204.47 0)
@@ -36972,6 +37431,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "1"
+			(at 859.155 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d36ff341-f2a6-498a-87fa-47ee0c38b979")
 		)
@@ -36994,7 +37462,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3fd4b50b-7145-4545-b1fe-c24fb1ad75dd")
 		(property "Reference" "C23"
@@ -37061,6 +37529,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C52923"
+			(at 843.915 411.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 843.915 411.48 0)
 			(effects
 				(font
@@ -37146,6 +37623,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C1525"
+			(at 1031.24 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 1031.24 350.52 0)
 			(effects
 				(font
@@ -37308,6 +37794,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C5439972"
+			(at 863.6 530.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 863.6 530.86 0)
 			(effects
 				(font
@@ -37481,6 +37976,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 90.17 359.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b8dfe510-75ec-4d2c-b5fd-6224b50e64e3")
 		)
@@ -37555,6 +38059,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C1525"
+			(at 1031.24 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 1031.24 379.73 0)
 			(effects
 				(font
@@ -37722,6 +38235,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 321.31 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d9c6c373-e809-42d2-a329-0766da3efd03")
 		)
@@ -37819,6 +38341,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 1023.62 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "783ad44a-afd4-467a-933b-d4c43dcfa014")
 		)
@@ -37842,7 +38373,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "46ff9ebc-d884-4421-b960-70625eb59922")
 		(property "Reference" "#PWR0108"
 			(at 869.315 214.63 0)
@@ -37907,7 +38438,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "479e4e85-6c8f-43de-9bea-5d83366acc68")
 		(property "Reference" "#PWR04"
 			(at 459.74 466.09 0)
@@ -38054,6 +38585,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 91.44 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b84b2a88-fee2-4981-a5fb-7919dc549ba6")
 		)
@@ -38151,6 +38691,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 670.56 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "837fdd0b-1983-4845-8b66-a2ebbcad5a3f")
 		)
@@ -38240,6 +38789,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C5439972"
+			(at 935.99 447.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 935.99 447.04 0)
 			(effects
 				(font
@@ -38348,6 +38906,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 510.54 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5a7b023d-69f5-4c57-9538-8f368771b883")
 		)
@@ -38423,6 +38990,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "#N/A"
+			(at 513.08 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 513.08 173.99 0)
 			(effects
 				(font
@@ -38525,6 +39101,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 179.705 515.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d7525f53-77af-4201-93d9-b8643d9cce78")
 		)
@@ -38619,6 +39204,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 621.03 495.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7cd20ab8-0d80-433e-b5be-ae767046d68d")
 		)
@@ -38641,7 +39235,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "4f3e5523-e00c-4fbe-9a9a-f22bf58f44ef")
 		(property "Reference" "C104"
 			(at 366.141 127.1016 0)
@@ -38707,6 +39301,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C98190"
+			(at 363.22 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 363.22 128.27 0)
 			(effects
 				(font
@@ -38820,6 +39423,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 143.51 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "76dd5546-4b4b-443b-b5b0-3cb2955899f1")
 		)
@@ -38909,6 +39521,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C23138"
+			(at 709.93 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 709.93 44.45 0)
 			(effects
 				(font
@@ -39070,6 +39691,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C1588"
+			(at 62.23 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 62.23 38.1 0)
 			(effects
 				(font
@@ -39395,6 +40025,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 33.02 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dfec3e8d-8c25-49f6-a37d-8d2d914dbfd2")
 		)
@@ -39474,6 +40113,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C335982"
+			(at 607.06 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 607.06 44.45 0)
 			(effects
 				(font
@@ -39644,6 +40292,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 1037.59 458.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4f6e7133-fe9a-4bc2-ae61-66958be077f2")
 		)
@@ -39733,6 +40390,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C2913206"
+			(at 156.21 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 156.21 340.36 0)
 			(effects
 				(font
@@ -40027,6 +40693,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 510.54 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f7921030-ed03-4e88-8a08-ab0277a0d682")
 		)
@@ -40046,7 +40721,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5e67507e-c27d-4e2d-a6d8-08ee29871fe6")
 		(property "Reference" "C108"
 			(at 262.128 216.916 0)
@@ -40112,6 +40787,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C19702"
+			(at 271.78 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 271.78 218.44 0)
 			(effects
 				(font
@@ -40214,6 +40898,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 105.41 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bbf89882-0f5c-4f2e-9bfc-1b3b49a6d2a3")
 		)
@@ -40292,6 +40985,15 @@
 			)
 		)
 		(property "MPN" "#N/A"
+			(at 83.3843 420.3667 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 83.3843 420.3667 0)
 			(effects
 				(font
@@ -40391,6 +41093,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 850.9 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc0e60cc-8ea0-4fe2-91aa-8b2803ac852c")
 		)
@@ -40414,7 +41125,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "617d95b7-9993-4c88-a4f6-ba6c93eb9af1")
 		(property "Reference" "C9"
 			(at 858.52 140.97 0)
@@ -40480,6 +41191,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "#N/A"
+			(at 852.17 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 852.17 140.97 0)
 			(effects
 				(font
@@ -40586,6 +41306,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 124.46 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5a4f559f-e9d5-44cf-9ebd-7f2ba02c7e71")
 		)
@@ -40608,7 +41337,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "62537783-ad5e-49d4-bad1-f7e38f7d9f2c")
 		(property "Reference" "R84"
 			(at 339.344 210.566 0)
@@ -40692,6 +41421,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C51721"
+			(at 344.17 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 344.17 209.55 0)
 			(effects
 				(font
@@ -40787,7 +41525,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "653b48f9-1919-4bcc-880f-49c9be405b37")
 		(property "Reference" "J4"
@@ -40852,6 +41590,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C136000"
+			(at 139.7 411.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 139.7 411.48 0)
 			(effects
 				(font
@@ -40969,6 +41716,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 36.83 335.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f18e7729-0f80-4a3b-b464-2c19effb013a")
 		)
@@ -40991,7 +41747,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "66dc7ce9-aca4-4af8-a665-a58e298c0d43")
 		(property "Reference" "R87"
 			(at 266.8016 204.2414 0)
@@ -41075,6 +41831,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C44051"
+			(at 267.97 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 267.97 205.74 0)
 			(effects
 				(font
@@ -41180,6 +41945,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 510.54 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae49d215-6dad-4a38-8454-1a51604869fd")
 		)
@@ -41199,7 +41973,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6c468239-3deb-4e8e-950e-b131ee1118fe")
 		(property "Reference" "R37"
 			(at 482.6 396.24 0)
@@ -41265,6 +42039,15 @@
 			)
 		)
 		(property "MPN" "#N/A"
+			(at 487.68 396.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 487.68 396.24 0)
 			(effects
 				(font
@@ -41381,6 +42164,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 379.73 324.485 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4d5b6498-18e3-4029-a417-924d7585d5e8")
 		)
@@ -41467,6 +42259,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C23241"
+			(at 43.18 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 43.18 292.1 0)
 			(effects
 				(font
@@ -41638,6 +42439,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 284.48 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9daa492e-4c33-4b96-a3d7-6312a167cd57")
 		)
@@ -41742,6 +42552,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 824.865 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "031b0e60-acd6-42df-b498-9ae3ea0968f5")
 		)
@@ -41764,7 +42583,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6e1bd8f6-c96b-4bdf-879a-dcc256c140eb")
 		(property "Reference" "#PWR03"
 			(at 391.16 467.36 0)
@@ -41903,6 +42722,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 40.64 392.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "orange_compact"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -41975,6 +42803,15 @@
 			)
 		)
 		(property "MPN" "#N/A"
+			(at 83.82 430.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 83.82 430.53 0)
 			(effects
 				(font
@@ -42068,6 +42905,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C1553"
+			(at 718.82 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 718.82 299.72 0)
 			(effects
 				(font
@@ -42302,6 +43148,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 928.37 467.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7b970b68-efb0-4a3e-a603-50b8b8621c9e")
 		)
@@ -42464,6 +43319,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 1023.62 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5c96d667-32b9-487e-83d3-0f750751837a")
 		)
@@ -42486,7 +43350,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "75660dad-43ae-4011-a7f0-6ab80720138d")
 		(property "Reference" "R32"
 			(at 405.13 383.54 0)
@@ -42560,6 +43424,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "1"
+			(at 410.21 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "43fa1048-4a8c-4da5-a7df-0ada4aa7d801")
 		)
@@ -42594,7 +43467,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7682ed5e-3e73-489d-8e8b-9f64f50c1b5e")
 		(property "Reference" "R3"
 			(at 417.9316 401.0914 0)
@@ -42669,6 +43542,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C11702"
+			(at 419.1 402.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 419.1 402.59 0)
 			(effects
 				(font
@@ -42841,6 +43723,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 285.75 525.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "75dae1a0-c6c7-4f93-bf28-9302746d1b8f")
 		)
@@ -43002,7 +43893,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "7ba1f110-ba70-4aab-877e-7a16d51b8687")
 		(property "Reference" "IC4"
@@ -43130,6 +44021,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C18347"
+			(at 439.42 396.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 439.42 396.24 0)
 			(effects
 				(font
@@ -43317,6 +44217,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 299.72 532.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "225bfc41-57b0-43e9-9f17-5ce72ac98ce0")
 		)
@@ -43413,6 +44322,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 732.79 519.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b7de7832-1bb8-4948-bb1f-2eb711960cad")
 		)
@@ -43493,6 +44411,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C441758"
+			(at 1037.59 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 1037.59 350.52 0)
 			(effects
 				(font
@@ -43663,6 +44590,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 833.12 476.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d22abafc-3984-4a84-a2c4-77f7ed6cda8a")
 		)
@@ -43823,6 +44759,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 127 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1184893b-405a-4c33-a853-447deb1f4a3a")
 		)
@@ -43929,6 +44874,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C25950"
+			(at 160.02 524.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 160.02 524.51 0)
 			(effects
 				(font
@@ -44226,6 +45180,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 659.13 349.885 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eee4fc5c-bd78-4b5e-9569-8fd6df8913e7")
 		)
@@ -44248,7 +45211,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "87b8800d-31d0-4f05-b7a7-884983186dc8")
 		(property "Reference" "#PWR094"
 			(at 271.78 232.41 0)
@@ -44389,6 +45352,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C182078"
+			(at 100.33 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 100.33 129.54 0)
 			(effects
 				(font
@@ -44557,6 +45529,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 33.02 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fe601422-18d3-4f37-bb00-5caa5362248b")
 		)
@@ -44579,7 +45560,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8b5a62a7-f451-4ad2-bb3d-3c778193fbeb")
 		(property "Reference" "J5"
@@ -44652,6 +45633,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "1"
+			(at 822.96 421.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6ceff7c8-2817-4a81-8e1a-6c6ba161bb87")
 		)
@@ -44686,7 +45676,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8bdd3d6d-2622-4ae9-879c-ed751cb61e39")
 		(property "Reference" "R35"
 			(at 482.6 384.81 0)
@@ -44752,6 +45742,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C25900"
+			(at 487.68 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 487.68 384.81 0)
 			(effects
 				(font
@@ -44866,6 +45865,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 855.345 504.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "71432bc4-12b7-40b1-bbea-e94884a65238")
 		)
@@ -44888,7 +45896,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8d5238bc-0147-437e-b902-22244a785046")
 		(property "Reference" "#PWR05"
 			(at 431.8 486.41 0)
@@ -44953,7 +45961,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8d578ec5-f7d5-438d-a001-bb098a11c262")
 		(property "Reference" "D16"
@@ -45029,6 +46037,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C316022"
+			(at 528.32 421.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 528.32 421.64 0)
 			(effects
 				(font
@@ -45118,6 +46135,15 @@
 			)
 		)
 		(property "MPN" "#N/A"
+			(at 97.79 427.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 97.79 427.99 0)
 			(effects
 				(font
@@ -45219,6 +46245,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 864.235 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6757594e-7849-4813-aee2-afdb45448d86")
 		)
@@ -45241,7 +46276,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "913ead67-c5af-4548-bd41-60bdb4bfd64b")
 		(property "Reference" "#PWR078"
@@ -45397,6 +46432,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 285.75 363.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5f9a05bf-b2c1-47e2-9a73-bea814b4ed9d")
 		)
@@ -45515,6 +46559,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 1005.84 445.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "12"
 			(uuid "0519dd23-21ff-4f55-b2a1-9341f41de54a")
 		)
@@ -45616,7 +46669,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "93480724-ecce-46d3-9725-5456f27d74ae")
 		(property "Reference" "C1"
 			(at 388.239 454.7616 0)
@@ -45682,6 +46735,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C1525"
+			(at 391.16 455.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 391.16 455.93 0)
 			(effects
 				(font
@@ -45768,6 +46830,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C80670"
+			(at 972.82 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 972.82 347.98 0)
 			(effects
 				(font
@@ -45882,6 +46953,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 510.54 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "daa8b15a-0e74-454f-a16f-355f5d1a5d33")
 		)
@@ -45967,6 +47047,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C441758"
+			(at 781.05 519.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 781.05 519.43 0)
 			(effects
 				(font
@@ -46071,6 +47160,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 817.88 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8ea9052a-36cd-477e-ade3-45a04bb86c19")
 		)
@@ -46093,7 +47191,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "95f5537c-ecf8-42ea-ad83-9b225518f666")
 		(property "Reference" "C14"
 			(at 428.244 379.476 0)
@@ -46159,6 +47257,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C52923"
+			(at 426.72 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 426.72 381 0)
 			(effects
 				(font
@@ -46321,6 +47428,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 332.74 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cb80c82c-bcc9-4a33-9eac-2001a16cbea7")
 		)
@@ -46417,6 +47533,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 273.05 474.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "59fab5fa-6713-4688-a683-24a5040e30d9")
 		)
@@ -46440,7 +47565,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "97dc01a4-fe23-49c4-bc08-7302aee2eacb")
 		(property "Reference" "J1"
@@ -46507,6 +47632,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C2689907"
+			(at 312.42 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 312.42 41.91 0)
 			(effects
 				(font
@@ -46614,6 +47748,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 46.99 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ff8c3fee-538a-4ac4-bd35-1d39cdf11ce8")
 		)
@@ -46700,6 +47843,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C413044"
+			(at 826.77 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 826.77 179.07 0)
 			(effects
 				(font
@@ -46805,6 +47957,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 36.83 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0633e5ed-04ce-4d25-bf3a-a958ccb5dd22")
 		)
@@ -46827,7 +47988,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9bb2c15e-ac9a-460e-ba33-18ce7153a562")
 		(property "Reference" "#PWR0112"
@@ -47004,6 +48165,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C32949"
+			(at 701.04 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 701.04 299.72 0)
 			(effects
 				(font
@@ -47306,6 +48476,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 731.52 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5f940c19-6fc9-41bc-a36c-e547452e3351")
 		)
@@ -47328,7 +48507,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "9d9760c0-09c3-4ebb-aec8-94facb328863")
 		(property "Reference" "R14"
 			(at 840.105 417.83 90)
@@ -47403,6 +48582,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C25089"
+			(at 838.2 421.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 838.2 421.64 0)
 			(effects
 				(font
@@ -47573,6 +48761,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 510.54 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0d894df7-bf97-4d01-9262-a345d45d6ae6")
 		)
@@ -47592,7 +48789,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a096d98a-26d4-41df-9350-787272b54134")
 		(property "Reference" "R86"
 			(at 338.0486 219.8116 0)
@@ -47676,6 +48873,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C4908"
+			(at 336.55 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 336.55 220.98 0)
 			(effects
 				(font
@@ -47772,6 +48978,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C441758"
+			(at 692.15 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 692.15 299.72 0)
 			(effects
 				(font
@@ -47877,6 +49092,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 175.26 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c8690976-2b91-4aa9-a374-313eeba06901")
 		)
@@ -47963,6 +49187,15 @@
 			)
 		)
 		(property "MPN" "#N/A"
+			(at 844.55 476.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 844.55 476.25 0)
 			(effects
 				(font
@@ -48068,6 +49301,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 510.54 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c6c20dd1-740b-4f79-adc4-309dfe0467a2")
 		)
@@ -48153,6 +49395,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C57112"
+			(at 74.93 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 74.93 38.1 0)
 			(effects
 				(font
@@ -48250,6 +49501,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C106231"
+			(at 1037.59 454.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 1037.59 454.66 0)
 			(effects
 				(font
@@ -48411,7 +49671,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a8d8fdb9-5fe6-4067-9517-cacd94343f72")
 		(property "Reference" "R2"
 			(at 288.3916 209.3214 0)
@@ -48486,6 +49746,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C11702"
+			(at 289.56 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 289.56 210.82 0)
 			(effects
 				(font
@@ -48608,6 +49877,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 154.94 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5c4c1136-51c8-45f5-a8b1-d80560d3204c")
 		)
@@ -48630,7 +49908,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a9dea233-dd8a-4964-8c06-337feca4e180")
 		(property "Reference" "#PWR082"
 			(at 307.34 154.94 0)
@@ -48695,7 +49973,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a9f5d984-739a-4460-a6b6-b023b7811ce5")
 		(property "Reference" "R34"
 			(at 389.89 383.54 0)
@@ -48761,6 +50039,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C25744"
+			(at 397.51 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 397.51 383.54 0)
 			(effects
 				(font
@@ -48869,7 +50156,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ac37e048-9a0a-4c07-bc6a-6df284e0bdb4")
 		(property "Reference" "R93"
 			(at 369.7986 47.0916 0)
@@ -48944,6 +50231,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C25803"
+			(at 368.3 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 368.3 48.26 0)
 			(effects
 				(font
@@ -49048,6 +50344,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 49.53 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "56b687cb-dcec-41d2-99a7-5cbec7ec91b5")
 		)
@@ -49070,7 +50375,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ae123f80-a14f-4d18-84ee-166a6c3c57fe")
 		(property "Reference" "C102"
 			(at 263.398 132.334 0)
@@ -49144,6 +50449,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "1"
+			(at 274.32 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0cea4455-ccdd-4341-9c49-ae4a593c488c")
 		)
@@ -49166,7 +50480,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "af02a668-4ae1-4d56-a9dd-e2276a6a7c27")
 		(property "Reference" "U2"
@@ -49241,6 +50555,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "1"
+			(at 431.8 462.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a45c2324-7009-4f44-9eba-6181ea98e190")
 		)
@@ -49282,7 +50605,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "af344df5-f8f1-4300-8c40-51d1681a9cb2")
 		(property "Reference" "#PWR0186"
 			(at 852.17 152.4 0)
@@ -49421,6 +50744,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 111.76 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "02370f7b-8e24-4be7-8d39-d4df0bc5233d")
 		)
@@ -49519,6 +50851,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C52923"
+			(at 942.34 353.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 942.34 353.06 0)
 			(effects
 				(font
@@ -49678,6 +51019,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 82.55 407.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "15fedb4b-e430-4943-9593-6c2b015aeff4")
 		)
@@ -49829,6 +51179,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C1525"
+			(at 408.94 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 408.94 295.91 0)
 			(effects
 				(font
@@ -49999,6 +51358,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 608.33 495.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e7650349-3697-4f63-84e8-878a66d843c5")
 		)
@@ -50090,6 +51458,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C635113"
+			(at 420.37 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 420.37 314.96 0)
 			(effects
 				(font
@@ -50216,6 +51593,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 510.54 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3d789446-3512-42e3-9523-6568eeab5447")
 		)
@@ -50301,6 +51687,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C720477"
+			(at 80.01 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 80.01 346.71 0)
 			(effects
 				(font
@@ -50406,6 +51801,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 863.6 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5b2a88f-fa1e-47a1-b1fe-06f37e21ca1b")
 		)
@@ -50500,6 +51904,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 781.05 508.635 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5efd1e42-1d26-4515-9fd8-98f4c16d6413")
 		)
@@ -50522,7 +51935,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "bc9fcc22-3251-46f5-989c-40bcaa70df53")
 		(property "Reference" "C111"
 			(at 358.902 209.804 0)
@@ -50588,6 +52001,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C1525"
+			(at 365.76 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 365.76 210.82 0)
 			(effects
 				(font
@@ -50755,6 +52177,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 864.87 520.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f2918a69-cdf2-4ec6-a702-d4a0d56e555c")
 		)
@@ -50777,7 +52208,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c06200fc-2c65-4ae2-b5bb-ec0bae05199a")
 		(property "Reference" "#PWR079"
@@ -50924,6 +52355,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 276.86 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e49ab0d-a227-40d1-9c13-06205563799b")
 		)
@@ -51051,6 +52491,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 184.15 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c784db0c-25dc-46cd-8f09-532b4326d3f2")
 		)
@@ -51073,7 +52522,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c4abedd1-b2df-4bca-a0e9-e05a7d151af7")
 		(property "Reference" "TP3"
 			(at 383.54 48.26 0)
@@ -51137,6 +52586,15 @@
 			)
 		)
 		(property "MPN" "#N/A"
+			(at 381 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 381 49.53 0)
 			(effects
 				(font
@@ -51229,7 +52687,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c52d8e17-6c02-46df-82d3-76b5b64b5781")
 		(property "Reference" "C109"
 			(at 373.761 209.6516 0)
@@ -51295,6 +52753,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C19702"
+			(at 370.84 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 370.84 210.82 0)
 			(effects
 				(font
@@ -51390,7 +52857,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c7c5bafe-11fb-418d-84b0-1d47b44ef001")
 		(property "Reference" "#PWR054"
 			(at 843.915 421.64 0)
@@ -51604,6 +53071,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 400.05 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1e4b0686-3997-47a3-a647-b8311c5d5a14")
 		)
@@ -51699,6 +53175,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 610.87 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e3383f55-660c-432e-a6cb-1fa1dc1a9093")
 		)
@@ -51731,7 +53216,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "cb4c4f58-9b41-42b2-8ecb-a99e88d38899")
 		(property "Reference" "U28"
 			(at 187.325 424.18 90)
@@ -51795,6 +53280,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C2827654"
+			(at 186.69 406.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 186.69 406.4 0)
 			(effects
 				(font
@@ -51909,6 +53403,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 162.56 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e9f647fb-220a-4df5-a54b-a6fd62fce5bf")
 		)
@@ -51996,7 +53499,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "cbfb61d3-4849-4b4d-bff3-e1cbf995d4cf")
 		(property "Reference" "C13"
 			(at 417.576 379.222 0)
@@ -52062,6 +53565,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C1525"
+			(at 416.56 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 416.56 381 0)
 			(effects
 				(font
@@ -52182,6 +53694,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C23137"
+			(at 160.02 514.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 160.02 514.35 0)
 			(effects
 				(font
@@ -52352,6 +53873,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 166.37 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "25e8717e-7275-4412-bbcb-ec01dfa40a10")
 		)
@@ -52504,6 +54034,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 651.51 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "488ed758-150f-45ca-b794-3938e3adb9d9")
 		)
@@ -52609,6 +54148,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 116.84 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "90179c4f-a7cd-478a-a6a8-a81966ad5008")
 		)
@@ -52698,6 +54246,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C1973833"
+			(at 83.82 514.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 83.82 514.35 0)
 			(effects
 				(font
@@ -52806,6 +54363,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 640.08 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "23f4e705-b881-47ad-b5a0-e5f9c1fbf442")
 		)
@@ -52831,7 +54397,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d19a758a-1ea7-48bb-9825-ac837fe0edbb")
 		(property "Reference" "R94"
 			(at 369.7986 57.2516 0)
@@ -52915,6 +54481,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C23137"
+			(at 368.3 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 368.3 58.42 0)
 			(effects
 				(font
@@ -53028,6 +54603,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 695.96 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8afa4905-a3c7-42b9-aed4-24622a110a7d")
 		)
@@ -53050,7 +54634,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d2102020-aaf8-46cd-a70f-086dcba82825")
 		(property "Reference" "#PWR090"
 			(at 331.47 238.76 0)
@@ -53116,7 +54700,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d384d600-b3e0-4fe0-b0f2-7b0b50bd1c21")
 		(property "Reference" "C13"
 			(at 878.84 140.97 0)
@@ -53182,6 +54766,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "#N/A"
+			(at 872.49 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 872.49 140.97 0)
 			(effects
 				(font
@@ -53296,6 +54889,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 674.37 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ef743b94-b785-41ad-8923-0884e7dd65dd")
 		)
@@ -53318,7 +54920,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d434c4d7-685c-416a-bc0b-d37870de98a3")
 		(property "Reference" "L13"
 			(at 865.505 204.47 0)
@@ -53390,6 +54992,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "1"
+			(at 869.315 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b47bcf7c-74f6-4f71-b209-5a5c7c8f1bf8")
 		)
@@ -53412,7 +55023,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d4ce940c-d598-49da-8701-934d8a67ee34")
 		(property "Reference" "U18"
@@ -53479,6 +55090,15 @@
 			)
 		)
 		(property "MPN" "TPS61022RWUR"
+			(at 307.34 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 307.34 130.81 0)
 			(effects
 				(font
@@ -53616,6 +55236,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 59.69 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3b3a04bc-ada7-43d1-98f3-269b88e408aa")
 		)
@@ -53696,6 +55325,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C1525"
+			(at 993.14 354.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 993.14 354.33 0)
 			(effects
 				(font
@@ -53996,6 +55634,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 609.6 402.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2e8438a2-908b-4059-82df-e67de959be68")
 		)
@@ -54080,6 +55727,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 1009.65 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "435161cc-dc6b-4f0a-be78-59ed66f5a6e0")
 		)
@@ -54102,7 +55758,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d89d0d2d-eaf7-493d-a989-10880246c3d7")
 		(property "Reference" "R38"
 			(at 510.54 394.97 0)
@@ -54168,6 +55824,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C25139"
+			(at 510.54 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 510.54 389.89 0)
 			(effects
 				(font
@@ -54285,6 +55950,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 490.855 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "50cdab10-849c-45f6-ba5e-d687d7cc1e13")
 		)
@@ -54368,6 +56042,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C335982"
+			(at 684.53 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 684.53 44.45 0)
 			(effects
 				(font
@@ -54464,6 +56147,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C5439972"
+			(at 631.19 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 631.19 375.92 0)
 			(effects
 				(font
@@ -54572,6 +56264,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 90.17 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2e99f8a3-3588-4b1d-a2a7-535eec6bd94a")
 		)
@@ -54658,6 +56359,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C1525"
+			(at 311.15 468.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 311.15 468.63 0)
 			(effects
 				(font
@@ -54753,6 +56463,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C5368784"
+			(at 40.64 511.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 40.64 511.81 0)
 			(effects
 				(font
@@ -54894,6 +56613,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C36871"
+			(at 154.94 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 154.94 139.7 0)
 			(effects
 				(font
@@ -55063,6 +56791,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 284.48 494.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "286154d7-63c6-4836-a8a2-ad3d938d1550")
 		)
@@ -55085,7 +56822,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e057768f-fa88-4f04-b8f3-6792a06b279d")
 		(property "Reference" "#PWR093"
 			(at 365.76 224.79 0)
@@ -55222,6 +56959,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 43.18 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "159601a8-95af-45c5-a57e-18b758d4c380")
 		)
@@ -55244,7 +56990,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "e19dd0e4-d485-4656-9139-a40b3e1a5b35")
 		(property "Reference" "#PWR052"
@@ -55450,6 +57196,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 801.37 374.015 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "68fb2c36-cdb4-43df-8a94-8ced69b68207")
 		)
@@ -55609,6 +57364,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 650.24 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b4336cb1-ff1f-4df3-bd3f-c55bc65e26f6")
 		)
@@ -55631,7 +57395,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e7d121a7-166b-48db-8e10-1f39c2603e40")
 		(property "Reference" "L11"
 			(at 309.626 117.348 90)
@@ -55696,6 +57460,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C138582"
+			(at 308.61 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 308.61 119.38 0)
 			(effects
 				(font
@@ -55904,6 +57677,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C22391110"
+			(at 726.44 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 726.44 393.7 0)
 			(effects
 				(font
@@ -56463,6 +58245,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 645.16 519.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "20"
 			(uuid "b88e1ee6-93ee-4484-a7b9-24817c48a0de")
 		)
@@ -56609,6 +58400,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C1525"
+			(at 685.8 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 685.8 299.72 0)
 			(effects
 				(font
@@ -56789,6 +58589,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 580.39 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "395bc9f8-579f-4d56-b9be-9a01e77ec251")
 		)
@@ -56879,6 +58688,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C2894919"
+			(at 797.56 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 797.56 135.89 0)
 			(effects
 				(font
@@ -56987,6 +58805,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 43.18 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cdb426f9-d1a0-42f9-a1ec-cb48f333548f")
 		)
@@ -57076,6 +58903,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C5186015"
+			(at 260.35 496.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 260.35 496.57 0)
 			(effects
 				(font
@@ -57314,6 +59150,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 730.885 498.475 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "08820612-911e-42ed-9bfd-62a75f5a6c2a")
 		)
@@ -57411,6 +59256,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 309.88 521.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6888b368-ead6-4c48-9607-09987aebd8e3")
 		)
@@ -57434,7 +59288,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f0d6332c-fb71-4f17-9b05-d7c3d311c803")
 		(property "Reference" "C5"
 			(at 456.819 453.4916 0)
@@ -57500,6 +59354,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C1525"
+			(at 459.74 454.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 459.74 454.66 0)
 			(effects
 				(font
@@ -57613,6 +59476,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 623.57 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ddaf977a-9ed4-4ae1-9b42-cfe05fdb34a2")
 		)
@@ -57699,6 +59571,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C3222940"
+			(at 138.43 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 138.43 124.46 0)
 			(effects
 				(font
@@ -57812,6 +59693,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 153.67 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "774bb6d6-3224-4cb9-ae57-097b006459c7")
 		)
@@ -57915,6 +59805,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 753.745 509.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8f553d0c-3803-4503-ac69-efe2c57f60a3")
 		)
@@ -57955,7 +59854,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f3b70d2d-2c02-4b0d-8b93-846ca51a6a41")
 		(property "Reference" "C103"
 			(at 354.711 127.1016 0)
@@ -58021,6 +59920,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C98190"
+			(at 351.79 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "1"
 			(at 351.79 128.27 0)
 			(effects
 				(font
@@ -58116,6 +60024,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C720477"
+			(at 80.01 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 80.01 328.93 0)
 			(effects
 				(font
@@ -58311,6 +60228,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 33.02 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "97a1499d-8f21-4661-8bed-0e1e89d0838c")
 		)
@@ -58333,7 +60259,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f70b9cdb-e77e-43f6-8cb2-a9a0e5978c43")
 		(property "Reference" "TP26"
 			(at 391.16 412.75 0)
@@ -58405,6 +60331,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "1"
+			(at 388.62 414.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "82f6a8e8-b178-4859-b9ef-cd6344b9e9af")
 		)
@@ -58424,7 +60359,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f793ec1f-0551-4a58-a285-e1b552055ff1")
 		(property "Reference" "#PWR0102"
 			(at 368.3 69.85 0)
@@ -58564,6 +60499,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 670.56 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "81f87160-eea8-4140-8f41-0abe25ebac4b")
 		)
@@ -58670,6 +60614,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 577.85 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6a09e152-57be-4bd5-8d53-382623894adc")
 		)
@@ -58767,6 +60720,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C77055"
+			(at 133.35 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 133.35 30.48 0)
 			(effects
 				(font
@@ -58896,6 +60858,15 @@
 				(hide yes)
 			)
 		)
+		(property "D_N_P" "0"
+			(at 864.87 511.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "751f3992-9d15-492c-92d2-5409e7b4b1ec")
 		)
@@ -58994,6 +60965,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C52923"
+			(at 985.52 354.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 985.52 354.33 0)
 			(effects
 				(font
@@ -59201,6 +61181,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C22391110"
+			(at 746.76 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "D_N_P" "0"
 			(at 746.76 349.25 0)
 			(effects
 				(font
