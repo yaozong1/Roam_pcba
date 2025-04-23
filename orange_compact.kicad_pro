@@ -885,12 +885,6 @@
           "label": "Price",
           "name": "Price",
           "show": false
-        },
-        {
-          "group_by": false,
-          "label": "D_N_P",
-          "name": "D_N_P",
-          "show": true
         }
       ],
       "filter_string": "",
