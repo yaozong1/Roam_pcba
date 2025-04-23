@@ -28480,7 +28480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 100V X7R 0603"
+		(property "Description" "CAP CER 10000PF 50V X7R 0603"
 			(at 74.93 25.4 0)
 			(effects
 				(font
@@ -29953,7 +29953,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 1000PF 100V X7R 0603"
+		(property "Description" "CAP CER 1000PF 50V X7R 0603"
 			(at 62.23 25.4 0)
 			(effects
 				(font
@@ -33522,7 +33522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10UF 10V X5R 0603"
+		(property "Description" "CAP CER 10UF 25V X5R 0603"
 			(at 193.04 300.355 0)
 			(effects
 				(font
@@ -37043,7 +37043,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 1000PF 100V X7R 0603"
+		(property "Description" "CAP CER 1000PF 50V X7R 0603"
 			(at 62.23 38.1 0)
 			(effects
 				(font
@@ -43746,7 +43746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10UF 10V X5R 0603"
+		(property "Description" "CAP CER 10UF 25V X5R 0603"
 			(at 332.74 316.23 0)
 			(effects
 				(font
@@ -45640,7 +45640,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 100V X7R 0603"
+		(property "Description" "CAP CER 10000PF 50V X7R 0603"
 			(at 74.93 38.1 0)
 			(effects
 				(font
