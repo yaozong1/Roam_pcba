@@ -28538,7 +28538,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01852fcb-7030-4e1f-a660-b53d0216d94f")
 		(property "Reference" "C100"
@@ -28577,7 +28577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 0.1UF 10V X7R 0402"
+		(property "Description" "CAP CER 0.1UF 16V X7R 0402"
 			(at 483.87 220.98 0)
 			(effects
 				(font
@@ -28635,7 +28635,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "0208b645-9305-47e5-aa74-dc737bceb318")
 		(property "Reference" "TP25"
 			(at 391.16 393.7 0)
@@ -28991,7 +28991,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "0444ce8b-66b1-4e7f-ad4d-3d351debcead")
 		(property "Reference" "R85"
 			(at 345.6686 218.5416 0)
@@ -29029,7 +29029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES SMD 51K OHM 1% 1/10W 0402"
+		(property "Description" "RES SMD 51K OHM 1% 1/16W 0402"
 			(at 344.17 219.71 0)
 			(effects
 				(font
@@ -29367,7 +29367,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "096b12f9-a0e5-409a-a305-fd4f27cb32d4")
 		(property "Reference" "U22"
@@ -29485,7 +29485,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "0b03b15b-7aa7-4b57-b225-8fa0db9a9efd")
 		(property "Reference" "C115"
 			(at 384.81 57.15 0)
@@ -29523,7 +29523,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 0.1UF 10V X7R 0402"
+		(property "Description" "CAP CER 0.1UF 16V X7R 0402"
 			(at 378.46 58.42 0)
 			(effects
 				(font
@@ -30488,7 +30488,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "133c0cfe-d660-4233-98cc-9773aa7035e0")
 		(property "Reference" "#PWR024"
@@ -30657,7 +30657,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16c4ee55-788f-4d3b-be27-aeb9d893bf0a")
 		(property "Reference" "U15"
@@ -31132,7 +31132,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "1b76899d-78b7-4f2e-868e-6e04b8b8a901")
 		(property "Reference" "#PWR051"
 			(at 868.045 389.255 0)
@@ -31441,7 +31441,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "1dbfceb3-98c0-4858-8c6b-8f15e05b3ce7")
 		(property "Reference" "#PWR024"
 			(at 487.68 436.88 0)
@@ -31512,7 +31512,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "1e6007e6-269e-4c54-a7ad-769771de469d")
 		(property "Reference" "R36"
 			(at 482.6 421.64 0)
@@ -31550,7 +31550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 4.7K OHM 1% 1/10W 0402"
+		(property "Description" "RES 4.7K OHM 1% 1/16W 0402"
 			(at 487.68 421.64 0)
 			(effects
 				(font
@@ -31620,7 +31620,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "1eb52999-b46d-4258-8da3-310f5dcb9cd4")
 		(property "Reference" "R16"
 			(at 839.47 426.72 90)
@@ -31922,7 +31922,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fb7ebd0-d389-4ccc-958f-c26306b9f6f2")
 		(property "Reference" "#PWR027"
@@ -32186,7 +32186,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "242697c0-f855-418e-a49a-5dcfaa106561")
 		(property "Reference" "U16"
@@ -32490,7 +32490,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "2567394e-6f19-4292-9baf-c644d9d31e4b")
 		(property "Reference" "#PWR0103"
 			(at 378.46 69.85 0)
@@ -33377,7 +33377,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "2c0cb7e5-b9f3-4046-8fdb-981721db2347")
 		(property "Reference" "U9"
 			(at 855.98 398.78 90)
@@ -34330,7 +34330,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "36f4dab9-cf90-449f-adf2-d160226c6ec1")
 		(property "Reference" "R80"
 			(at 335.5086 139.8016 0)
@@ -34444,7 +34444,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "36f6a77e-2bee-436c-81f9-3b929163bb18")
 		(property "Reference" "R79"
 			(at 335.5086 127.1016 0)
@@ -34558,7 +34558,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "3737602b-c170-4ea6-aa37-ae9a2ff1a3b5")
 		(property "Reference" "R39"
 			(at 510.54 407.67 0)
@@ -34666,7 +34666,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "3903cb98-61e7-44ce-afed-66f391a791ed")
 		(property "Reference" "#PWR091"
 			(at 288.29 38.1 0)
@@ -34990,7 +34990,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c28646c-e686-44d9-93a3-e2c6cb32f9ca")
 		(property "Reference" "C110"
@@ -35029,7 +35029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 0.1UF 10V X7R 0402"
+		(property "Description" "CAP CER 0.1UF 16V X7R 0402"
 			(at 276.86 218.44 0)
 			(effects
 				(font
@@ -35277,7 +35277,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fd4b50b-7145-4545-b1fe-c24fb1ad75dd")
 		(property "Reference" "C23"
@@ -35316,7 +35316,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 1UF 16V X5R 0402"
+		(property "Description" "CAP CER 1UF 25V X5R 0402"
 			(at 843.915 411.48 0)
 			(effects
 				(font
@@ -36008,7 +36008,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "479e4e85-6c8f-43de-9bea-5d83366acc68")
 		(property "Reference" "#PWR04"
 			(at 459.74 466.09 0)
@@ -36642,7 +36642,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "4f3e5523-e00c-4fbe-9a9a-f22bf58f44ef")
 		(property "Reference" "C104"
 			(at 366.141 127.1016 0)
@@ -37950,7 +37950,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "5e67507e-c27d-4e2d-a6d8-08ee29871fe6")
 		(property "Reference" "C108"
 			(at 262.128 216.916 0)
@@ -38512,7 +38512,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "62537783-ad5e-49d4-bad1-f7e38f7d9f2c")
 		(property "Reference" "R84"
 			(at 339.344 210.566 0)
@@ -38691,7 +38691,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "653b48f9-1919-4bcc-880f-49c9be405b37")
 		(property "Reference" "J4"
@@ -38895,7 +38895,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "66dc7ce9-aca4-4af8-a665-a58e298c0d43")
 		(property "Reference" "R87"
 			(at 266.8016 204.2414 0)
@@ -39103,7 +39103,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "6c468239-3deb-4e8e-950e-b131ee1118fe")
 		(property "Reference" "R37"
 			(at 482.6 396.24 0)
@@ -39668,7 +39668,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "6e1bd8f6-c96b-4bdf-879a-dcc256c140eb")
 		(property "Reference" "#PWR03"
 			(at 391.16 467.36 0)
@@ -40197,7 +40197,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "75660dad-43ae-4011-a7f0-6ab80720138d")
 		(property "Reference" "R32"
 			(at 405.13 383.54 0)
@@ -40305,7 +40305,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "7682ed5e-3e73-489d-8e8b-9f64f50c1b5e")
 		(property "Reference" "R3"
 			(at 417.9316 401.0914 0)
@@ -40713,7 +40713,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ba1f110-ba70-4aab-877e-7a16d51b8687")
 		(property "Reference" "IC4"
@@ -41959,7 +41959,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "87b8800d-31d0-4f05-b7a7-884983186dc8")
 		(property "Reference" "#PWR094"
 			(at 271.78 232.41 0)
@@ -42290,7 +42290,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b5a62a7-f451-4ad2-bb3d-3c778193fbeb")
 		(property "Reference" "J5"
@@ -42397,7 +42397,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "8bdd3d6d-2622-4ae9-879c-ed751cb61e39")
 		(property "Reference" "R35"
 			(at 482.6 384.81 0)
@@ -42435,7 +42435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 4.7K OHM 1% 1/10W 0402"
+		(property "Description" "RES 4.7K OHM 1% 1/16W 0402"
 			(at 487.68 384.81 0)
 			(effects
 				(font
@@ -42599,7 +42599,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "8d5238bc-0147-437e-b902-22244a785046")
 		(property "Reference" "#PWR05"
 			(at 431.8 486.41 0)
@@ -42664,7 +42664,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d578ec5-f7d5-438d-a001-bb098a11c262")
 		(property "Reference" "D16"
@@ -42952,7 +42952,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "913ead67-c5af-4548-bd41-60bdb4bfd64b")
 		(property "Reference" "#PWR078"
@@ -43131,7 +43131,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "93480724-ecce-46d3-9725-5456f27d74ae")
 		(property "Reference" "C1"
 			(at 388.239 454.7616 0)
@@ -43169,7 +43169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 0.1UF 10V X7R 0402"
+		(property "Description" "CAP CER 0.1UF 16V X7R 0402"
 			(at 391.16 455.93 0)
 			(effects
 				(font
@@ -43608,7 +43608,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "95f5537c-ecf8-42ea-ad83-9b225518f666")
 		(property "Reference" "C14"
 			(at 428.244 379.476 0)
@@ -43646,7 +43646,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 1UF 16V X5R 0402"
+		(property "Description" "CAP CER 1UF 25V X5R 0402"
 			(at 426.72 381 0)
 			(effects
 				(font
@@ -43955,7 +43955,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97dc01a4-fe23-49c4-bc08-7302aee2eacb")
 		(property "Reference" "J1"
@@ -44342,7 +44342,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9bb2c15e-ac9a-460e-ba33-18ce7153a562")
 		(property "Reference" "#PWR0112"
@@ -44843,7 +44843,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "9d9760c0-09c3-4ebb-aec8-94facb328863")
 		(property "Reference" "R14"
 			(at 840.105 417.83 90)
@@ -45107,7 +45107,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "a096d98a-26d4-41df-9350-787272b54134")
 		(property "Reference" "R86"
 			(at 338.0486 219.8116 0)
@@ -45829,7 +45829,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "a8d8fdb9-5fe6-4067-9517-cacd94343f72")
 		(property "Reference" "R2"
 			(at 288.3916 209.3214 0)
@@ -46048,7 +46048,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "a9dea233-dd8a-4964-8c06-337feca4e180")
 		(property "Reference" "#PWR082"
 			(at 307.34 154.94 0)
@@ -46113,7 +46113,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "a9f5d984-739a-4460-a6b6-b023b7811ce5")
 		(property "Reference" "R34"
 			(at 389.89 383.54 0)
@@ -46287,7 +46287,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "ac37e048-9a0a-4c07-bc6a-6df284e0bdb4")
 		(property "Reference" "R93"
 			(at 369.7986 47.0916 0)
@@ -46488,7 +46488,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "ae123f80-a14f-4d18-84ee-166a6c3c57fe")
 		(property "Reference" "C102"
 			(at 263.398 132.334 0)
@@ -46584,7 +46584,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af02a668-4ae1-4d56-a9dd-e2276a6a7c27")
 		(property "Reference" "U2"
@@ -47940,7 +47940,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "bc9fcc22-3251-46f5-989c-40bcaa70df53")
 		(property "Reference" "C111"
 			(at 358.902 209.804 0)
@@ -47978,7 +47978,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 0.1UF 10V X7R 0402"
+		(property "Description" "CAP CER 0.1UF 16V X7R 0402"
 			(at 365.76 210.82 0)
 			(effects
 				(font
@@ -48195,7 +48195,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c06200fc-2c65-4ae2-b5bb-ec0bae05199a")
 		(property "Reference" "#PWR079"
@@ -48491,7 +48491,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "c4abedd1-b2df-4bca-a0e9-e05a7d151af7")
 		(property "Reference" "TP3"
 			(at 383.54 48.26 0)
@@ -48647,7 +48647,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "c52d8e17-6c02-46df-82d3-76b5b64b5781")
 		(property "Reference" "C109"
 			(at 373.761 209.6516 0)
@@ -48808,7 +48808,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "c7c5bafe-11fb-418d-84b0-1d47b44ef001")
 		(property "Reference" "#PWR054"
 			(at 843.915 421.64 0)
@@ -49149,7 +49149,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "cb4c4f58-9b41-42b2-8ecb-a99e88d38899")
 		(property "Reference" "U28"
 			(at 187.325 424.18 90)
@@ -49349,7 +49349,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "cbe21ff7-a56d-4622-894f-80d3c7ccd6af")
 		(property "Reference" "#PWR077"
 			(at 483.87 232.41 0)
@@ -49414,7 +49414,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "cbfb61d3-4849-4b4d-bff3-e1cbf995d4cf")
 		(property "Reference" "C13"
 			(at 417.576 379.222 0)
@@ -49452,7 +49452,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 0.1UF 10V X7R 0402"
+		(property "Description" "CAP CER 0.1UF 16V X7R 0402"
 			(at 416.56 381 0)
 			(effects
 				(font
@@ -50183,7 +50183,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "d19a758a-1ea7-48bb-9825-ac837fe0edbb")
 		(property "Reference" "R94"
 			(at 369.7986 57.2516 0)
@@ -50402,7 +50402,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "d2102020-aaf8-46cd-a70f-086dcba82825")
 		(property "Reference" "#PWR090"
 			(at 331.47 238.76 0)
@@ -50764,7 +50764,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4ce940c-d598-49da-8701-934d8a67ee34")
 		(property "Reference" "U18"
@@ -51454,7 +51454,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "d89d0d2d-eaf7-493d-a989-10880246c3d7")
 		(property "Reference" "R38"
 			(at 510.54 394.97 0)
@@ -52437,7 +52437,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "e057768f-fa88-4f04-b8f3-6792a06b279d")
 		(property "Reference" "#PWR093"
 			(at 365.76 224.79 0)
@@ -52596,7 +52596,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e19dd0e4-d485-4656-9139-a40b3e1a5b35")
 		(property "Reference" "#PWR052"
@@ -52917,7 +52917,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "e7d121a7-166b-48db-8e10-1f39c2603e40")
 		(property "Reference" "L11"
 			(at 309.626 117.348 90)
@@ -53607,7 +53607,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea4dc352-a357-4f7c-8f73-10888f10f567")
 		(property "Reference" "#PWR0122"
@@ -54720,7 +54720,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "f0d6332c-fb71-4f17-9b05-d7c3d311c803")
 		(property "Reference" "C5"
 			(at 456.819 453.4916 0)
@@ -54758,7 +54758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 0.1UF 10V X7R 0402"
+		(property "Description" "CAP CER 0.1UF 16V X7R 0402"
 			(at 459.74 454.66 0)
 			(effects
 				(font
@@ -55241,7 +55241,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "f3b70d2d-2c02-4b0d-8b93-846ca51a6a41")
 		(property "Reference" "C103"
 			(at 354.711 127.1016 0)
@@ -55619,7 +55619,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "f70b9cdb-e77e-43f6-8cb2-a9a0e5978c43")
 		(property "Reference" "TP26"
 			(at 391.16 412.75 0)
@@ -55710,7 +55710,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "f793ec1f-0551-4a58-a285-e1b552055ff1")
 		(property "Reference" "#PWR0102"
 			(at 368.3 69.85 0)
