@@ -37,15 +37,15 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.04902,
-          "width": 2.19964
+          "drill": 0.25,
+          "height": 0.5,
+          "width": 0.5
         },
         "silk_line_width": 0.2,
         "silk_text_italic": false,
-        "silk_text_size_h": 0.7,
-        "silk_text_size_v": 0.7,
-        "silk_text_thickness": 0.175,
+        "silk_text_size_h": 1.0,
+        "silk_text_size_v": 1.0,
+        "silk_text_thickness": 0.2,
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
@@ -119,24 +119,24 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.15,
-        "min_connection": 0.16,
+        "min_clearance": 0.09,
+        "min_connection": 0.15,
         "min_copper_edge_clearance": 0.2,
         "min_hole_clearance": 0.15,
-        "min_hole_to_hole": 0.2,
+        "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.2,
         "min_text_height": 0.4,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.2,
-        "min_track_width": 0.2,
-        "min_via_annular_width": 0.075,
-        "min_via_diameter": 0.25,
+        "min_through_hole_diameter": 0.25,
+        "min_track_width": 0.09,
+        "min_via_annular_width": 0.1,
+        "min_via_diameter": 0.4,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
-        "solder_mask_to_copper_clearance": 0.005,
+        "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -186,20 +186,17 @@
         0.0,
         0.0,
         0.0,
-        0.16,
+        0.180086,
         0.2,
         0.25,
-        0.2847,
-        0.3025,
         0.35,
         0.4,
         0.5,
         0.6,
         0.915,
         1.0,
-        1.2,
         1.5,
-        2.0
+        3.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -233,20 +230,8 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.35,
-          "drill": 0.2
-        },
-        {
           "diameter": 0.5,
           "drill": 0.3
-        },
-        {
-          "diameter": 0.6,
-          "drill": 0.35
-        },
-        {
-          "diameter": 0.8,
-          "drill": 0.4
         },
         {
           "diameter": 1.0,
@@ -292,7 +277,7 @@
       ],
       [
         0,
-        0,
+        2,
         0,
         1,
         0,
@@ -457,24 +442,24 @@
       "duplicate_sheet_names": "error",
       "endpoint_off_grid": "warning",
       "extra_units": "error",
-      "global_label_dangling": "error",
+      "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
       "lib_symbol_issues": "warning",
       "missing_bidi_pin": "warning",
       "missing_input_pin": "warning",
       "missing_power_pin": "error",
-      "missing_unit": "error",
+      "missing_unit": "warning",
       "multiple_net_names": "warning",
       "net_not_bus_member": "warning",
-      "no_connect_connected": "error",
+      "no_connect_connected": "warning",
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
-      "pin_not_driven": "warning",
-      "pin_to_pin": "error",
-      "power_pin_not_driven": "warning",
-      "similar_labels": "error",
-      "simulation_model_issue": "ignore",
+      "pin_not_driven": "error",
+      "pin_to_pin": "warning",
+      "power_pin_not_driven": "error",
+      "similar_labels": "warning",
+      "simulation_model_issue": "error",
       "unannotated": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
@@ -486,14 +471,14 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "orange_compact.kicad_pro",
+    "filename": "roam.kicad_pro",
     "version": 1
   },
   "net_settings": {
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.1,
+        "clearance": 0.17,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -504,7 +489,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.15,
-        "via_diameter": 0.5,
+        "via_diameter": 0.2,
         "via_drill": 0.3,
         "wire_width": 6
       },
@@ -524,23 +509,6 @@
         "via_diameter": 1.5,
         "via_drill": 0.7,
         "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.2,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "Power",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.3,
-        "via_diameter": 0.5,
-        "via_drill": 0.3,
-        "wire_width": 6
       }
     ],
     "meta": {
@@ -552,42 +520,6 @@
       {
         "netclass": "+100V",
         "pattern": "+100V"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "5V0"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "3V3_ALWAYS_ON"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "4V0"
-      },
-      {
-        "netclass": "+100V",
-        "pattern": "Net-(D8-A2)"
-      },
-      {
-        "netclass": "+100V",
-        "pattern": "/EBL_60V"
-      },
-      {
-        "netclass": "+100V",
-        "pattern": "Net-(C21-Pad1)"
-      },
-      {
-        "netclass": "+100V",
-        "pattern": "VIN"
-      },
-      {
-        "netclass": "+100V",
-        "pattern": "Net-(C33-Pad1)"
-      },
-      {
-        "netclass": "+100V",
-        "pattern": "Net-(D6-K)"
       }
     ]
   },
@@ -596,10 +528,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../Orange_lite_p1/",
+      "plot": "",
       "pos_files": "",
       "specctra_dsn": "roam.dsn",
-      "step": "../../../litev_E4C.step",
+      "step": "3d/roam-phase-1.step",
       "svg": "",
       "vrml": "roam-phase-1.wrl"
     },
@@ -607,7 +539,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "LITE_A4C_BOM",
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -638,30 +570,12 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Description",
-          "name": "Description",
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Footprint",
           "name": "Footprint",
-          "show": true
-        },
-        {
-          "group_by": true,
-          "label": "JLCPCB Part #",
-          "name": "JLCPCB Part #",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "MPN",
-          "name": "MPN",
           "show": true
         },
         {
@@ -671,39 +585,51 @@
           "show": true
         },
         {
-          "group_by": false,
-          "label": "Do Not Place",
+          "group_by": true,
+          "label": "DNP",
           "name": "${DNP}",
           "show": true
         },
         {
           "group_by": false,
-          "label": "Exclude from BOM",
-          "name": "${EXCLUDE_FROM_BOM}",
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
           "show": false
         },
         {
           "group_by": false,
-          "label": "Exclude from Board",
-          "name": "${EXCLUDE_FROM_BOARD}",
+          "label": "Arrow Part Number",
+          "name": "Arrow Part Number",
           "show": false
         },
         {
           "group_by": false,
-          "label": "Exclude from Simulation",
-          "name": "${EXCLUDE_FROM_SIM}",
+          "label": "Arrow Price/Stock",
+          "name": "Arrow Price/Stock",
           "show": false
         },
         {
           "group_by": false,
-          "label": "Desc",
-          "name": "Desc",
+          "label": "Comment",
+          "name": "Comment",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "DCR",
+          "name": "DCR",
           "show": false
         },
         {
           "group_by": false,
           "label": "Digi-key PN",
           "name": "Digi-key PN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "ESR",
+          "name": "ESR",
           "show": false
         },
         {
@@ -720,20 +646,14 @@
         },
         {
           "group_by": false,
+          "label": "IDC",
+          "name": "IDC",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "If",
           "name": "If",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MANUFACTURER",
-          "name": "MANUFACTURER",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MAXIMUM_PACKAGE_HEIGHT",
-          "name": "MAXIMUM_PACKAGE_HEIGHT",
           "show": false
         },
         {
@@ -744,20 +664,20 @@
         },
         {
           "group_by": false,
-          "label": "MP",
-          "name": "MP",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Check_prices",
-          "name": "Check_prices",
-          "show": false
+          "label": "MPN",
+          "name": "MPN",
+          "show": true
         },
         {
           "group_by": false,
           "label": "Manufacturer_Name",
           "name": "Manufacturer_Name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Part_Number",
+          "name": "Manufacturer_Part_Number",
           "show": false
         },
         {
@@ -774,14 +694,14 @@
         },
         {
           "group_by": false,
-          "label": "PARTREV",
-          "name": "PARTREV",
+          "label": "Mouser Testing Part Number",
+          "name": "Mouser Testing Part Number",
           "show": false
         },
         {
           "group_by": false,
-          "label": "Package",
-          "name": "Package",
+          "label": "Mouser Testing Price/Stock",
+          "name": "Mouser Testing Price/Stock",
           "show": false
         },
         {
@@ -792,26 +712,8 @@
         },
         {
           "group_by": false,
-          "label": "STANDARD",
-          "name": "STANDARD",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "SnapEDA_Link",
-          "name": "SnapEDA_Link",
-          "show": false
-        },
-        {
-          "group_by": false,
           "label": "Spec",
           "name": "Spec",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Tolerance",
-          "name": "Tolerance",
           "show": false
         },
         {
@@ -834,8 +736,8 @@
         },
         {
           "group_by": false,
-          "label": "desc",
-          "name": "desc",
+          "label": "datasheet",
+          "name": "datasheet",
           "show": false
         },
         {
@@ -846,52 +748,16 @@
         },
         {
           "group_by": false,
-          "label": "SNAPEDA_PN",
-          "name": "SNAPEDA_PN",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Description_1",
-          "name": "Description_1",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Arrow Part Number",
-          "name": "Arrow Part Number",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Arrow Price/Stock",
-          "name": "Arrow Price/Stock",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Availability",
-          "name": "Availability",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Price",
-          "name": "Price",
+          "label": "Description",
+          "name": "Description",
           "show": false
         }
       ],
-      "filter_string": "",
+      "filter_string": "c8",
       "group_symbols": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "${DNP}"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -945,7 +811,7 @@
   "sheets": [
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
-      "Root"
+      ""
     ]
   ],
   "text_variables": {}
