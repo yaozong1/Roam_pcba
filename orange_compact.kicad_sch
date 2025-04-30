@@ -62815,7 +62815,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "#N/A"
+		(property "JLCPCB Part #" ""
 			(at 738.505 537.845 0)
 			(effects
 				(font
@@ -62824,7 +62824,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "#N/A"
+		(property "MPN" ""
 			(at 738.505 537.845 0)
 			(effects
 				(font
