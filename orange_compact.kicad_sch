@@ -31146,6 +31146,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C5244624"
+			(at 661.67 416.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "444a1d09-a57c-4f9c-9b21-ba2adf854565")
 		)
@@ -34570,7 +34579,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TPESD56151W04 ESD二极管"
 			(at 1027.43 431.8 0)
 			(effects
 				(font
@@ -34812,6 +34821,15 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 660.4 391.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C5244624"
 			(at 660.4 391.16 0)
 			(effects
 				(font
@@ -37395,6 +37413,15 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 777.24 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C696808"
 			(at 777.24 144.78 0)
 			(effects
 				(font
@@ -41676,6 +41703,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C5244624"
+			(at 744.22 146.685 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8761173a-a8e8-405d-b4ea-12ebc9500900")
 		)
@@ -43386,6 +43422,15 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 670.56 393.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C5244624"
 			(at 670.56 393.7 0)
 			(effects
 				(font
@@ -48215,7 +48260,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "EG915U-EU"
+		(property "MPN" "EG915UEUAC-N05-SNNSA  "
 			(at 732.79 430.53 0)
 			(effects
 				(font
@@ -48279,6 +48324,15 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 732.79 412.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C7471302"
 			(at 732.79 412.75 0)
 			(effects
 				(font
@@ -51376,6 +51430,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C5244624"
+			(at 651.51 411.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b24ea861-0e74-44cf-9c35-ef59073224ad")
 		)
@@ -52821,6 +52884,15 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 829.31 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C696808"
 			(at 829.31 137.16 0)
 			(effects
 				(font
@@ -60780,7 +60852,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SOD-323/0805 功率350W VBWM=3.3V 双向 空气30KA 接触30KA"
 			(at 795.655 346.71 0)
 			(effects
 				(font
@@ -60862,6 +60934,15 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
+			(at 795.655 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C316020"
 			(at 795.655 346.71 0)
 			(effects
 				(font
@@ -65217,7 +65298,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TPESD56151W04 ESD二极管"
 			(at 1027.43 402.59 0)
 			(effects
 				(font
