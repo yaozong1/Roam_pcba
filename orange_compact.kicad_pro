@@ -885,6 +885,12 @@
           "label": "Price",
           "name": "Price",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
         }
       ],
       "filter_string": "",
