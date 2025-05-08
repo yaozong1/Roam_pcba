@@ -29405,7 +29405,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 1056.3352 435.61 0)
 			(effects
 				(font
@@ -30054,7 +30054,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "8.2nf"
+		(property "Value" "8.2nF"
 			(at 81.915 141.6113 0)
 			(effects
 				(font
@@ -30286,7 +30286,7 @@
 				)
 			)
 		)
-		(property "Value" "15k"
+		(property "Value" "15K"
 			(at 763.27 536.575 90)
 			(effects
 				(font
@@ -33041,6 +33041,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "#N/A"
+			(at 647.7 407.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "#N/A"
+			(at 647.7 407.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "849b8564-d2e5-42a8-bac8-871ff15bdd1d")
 		)
@@ -33551,7 +33569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 4.7K OHM 1% 1/10W 0402"
+		(property "Description" "RES 4.7K OHM 1% 1/16W 0402"
 			(at 487.68 421.64 0)
 			(effects
 				(font
@@ -34449,7 +34467,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 717.55 547.37 0)
 			(effects
 				(font
@@ -36089,7 +36107,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1K"
 			(at 294.8686 473.583 0)
 			(effects
 				(font
@@ -36291,7 +36309,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 4.7K OHM 1% 1/10W 0402"
+		(property "Description" "RES 4.7K OHM 1% 1/16W 0402"
 			(at 285.75 370.84 0)
 			(effects
 				(font
@@ -37278,7 +37296,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "’1050170001"
+		(property "MPN" "1050170001"
 			(at 818.515 563.245 0)
 			(effects
 				(font
@@ -37542,6 +37560,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "#N/A"
+			(at 793.115 396.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "#N/A"
+			(at 793.115 396.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f93caa8a-c73f-4e9d-8e89-5cbe76df611c")
 		)
@@ -37687,6 +37723,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "#N/A"
+			(at 833.12 524.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "#N/A"
+			(at 833.12 524.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c691459f-754a-4719-995a-0e08c299ec2c")
 		)
@@ -37787,7 +37841,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100u"
+		(property "Value" "100uF"
 			(at 775.97 147.32 0)
 			(effects
 				(font
@@ -37965,7 +38019,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 756.92 72.3901 0)
 			(effects
 				(font
@@ -38302,7 +38356,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100PF"
+		(property "Value" "100pF"
 			(at 52.451 39.243 0)
 			(effects
 				(font
@@ -38479,7 +38533,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 725.17 547.37 0)
 			(effects
 				(font
@@ -40548,7 +40602,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47k"
+		(property "Value" "47K"
 			(at 801.37 66.0399 0)
 			(effects
 				(font
@@ -41441,7 +41495,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22UF"
+		(property "Value" "22uF"
 			(at 366.141 129.413 0)
 			(effects
 				(font
@@ -42815,7 +42869,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 765.81 547.37 0)
 			(effects
 				(font
@@ -43212,6 +43266,24 @@
 			)
 		)
 		(property "LCSC" ""
+			(at 657.86 387.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "#N/A"
+			(at 657.86 387.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "#N/A"
 			(at 657.86 387.35 0)
 			(effects
 				(font
@@ -44167,7 +44239,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10UF"
+		(property "Value" "10uF"
 			(at 262.128 219.2274 0)
 			(effects
 				(font
@@ -44203,7 +44275,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A106KP8NNNC"
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 271.78 218.44 0)
 			(effects
 				(font
@@ -44221,7 +44293,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C19702"
+		(property "JLCPCB Part #" "C96446"
 			(at 271.78 218.44 0)
 			(effects
 				(font
@@ -44513,7 +44585,7 @@
 				)
 			)
 		)
-		(property "Value" "33UH"
+		(property "Value" "33uH"
 			(at 105.41 20.32 90)
 			(effects
 				(font
@@ -45000,7 +45072,7 @@
 				)
 			)
 		)
-		(property "Value" "24pf"
+		(property "Value" "24pF"
 			(at 1037.59 121.92 90)
 			(effects
 				(font
@@ -45937,7 +46009,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 39.37 336.55 0)
 			(effects
 				(font
@@ -47828,7 +47900,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "4k7"
+		(property "Value" "4K7"
 			(at 962.66 516.89 90)
 			(effects
 				(font
@@ -48331,7 +48403,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 406.4 387.35 0)
 			(effects
 				(font
@@ -48690,7 +48762,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1K"
 			(at 420.243 401.0914 0)
 			(effects
 				(font
@@ -50377,7 +50449,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 1056.3352 406.4 0)
 			(effects
 				(font
@@ -50760,7 +50832,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "11k"
+		(property "Value" "11K"
 			(at 161.5186 525.653 0)
 			(effects
 				(font
@@ -51578,7 +51650,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 4.7K OHM 1% 1/10W 0402"
+		(property "Description" "RES 4.7K OHM 1% 1/16W 0402"
 			(at 487.68 384.81 0)
 			(effects
 				(font
@@ -52570,7 +52642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 4.7K OHM 1% 1/10W 0402"
+		(property "Description" "RES 4.7K OHM 1% 1/16W 0402"
 			(at 285.75 363.22 0)
 			(effects
 				(font
@@ -53565,7 +53637,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100u"
+		(property "Value" "100uF"
 			(at 826.262 138.43 0)
 			(effects
 				(font
@@ -53742,7 +53814,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100pf"
+		(property "Value" "100pF"
 			(at 1004.3668 112.903 0)
 			(effects
 				(font
@@ -54711,7 +54783,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7u"
+		(property "Value" "4.7uF"
 			(at 49.53 129.794 0)
 			(effects
 				(font
@@ -54913,7 +54985,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ2RKF10R0X"
+		(property "MPN" "0402WGJ0100TCE"
 			(at 1010.92 106.68 0)
 			(effects
 				(font
@@ -54931,7 +55003,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C413044"
+		(property "JLCPCB Part #" "C25139"
 			(at 1010.92 106.68 0)
 			(effects
 				(font
@@ -55227,6 +55299,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "#N/A"
+			(at 657.86 412.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "#N/A"
+			(at 657.86 412.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "18844e68-b91e-475c-a689-28d1089641ff")
 		)
@@ -55425,7 +55515,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100K"
 			(at 661.67 564.515 90)
 			(effects
 				(font
@@ -57027,7 +57117,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 177.8 32.3913 0)
 			(effects
 				(font
@@ -58167,7 +58257,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1K"
 			(at 290.703 209.3214 0)
 			(effects
 				(font
@@ -58595,7 +58685,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 389.89 387.35 0)
 			(effects
 				(font
@@ -58841,7 +58931,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100K"
 			(at 369.7986 49.403 0)
 			(effects
 				(font
@@ -59018,7 +59108,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100PF"
+		(property "Value" "100pF"
 			(at 52.451 26.543 0)
 			(effects
 				(font
@@ -59186,7 +59276,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10UF"
+		(property "Value" "10uF"
 			(at 263.906 135.636 0)
 			(effects
 				(font
@@ -61456,6 +61546,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "#N/A"
+			(at 793.115 400.685 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "#N/A"
+			(at 793.115 400.685 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9f397050-7fe7-40a1-ab2a-0d0edb2a3ea5")
 		)
@@ -62159,7 +62267,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 186.69 32.3913 0)
 			(effects
 				(font
@@ -62555,7 +62663,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10UF"
+		(property "Value" "10uF"
 			(at 373.761 211.963 0)
 			(effects
 				(font
@@ -62591,7 +62699,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A106KP8NNNC"
+		(property "MPN" "CL10A106MA8NRNC"
 			(at 370.84 210.82 0)
 			(effects
 				(font
@@ -62609,7 +62717,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C19702"
+		(property "JLCPCB Part #" "C96446"
 			(at 370.84 210.82 0)
 			(effects
 				(font
@@ -62789,7 +62897,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1K"
 			(at 401.193 319.8114 0)
 			(effects
 				(font
@@ -63320,7 +63428,7 @@
 				)
 			)
 		)
-		(property "Value" "33UH"
+		(property "Value" "33uH"
 			(at 162.814 19.304 90)
 			(effects
 				(font
@@ -63726,7 +63834,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330k"
+		(property "Value" "330K"
 			(at 161.5186 515.493 0)
 			(effects
 				(font
@@ -65021,7 +65129,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330k"
+		(property "Value" "330K"
 			(at 369.7986 59.563 0)
 			(effects
 				(font
@@ -65048,7 +65156,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 330K OHM 1% 1/10W 0603"
+		(property "Description" "RES SMD 330K OHM 1% 1/10W 0603"
 			(at 368.3 58.42 0)
 			(effects
 				(font
@@ -67348,7 +67456,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "4k7"
+		(property "Value" "4K7"
 			(at 822.96 529.59 90)
 			(effects
 				(font
@@ -67793,6 +67901,24 @@
 			)
 		)
 		(property "LCSC" ""
+			(at 668.02 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "#N/A"
+			(at 668.02 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "#N/A"
 			(at 668.02 389.89 0)
 			(effects
 				(font
@@ -70689,7 +70815,7 @@
 				)
 			)
 		)
-		(property "Value" "2.7UH"
+		(property "Value" "2.7uH"
 			(at 138.43 123.19 90)
 			(effects
 				(font
@@ -71033,7 +71159,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22UF"
+		(property "Value" "22uF"
 			(at 354.711 129.413 0)
 			(effects
 				(font
@@ -71856,7 +71982,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100K"
 			(at 801.37 55.8799 0)
 			(effects
 				(font
