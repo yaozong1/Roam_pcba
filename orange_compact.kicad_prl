@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -36,7 +36,6 @@
       5,
       9,
       10,
-      11,
       13,
       15,
       16,
@@ -59,7 +58,7 @@
       34,
       35
     ],
-    "visible_layers": "ffdfff5_ffffffff",
+    "visible_layers": "000d000_80000001",
     "zone_display_mode": 1
   },
   "git": {
