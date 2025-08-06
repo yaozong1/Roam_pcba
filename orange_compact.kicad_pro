@@ -49,7 +49,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.2
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -889,8 +889,14 @@
         },
         {
           "group_by": false,
-          "label": "LCSC Part #",
-          "name": "LCSC Part #",
+          "label": "Mouser Testing Part Number",
+          "name": "Mouser Testing Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Testing Price/Stock",
+          "name": "Mouser Testing Price/Stock",
           "show": false
         }
       ],
