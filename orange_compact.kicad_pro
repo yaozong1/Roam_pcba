@@ -600,7 +600,7 @@
       "plot": "../Orange_lite_p1/",
       "pos_files": "",
       "specctra_dsn": "roam.dsn",
-      "step": "../../../EDGE_A42C.step",
+      "step": "../../../EDGE_XL.step",
       "svg": "",
       "vrml": "roam-phase-1.wrl"
     },
@@ -958,7 +958,7 @@
   "sheets": [
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
-      "Root"
+      "根目录"
     ]
   ],
   "text_variables": {}

@@ -41497,7 +41497,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_Micro-B_Molex-105017-0001"
+		(property "Footprint" "Connector_USB:USB_Micro-B_Molex_47346-0001"
 			(at 850.9 384.81 0)
 			(effects
 				(font
@@ -48491,7 +48491,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_Micro-B_Molex-105017-0001"
+		(property "Footprint" "Connector_USB:USB_Micro-B_Molex_47346-0001"
 			(at 147.32 412.75 0)
 			(effects
 				(font
