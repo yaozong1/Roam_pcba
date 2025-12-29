@@ -66983,15 +66983,15 @@
 	(symbol
 		(lib_id "Connector:Conn_01x11_Pin")
 		(at 26.67 514.35 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c769e669-eb95-47cc-82ac-fb66c673176f")
 		(property "Reference" "J9"
-			(at 27.305 496.57 0)
+			(at 27.305 532.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66999,14 +66999,14 @@
 			)
 		)
 		(property "Value" "Conn_01x11_Pin"
-			(at 27.305 499.11 0)
+			(at 27.305 529.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_B11B-XH-A_1x11_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_XH_S11B-XH-A-1_1x11_P2.50mm_Horizontal"
 			(at 26.67 514.35 0)
 			(effects
 				(font
