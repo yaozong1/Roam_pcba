@@ -597,7 +597,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "./",
-      "plot": "../Orange_lite_p1/",
+      "plot": "../Gerber_EDGE_E42C_XL_V1.1/",
       "pos_files": "",
       "specctra_dsn": "roam.dsn",
       "step": "../Gerber_EDGE_E42C_XL_V1.1/EDGE_XL_V1.1.step",
