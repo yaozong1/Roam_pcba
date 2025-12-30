@@ -49,7 +49,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.0
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -600,7 +600,7 @@
       "plot": "../Orange_lite_p1/",
       "pos_files": "",
       "specctra_dsn": "roam.dsn",
-      "step": "../../../EDGE_XL.step",
+      "step": "../Gerber_EDGE_E42C_XL_V1.1/EDGE_XL_V1.1.step",
       "svg": "",
       "vrml": "roam-phase-1.wrl"
     },
