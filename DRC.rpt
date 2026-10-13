@@ -1,0 +1,461 @@
+** Drc report for roam_edge_xl.kicad_pcb **
+** Created on 2026-05-25T16:04:09+0300 **
+
+** Found 122 DRC violations **
+[annular_width]: Annular width (board setup constraints min annular width 0.0750 mm; actual -0.0031 mm)
+    Rule: board setup constraints; error
+    @(29.8250 mm, 103.0000 mm): PTH pad
+[annular_width]: Annular width (board setup constraints min annular width 0.0750 mm; actual -0.0031 mm)
+    Rule: board setup constraints; error
+    @(33.1750 mm, 103.0000 mm): PTH pad
+[annular_width]: Annular width (board setup constraints min annular width 0.0750 mm; actual -0.0049 mm)
+    Rule: board setup constraints; error
+    @(23.5525 mm, 63.2200 mm): PTH pad
+[annular_width]: Annular width (board setup constraints min annular width 0.0750 mm; actual -0.0049 mm)
+    Rule: board setup constraints; error
+    @(23.5525 mm, 94.2200 mm): PTH pad
+[items_not_allowed]: Items not allowed (keepout area)
+    Rule: keepout area; error
+    @(91.1600 mm, 58.1900 mm): Track [/SIM_VDD] on BOTTOM, length 2.2203 mm
+[items_not_allowed]: Items not allowed (keepout area)
+    Rule: keepout area; error
+    @(89.5900 mm, 56.6200 mm): Track [/SIM_VDD] on BOTTOM, length 5.2000 mm
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.1600 mm; actual 0.1485 mm) (Signal)
+    Rule: board setup constraints; warning
+    @(20.0400 mm, 46.1200 mm): Zone [GND] on TOP, BOTTOM and 4 more
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.1600 mm; actual 0.1492 mm) (GND02)
+    Rule: board setup constraints; warning
+    @(62.4090 mm, 76.0890 mm): Via [/FLASH_CS] on TOP - BOTTOM
+    @(20.0400 mm, 46.1200 mm): Zone [GND] on TOP, BOTTOM and 4 more
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.1600 mm; actual 0.1567 mm) (PWR03)
+    Rule: board setup constraints; warning
+    @(20.0400 mm, 46.1200 mm): Zone [GND] on TOP, BOTTOM and 4 more
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.1600 mm; actual 0.1563 mm) (TOP)
+    Rule: board setup constraints; warning
+    @(20.0400 mm, 46.1200 mm): Zone [GND] on TOP, BOTTOM and 4 more
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.1600 mm; actual 0.1516 mm) (BOTTOM)
+    Rule: board setup constraints; warning
+    @(20.0400 mm, 46.1200 mm): Zone [GND] on TOP, BOTTOM and 4 more
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.1600 mm; actual 0.1568 mm) (Signal)
+    Rule: board setup constraints; warning
+    @(20.0400 mm, 46.1200 mm): Zone [GND] on TOP, BOTTOM and 4 more
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.1600 mm; actual 0.1492 mm) (GND01)
+    Rule: board setup constraints; warning
+    @(62.4090 mm, 76.0890 mm): Via [/FLASH_CS] on TOP - BOTTOM
+    @(20.0400 mm, 46.1200 mm): Zone [GND] on TOP, BOTTOM and 4 more
+[clearance]: Clearance violation (board minimum clearance 0.1500 mm; actual 0.0898 mm)
+    Local override; error
+    @(69.0670 mm, 82.4930 mm): Track [/PWRKEY] on GND02, length 7.0329 mm
+    @(73.6010 mm, 77.4430 mm): Via [GND] on TOP - BOTTOM
+[clearance]: Clearance violation (board minimum clearance 0.1500 mm; actual 0.1410 mm)
+    Local override; error
+    @(93.0400 mm, 97.5200 mm): Via [GND] on TOP - BOTTOM
+    @(95.2310 mm, 96.7680 mm): Pad 9 on BOTTOM
+[clearance]: Clearance violation (netclass 'Power' clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: netclass 'Power'; error
+    @(56.7810 mm, 86.6680 mm): Track [3V3_ALWAYS_ON] on BOTTOM, length 1.6000 mm
+    @(56.2660 mm, 87.2180 mm): Pad 12 on BOTTOM
+[clearance]: Clearance violation (board minimum clearance 0.1500 mm; actual 0.1250 mm)
+    Local override; error
+    @(56.2810 mm, 86.7030 mm): Pad 1 on BOTTOM
+    @(55.8060 mm, 86.5674 mm): Via [/ACC_INT] on TOP - BOTTOM
+[clearance]: Clearance violation (board minimum clearance 0.1500 mm; actual 0.1150 mm)
+    Local override; error
+    @(56.2810 mm, 86.7030 mm): Pad 1 on BOTTOM
+    @(56.2660 mm, 87.2180 mm): Pad 12 on BOTTOM
+[clearance]: Clearance violation (board minimum clearance 0.1500 mm; actual 0.1000 mm)
+    Local override; error
+    @(57.7810 mm, 86.7030 mm): Pad 4 on BOTTOM
+    @(57.7960 mm, 87.2030 mm): Pad 5 on BOTTOM
+[clearance]: Clearance violation (netclass 'Power' clearance 0.1500 mm; actual 0.1150 mm)
+    Rule: netclass 'Power'; error
+    @(56.2810 mm, 88.2330 mm): Pad 10 on BOTTOM
+    @(56.2660 mm, 87.7180 mm): Pad 11 on BOTTOM
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(85.4900 mm, 55.0200 mm): Footprint J7
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(85.4900 mm, 55.0200 mm): Footprint J7
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(58.1810 mm, 74.6180 mm): Footprint U25
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(100.7510 mm, 81.1530 mm): Footprint C9
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(74.7610 mm, 78.2180 mm): Footprint C15
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(75.3810 mm, 74.7180 mm): Footprint C34
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(102.0010 mm, 75.5180 mm): Footprint C39
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(70.0810 mm, 75.0680 mm): Footprint CP1
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(121.7650 mm, 65.5200 mm): Footprint J10
+    @(124.3150 mm, 62.0533 mm): Footprint J13
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(90.5310 mm, 87.4680 mm): Footprint U8
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(102.0010 mm, 73.3180 mm): Footprint C38
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(100.3310 mm, 90.2730 mm): Footprint J3
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(124.3150 mm, 55.1200 mm): Footprint J11
+    @(121.7650 mm, 58.5867 mm): Footprint J12
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(73.8310 mm, 86.5680 mm): Footprint C64
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(93.1310 mm, 86.8680 mm): Footprint C67
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+    @(71.5310 mm, 79.9680 mm): Footprint U11
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+    @(87.2310 mm, 86.3680 mm): Footprint R39
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+    @(102.0010 mm, 74.4180 mm): Footprint C37
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+    @(102.2010 mm, 80.7130 mm): Footprint R12
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+    @(101.9310 mm, 77.4680 mm): Footprint TP17
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+    @(95.8935 mm, 87.5180 mm): Footprint Q6
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+    @(74.3560 mm, 76.7430 mm): Footprint C36
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+    @(73.3560 mm, 70.4180 mm): Footprint C119
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+    @(102.4310 mm, 68.8680 mm): Footprint CP3
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+    @(73.5310 mm, 83.3180 mm): Footprint C55
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+    @(74.3810 mm, 74.7180 mm): Footprint C35
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+    @(75.3810 mm, 76.7180 mm): Footprint D6
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(88.0310 mm, 75.3930 mm): Footprint U7
+    @(87.2310 mm, 87.4680 mm): Footprint R40
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(121.7650 mm, 58.5867 mm): Footprint J12
+    @(124.3150 mm, 62.0533 mm): Footprint J13
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(56.4010 mm, 89.3730 mm): Footprint C45
+    @(57.0310 mm, 87.4680 mm): Footprint U13
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; warning
+    @(76.9310 mm, 75.3930 mm): Footprint Q5
+    @(71.0310 mm, 73.3680 mm): Footprint U5
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(136.0400 mm, 46.9200 mm): Segment on Edge.Cuts
+    @(117.2443 mm, 50.9180 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(25.2400 mm, 106.9200 mm): Segment on Edge.Cuts
+    @(117.2420 mm, 102.9243 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(25.2400 mm, 106.9200 mm): Segment on Edge.Cuts
+    @(117.2400 mm, 106.9200 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(25.2201 mm, 102.9399 mm): Arc on Edge.Cuts
+    @(25.2400 mm, 106.9200 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(25.2201 mm, 102.9399 mm): Arc on Edge.Cuts
+    @(25.2400 mm, 102.9200 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(25.2400 mm, 50.9200 mm): Arc on Edge.Cuts
+    @(21.2400 mm, 50.9157 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(25.2400 mm, 50.9200 mm): Arc on Edge.Cuts
+    @(25.2380 mm, 50.9157 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(25.2400 mm, 50.9200 mm): Arc on Edge.Cuts
+    @(25.2400 mm, 46.9200 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(25.2400 mm, 50.9200 mm): Arc on Edge.Cuts
+    @(117.2443 mm, 46.9200 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(25.2201 mm, 102.9399 mm): Circle on Edge.Cuts
+    @(25.2400 mm, 102.9200 mm): Circle on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(117.2400 mm, 102.9200 mm): Circle on Edge.Cuts
+    @(117.2400 mm, 102.9200 mm): Circle on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(25.2400 mm, 50.9200 mm): Circle on Edge.Cuts
+    @(25.2400 mm, 50.9200 mm): Circle on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(117.2400 mm, 50.9200 mm): Circle on Edge.Cuts
+    @(117.2400 mm, 50.9200 mm): Circle on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0917 mm)
+    Rule: board setup constraints silk; warning
+    @(136.0400 mm, 46.9200 mm): Segment on Edge.Cuts
+    @(103.0900 mm, 48.1200 mm): PCB text 'Modem_USB' on B.Silkscreen
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints edge; error
+    @(25.2400 mm, 106.9200 mm): Segment on Edge.Cuts
+    @(116.8400 mm, 104.9200 mm): Dimension '2.8000 mm' on BOTTOM
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(21.2400 mm, 50.9200 mm): Segment on Edge.Cuts
+    @(16.8525 mm, 59.7200 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(21.2400 mm, 50.9200 mm): Segment on Edge.Cuts
+    @(16.8525 mm, 91.8000 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(21.2400 mm, 50.9200 mm): Segment on Edge.Cuts
+    @(16.8525 mm, 97.7200 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0875 mm)
+    Rule: board setup constraints silk; warning
+    @(21.2400 mm, 50.9200 mm): Segment on Edge.Cuts
+    @(21.4525 mm, 66.7200 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0875 mm)
+    Rule: board setup constraints silk; warning
+    @(21.2400 mm, 50.9200 mm): Segment on Edge.Cuts
+    @(21.4525 mm, 90.7200 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(21.2400 mm, 50.9200 mm): Segment on Edge.Cuts
+    @(28.0525 mm, 65.6400 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0875 mm)
+    Rule: board setup constraints silk; warning
+    @(21.2400 mm, 50.9200 mm): Segment on Edge.Cuts
+    @(28.0525 mm, 66.7200 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(122.8400 mm, 48.7200 mm): Rectangle on Edge.Cuts
+    @(123.0450 mm, 56.4500 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.1450 mm)
+    Rule: board setup constraints silk; warning
+    @(122.8400 mm, 48.7200 mm): Rectangle on Edge.Cuts
+    @(123.0450 mm, 53.7900 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(122.8400 mm, 48.7200 mm): Rectangle on Edge.Cuts
+    @(123.0450 mm, 53.7900 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.1350 mm)
+    Rule: board setup constraints silk; warning
+    @(122.8400 mm, 48.7200 mm): Rectangle on Edge.Cuts
+    @(123.0350 mm, 59.9167 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.1350 mm)
+    Rule: board setup constraints silk; warning
+    @(122.8400 mm, 48.7200 mm): Rectangle on Edge.Cuts
+    @(123.0350 mm, 59.9167 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.1350 mm)
+    Rule: board setup constraints silk; warning
+    @(122.8400 mm, 48.7200 mm): Rectangle on Edge.Cuts
+    @(123.0350 mm, 57.2567 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(122.8400 mm, 48.7200 mm): Rectangle on Edge.Cuts
+    @(123.0450 mm, 63.3833 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.1450 mm)
+    Rule: board setup constraints silk; warning
+    @(122.8400 mm, 48.7200 mm): Rectangle on Edge.Cuts
+    @(123.0450 mm, 60.7233 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(122.8400 mm, 48.7200 mm): Rectangle on Edge.Cuts
+    @(123.0450 mm, 60.7233 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.1350 mm)
+    Rule: board setup constraints silk; warning
+    @(122.8400 mm, 48.7200 mm): Rectangle on Edge.Cuts
+    @(123.0350 mm, 66.8500 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.1350 mm)
+    Rule: board setup constraints silk; warning
+    @(122.8400 mm, 48.7200 mm): Rectangle on Edge.Cuts
+    @(123.0350 mm, 66.8500 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.1350 mm)
+    Rule: board setup constraints silk; warning
+    @(122.8400 mm, 48.7200 mm): Rectangle on Edge.Cuts
+    @(123.0350 mm, 64.1900 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(136.0400 mm, 46.9200 mm): Segment on Edge.Cuts
+    @(68.5014 mm, 46.9691 mm): Reference field of Q9
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(25.2400 mm, 106.9200 mm): Segment on Edge.Cuts
+    @(60.3348 mm, 106.6529 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(25.2400 mm, 106.9200 mm): Segment on Edge.Cuts
+    @(68.7168 mm, 107.9585 mm): Segment on F.Silkscreen
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'Through hole'; actual 'SMD')
+    Local override; error
+    @(31.4450 mm, 103.0000 mm): Footprint S1
+[padstack]: Padstack is questionable (PTH pad hole leaves no copper)
+    Local override; error
+    @(29.8250 mm, 103.0000 mm): PTH pad
+[padstack]: Padstack is questionable (PTH pad hole leaves no copper)
+    Local override; error
+    @(33.1750 mm, 103.0000 mm): PTH pad
+[padstack]: Padstack is questionable (PTH pad hole leaves no copper)
+    Local override; error
+    @(23.5525 mm, 63.2200 mm): PTH pad
+[padstack]: Padstack is questionable (PTH pad hole leaves no copper)
+    Local override; error
+    @(23.5525 mm, 94.2200 mm): PTH pad
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'SMD'; actual 'Through hole')
+    Local override; error
+    @(70.0750 mm, 51.1200 mm): Footprint Q9
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'SMD'; actual 'Through hole')
+    Local override; error
+    @(54.9200 mm, 101.7200 mm): Footprint U9
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'SMD'; actual 'Through hole')
+    Local override; error
+    @(130.6400 mm, 67.2789 mm): Footprint Q11
+[lib_footprint_mismatch]: Footprint 'SW-SMD_ESE11MV9T' does not match copy in library 'limit switch'.
+    Local override; warning
+    @(31.4450 mm, 103.0000 mm): Footprint S1
+[lib_footprint_mismatch]: Footprint 'CONN-TH_18P-P2.50_MX23A18NF1' does not match copy in library 'MX23A18NF1'.
+    Local override; warning
+    @(26.5525 mm, 78.7200 mm): Footprint J8
+[lib_footprint_mismatch]: Footprint 'PinHeader_1x02_P2.54mm_Vertical' does not match copy in library 'Connector_PinHeader_2.54mm'.
+    Local override; warning
+    @(124.3150 mm, 55.1200 mm): Footprint J11
+[lib_footprint_mismatch]: Footprint 'PinHeader_1x02_P2.54mm_Vertical' does not match copy in library 'Connector_PinHeader_2.54mm'.
+    Local override; warning
+    @(121.7650 mm, 58.5867 mm): Footprint J12
+[lib_footprint_mismatch]: Footprint 'PinHeader_1x02_P2.54mm_Vertical' does not match copy in library 'Connector_PinHeader_2.54mm'.
+    Local override; warning
+    @(124.3150 mm, 62.0533 mm): Footprint J13
+[lib_footprint_mismatch]: Footprint 'PinHeader_1x02_P2.54mm_Vertical' does not match copy in library 'Connector_PinHeader_2.54mm'.
+    Local override; warning
+    @(121.7650 mm, 65.5200 mm): Footprint J10
+[lib_footprint_mismatch]: Footprint 'Molex_PicoBlade_53048-0310_1x03_P1.25mm_Horizontal' does not match copy in library 'Connector_Molex'.
+    Local override; warning
+    @(99.6810 mm, 95.1680 mm): Footprint J1
+[lib_footprint_mismatch]: Footprint 'L_Changjiang_FXL1040' does not match copy in library 'Inductor_SMD'.
+    Local override; warning
+    @(90.3310 mm, 81.5930 mm): Footprint L12
+[lib_footprint_mismatch]: Footprint 'SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm' does not match copy in library 'Jumper'.
+    Local override; warning
+    @(79.0510 mm, 67.6580 mm): Footprint JP5
+[lib_footprint_issues]: The current configuration does not include the footprint library 'TC-PinSocket'.
+    Local override; warning
+    @(48.6310 mm, 88.0130 mm): Footprint J5
+[lib_footprint_mismatch]: Footprint 'JST_XH_B11B-XH-A_1x11_P2.50mm_Vertical' does not match copy in library 'Connector_JST'.
+    Local override; warning
+    @(36.3900 mm, 97.1200 mm): Footprint J9
+[lib_footprint_mismatch]: Footprint 'SOT-23' does not match copy in library 'Package_TO_SOT_SMD'.
+    Local override; warning
+    @(54.6310 mm, 78.4680 mm): Footprint D16
+[lib_footprint_mismatch]: Footprint 'L_Changjiang_FNR5040S' does not match copy in library 'Inductor_SMD'.
+    Local override; warning
+    @(63.8310 mm, 96.2930 mm): Footprint L8
+[lib_footprint_mismatch]: Footprint 'SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm' does not match copy in library 'Jumper'.
+    Local override; warning
+    @(78.9810 mm, 89.0680 mm): Footprint JP4
+[lib_footprint_mismatch]: Footprint 'ESP32-S2-MINI-1' does not match copy in library 'RF_Module'.
+    Local override; warning
+    @(58.1810 mm, 74.6180 mm): Footprint U25
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(102.7910 mm, 92.1230 mm): Pad on TOP
+    @(20.0400 mm, 46.1200 mm): Zone [GND] on TOP, BOTTOM and 4 more
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(48.4900 mm, 71.0200 mm): Pad on TOP
+    @(20.0400 mm, 46.1200 mm): Zone [GND] on TOP, BOTTOM and 4 more
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(56.2810 mm, 86.7030 mm): Pad 1 on BOTTOM
+    @(56.7810 mm, 86.7030 mm): Pad 2 on BOTTOM
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(56.2810 mm, 86.7030 mm): Pad 1 on BOTTOM
+    @(56.2660 mm, 87.2180 mm): Pad 12 on BOTTOM
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(56.7810 mm, 86.7030 mm): Pad 2 on BOTTOM
+    @(57.2810 mm, 86.7030 mm): Pad 3 on BOTTOM
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(57.2810 mm, 86.7030 mm): Pad 3 on BOTTOM
+    @(57.7810 mm, 86.7030 mm): Pad 4 on BOTTOM
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(57.2810 mm, 86.7030 mm): Pad 3 on BOTTOM
+    @(57.7960 mm, 87.2030 mm): Pad 5 on BOTTOM
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(57.7810 mm, 86.7030 mm): Pad 4 on BOTTOM
+    @(57.7960 mm, 87.2030 mm): Pad 5 on BOTTOM
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(57.2810 mm, 88.2330 mm): Pad 8 on BOTTOM
+    @(56.7810 mm, 88.2330 mm): Pad 9 on BOTTOM
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(56.2810 mm, 88.2330 mm): Pad 10 on BOTTOM
+    @(56.2660 mm, 87.7180 mm): Pad 11 on BOTTOM
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(56.2660 mm, 87.7180 mm): Pad 11 on BOTTOM
+    @(56.2660 mm, 87.2180 mm): Pad 12 on BOTTOM
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
