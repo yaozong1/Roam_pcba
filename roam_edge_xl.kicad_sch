@@ -21287,6 +21287,12 @@
 		(uuid "7a35dc16-7056-4bdc-9b5c-30e7bce9eafc")
 	)
 	(junction
+		(at 124.46 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7a9fb814-4c7e-47f7-a3b2-1953cb357e79")
+	)
+	(junction
 		(at 669.29 518.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -21501,6 +21507,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a189db44-084e-4ac2-9069-a63444b60050")
+	)
+	(junction
+		(at 453.39 509.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a2dc1e5b-ca2c-417a-b860-aaacfd4f9de2")
 	)
 	(junction
 		(at 456.565 509.27)
@@ -21723,12 +21735,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d661b2e1-1542-47dd-803a-fe108053f889")
-	)
-	(junction
-		(at 124.46 31.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d749cffe-aac1-4275-adf0-88ecf9cb3e6a")
 	)
 	(junction
 		(at 388.62 396.24)
@@ -22419,6 +22425,16 @@
 			(type default)
 		)
 		(uuid "05f5cb6f-aa13-475b-991a-9c56a9e938cb")
+	)
+	(wire
+		(pts
+			(xy 453.39 511.81) (xy 453.39 509.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "063c8a75-9008-4963-8f00-10dd7df27dd9")
 	)
 	(wire
 		(pts
@@ -24349,16 +24365,6 @@
 			(type default)
 		)
 		(uuid "317ac130-46bd-4b9f-a867-1bf522385ee2")
-	)
-	(wire
-		(pts
-			(xy 113.03 50.8) (xy 113.03 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "318cfd15-3e1e-4517-8e18-814954f31d10")
 	)
 	(wire
 		(pts
@@ -27612,16 +27618,6 @@
 	)
 	(wire
 		(pts
-			(xy 449.58 511.81) (xy 449.58 518.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7ab90af8-f0d6-465b-919c-23bbe859eb08")
-	)
-	(wire
-		(pts
 			(xy 505.46 54.61) (xy 510.54 54.61)
 		)
 		(stroke
@@ -27709,6 +27705,16 @@
 			(type default)
 		)
 		(uuid "7c92d5f8-f263-4966-9cb5-40bd1bf1643e")
+	)
+	(wire
+		(pts
+			(xy 124.46 46.99) (xy 124.46 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d2f375f-91e1-4af7-8eee-db785eb14b81")
 	)
 	(wire
 		(pts
@@ -28442,6 +28448,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 31.75) (xy 161.29 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f736a1b-d82e-431f-a52b-9dfee57f21ed")
+	)
+	(wire
+		(pts
 			(xy 657.86 548.64) (xy 647.7 548.64)
 		)
 		(stroke
@@ -29039,6 +29055,16 @@
 			(type default)
 		)
 		(uuid "9d9323f2-cb12-4aac-993f-531d7e45a9ac")
+	)
+	(wire
+		(pts
+			(xy 449.58 511.81) (xy 453.39 511.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9dfd3b34-4a4f-4975-9c20-06ceeb6ffd89")
 	)
 	(polyline
 		(pts
@@ -30842,6 +30868,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 36.83) (xy 124.46 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9c0012f-bcae-4aec-ab94-792aeac89a5b")
+	)
+	(wire
+		(pts
 			(xy 621.03 354.33) (xy 652.78 354.33)
 		)
 		(stroke
@@ -31262,16 +31298,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 31.75) (xy 124.46 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d458f1de-0d1f-4fa0-9559-abbef9cf248a")
-	)
-	(wire
-		(pts
 			(xy 980.44 438.15) (xy 937.26 438.15)
 		)
 		(stroke
@@ -31449,16 +31475,6 @@
 			(type default)
 		)
 		(uuid "d833ebb1-8c02-425e-9585-e190537c2b50")
-	)
-	(wire
-		(pts
-			(xy 124.46 31.75) (xy 124.46 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d83b48f0-0941-4950-906b-0b46ebe9b0b4")
 	)
 	(wire
 		(pts
@@ -31972,7 +31988,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 31.75) (xy 118.11 31.75)
+			(xy 118.11 31.75) (xy 124.46 31.75)
 		)
 		(stroke
 			(width 0)
@@ -32019,6 +32035,16 @@
 			(type default)
 		)
 		(uuid "e66e5259-32ec-42d1-a02f-df6eef7547c3")
+	)
+	(wire
+		(pts
+			(xy 453.39 509.27) (xy 456.565 509.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e674ec8a-3ad8-4e50-8da4-58a30ab2a5e5")
 	)
 	(wire
 		(pts
@@ -32742,7 +32768,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 39.37) (xy 113.03 40.64)
+			(xy 113.03 39.37) (xy 113.03 52.07)
 		)
 		(stroke
 			(width 0)
@@ -33052,7 +33078,7 @@
 	)
 	(wire
 		(pts
-			(xy 449.58 509.27) (xy 456.565 509.27)
+			(xy 449.58 509.27) (xy 453.39 509.27)
 		)
 		(stroke
 			(width 0)
@@ -36031,7 +36057,7 @@
 	)
 	(global_label "V_EXT_P"
 		(shape input)
-		(at 146.05 31.75 0)
+		(at 161.29 31.75 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -36041,7 +36067,7 @@
 		)
 		(uuid "d6178c15-81bb-494d-b519-c761a22380d4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 156.6551 31.75 0)
+			(at 171.8951 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44460,7 +44486,7 @@
 				)
 			)
 		)
-		(property "Footprint" "limit switch:SW-SMD_ESE11MV9T"
+		(property "Footprint" "Tamper_Switch:ESE11MV9"
 			(at 445.77 506.73 0)
 			(hide yes)
 			(show_name no)
@@ -54326,84 +54352,6 @@
 		)
 	)
 	(symbol
-		(lib_name "GND_2")
-		(lib_id "power:GND")
-		(at 449.58 518.16 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4f0008aa-982b-45af-a122-c814cc156e04")
-		(property "Reference" "#PWR049"
-			(at 449.58 524.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 449.58 523.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 449.58 518.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 449.58 518.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 449.58 518.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c47c69d1-7d05-49fe-8331-cce4c7dae8a1")
-		)
-		(instances
-			(project "roam_edge_xl"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR049")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 1012.19 270.51 0)
 		(mirror y)
@@ -60888,7 +60836,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SQS201CENW-T1_GE3:PDFN3333-8_L3.1-W3.2-P0.65-LS3.4-BL"
+		(property "Footprint" "PMOS_SQS201CENW:PDFN3333-8_L3.1-W3.2-P0.65-LS3.4-BL"
 			(at 110.49 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -66100,100 +66048,6 @@
 			(project "roam_edge_xl"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PLZ15C:PLZ15C-G3_H")
-		(at 113.03 50.8 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "83ebdaaf-34af-42d2-bece-e60bb422f14a")
-		(property "Reference" "CR2"
-			(at 114.808 50.292 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "PLZ15C-G3/H"
-			(at 125.73 50.8 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "PLZ15C:ZDO_15C-G3&slash_H_VIS"
-			(at 113.03 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/doc?84830"
-			(at 113.03 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 113.03 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "PLZ15C-G3/H"
-			(at 113.03 50.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "2addeecf-9651-423d-b8a4-6554122a39fd")
-		)
-		(pin "1"
-			(uuid "e57d4204-3247-41ad-863b-d01dba43157f")
-		)
-		(instances
-			(project "roam_edge_xl"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "CR2")
 					(unit 1)
 				)
 			)
@@ -82323,6 +82177,100 @@
 			(project "roam_edge_xl"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "U28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PLZ15C:PLZ15C-G3_H")
+		(at 124.46 46.99 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "cb5389d4-e3aa-4f3a-af6e-2d15afd80c0c")
+		(property "Reference" "CR2"
+			(at 126.238 46.482 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "PLZ15C-G3/H"
+			(at 137.16 46.99 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "PLZ15C:ZDO_15C-G3&slash_H_VIS"
+			(at 124.46 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?84830"
+			(at 124.46 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 124.46 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "PLZ15C-G3/H"
+			(at 124.46 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "618318a9-e333-4c5b-80e8-52dcd7bf85b2")
+		)
+		(pin "1"
+			(uuid "a5df2b78-3d74-43e4-8f3a-2c930e331c6d")
+		)
+		(instances
+			(project "roam_edge_xl"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "CR2")
 					(unit 1)
 				)
 			)
