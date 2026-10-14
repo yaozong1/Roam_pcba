@@ -20771,12 +20771,6 @@
 		(uuid "1476b8fd-7362-4cf5-9fa6-1cb93f4b88df")
 	)
 	(junction
-		(at 817.88 179.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "18baff01-adf8-4eb7-8b70-cb863e87ff3a")
-	)
-	(junction
 		(at 321.31 306.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -21173,6 +21167,12 @@
 		(uuid "62b1d1a3-3558-49db-aa93-4d4bcdd1dbe2")
 	)
 	(junction
+		(at 817.88 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6356a199-3972-4a52-966c-a0144ee49452")
+	)
+	(junction
 		(at 636.905 485.775)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -21567,6 +21567,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "abb908d4-e615-4eab-953c-a3c8a84ff683")
+	)
+	(junction
+		(at 807.72 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "abc33a8c-a52f-445a-b0f9-4357d80f2b8f")
 	)
 	(junction
 		(at 134.62 123.19)
@@ -22455,6 +22461,16 @@
 			(type default)
 		)
 		(uuid "07500252-863a-4461-8f18-bb51e3c9f02c")
+	)
+	(wire
+		(pts
+			(xy 807.72 179.07) (xy 807.72 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "076d6d86-fdd2-46ba-9875-c0a7954a1ca3")
 	)
 	(wire
 		(pts
@@ -25305,6 +25321,16 @@
 			(type default)
 		)
 		(uuid "44dba6fc-aefd-413b-a252-d1627564cbb1")
+	)
+	(wire
+		(pts
+			(xy 807.72 186.69) (xy 807.72 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4503950b-b7a2-4580-899b-85691faffa01")
 	)
 	(wire
 		(pts
@@ -28428,7 +28454,7 @@
 	)
 	(wire
 		(pts
-			(xy 811.53 179.07) (xy 817.88 179.07)
+			(xy 798.83 179.07) (xy 807.72 179.07)
 		)
 		(stroke
 			(width 0)
@@ -32048,6 +32074,16 @@
 	)
 	(wire
 		(pts
+			(xy 807.72 179.07) (xy 817.88 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e746cd31-fefd-4430-bfd3-69c27b3398e4")
+	)
+	(wire
+		(pts
 			(xy 621.03 333.375) (xy 621.03 354.33)
 		)
 		(stroke
@@ -35487,7 +35523,7 @@
 	)
 	(global_label "3V3_ANT"
 		(shape input)
-		(at 811.53 179.07 180)
+		(at 798.83 179.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -35497,7 +35533,7 @@
 		)
 		(uuid "7aaa7626-9670-43c3-b978-8a2c727fd4ee")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 801.3371 179.07 0)
+			(at 788.6371 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40746,7 +40782,7 @@
 				)
 			)
 		)
-		(property "Value" "51nH"
+		(property "Value" "68nH"
 			(at 839.47 185.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40778,7 +40814,7 @@
 				)
 			)
 		)
-		(property "Description" "FIXED IND 47NH 200MA 1.2 OHM SMD"
+		(property "Description" "FIXED IND 68NH 200MA 1.2 OHM SMD"
 			(at 833.12 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -40789,7 +40825,7 @@
 				)
 			)
 		)
-		(property "MPN" "MLG1005S51NJTD25"
+		(property "MPN" "SDCL1005C68NJTDF"
 			(at 833.12 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -40910,7 +40946,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1329469"
+		(property "LCSC Part" "C32836"
 			(at 833.12 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -56060,6 +56096,219 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 807.72 184.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5aba4706-0da8-44fd-9d93-c62b035247f3")
+		(property "Reference" "C101"
+			(at 798.322 186.182 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 798.83 184.15 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 807.72 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 807.72 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "CAP CER 0.1UF 16V X7R 0402"
+			(at 807.72 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
+			(at 807.72 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field5" ""
+			(at 807.72 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description_1" ""
+			(at 807.72 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SNAPEDA_PN" ""
+			(at 807.72 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Availability" ""
+			(at 807.72 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Check_prices" ""
+			(at 807.72 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 807.72 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PARTREV" ""
+			(at 807.72 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "STANDARD" ""
+			(at 807.72 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 807.72 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Desc" ""
+			(at 807.72 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1525"
+			(at 807.72 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "395dbfc7-65dc-4c91-8b8f-a014375d7679")
+		)
+		(pin "2"
+			(uuid "9d8d8af3-e54d-4eab-9af8-b93822109feb")
+		)
+		(instances
+			(project "roam_edge_xl"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "C101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 110.49 415.29 0)
 		(unit 1)
@@ -58048,8 +58297,8 @@
 				)
 			)
 		)
-		(property "Value" "24pf"
-			(at 853.44 194.31 90)
+		(property "Value" "100pf"
+			(at 851.662 191.262 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -58080,7 +58329,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 0.024UF 50V C0G 0402"
+		(property "Description" "CAP CER 100pf 50V C0G 0402"
 			(at 850.9 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -58091,7 +58340,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM1555C1H240JA01D"
+		(property "MPN" "0402CG101J500NT"
 			(at 850.9 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -58212,7 +58461,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C161543"
+		(property "LCSC Part" "C1546"
 			(at 850.9 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -71116,7 +71365,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "0"
 			(at 826.77 179.07 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71148,7 +71397,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 10 OHM 1% 1/16W 0402"
+		(property "Description" "RES 0 OHM 1% 1/16W 0402"
 			(at 826.77 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -71159,7 +71408,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW040210R0FKED"
+		(property "MPN" "0402WGF0000TCE"
 			(at 826.77 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -71280,7 +71529,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C481926"
+		(property "LCSC Part" "C17168"
 			(at 826.77 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -80781,6 +81030,83 @@
 			(project "roam_edge_xl"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 807.72 187.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c85201e7-521d-4859-8f68-86ab11dc6531")
+		(property "Reference" "#PWR027"
+			(at 807.72 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 807.847 192.3542 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 807.72 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 807.72 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 807.72 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9730b791-6bda-4b43-ac99-82147a563f10")
+		)
+		(instances
+			(project "roam_edge_xl"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
