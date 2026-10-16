@@ -691,7 +691,7 @@
       "plot": "../Edge+_Fab/GBR_only",
       "pos_files": "../Edge+_Fab/GBR_only/",
       "specctra_dsn": "roam.dsn",
-      "step": "EDGE_+.step",
+      "step": "../../../EDGE_+.step",
       "svg": "",
       "vrml": "roam-phase-1.wrl"
     },
